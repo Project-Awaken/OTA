@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1622214761,
-      "filename": "awaken_beryllium-1.5.2-Azure-OFFICIAL-gapps-20210120-0777.zip",
-      "id": "babbae0675d09e8cbf957bf1cdd337a3",
+      "datetime":1611458534,
+      "filename": "awaken_beryllium-1.5.2-Azure-OFFICIAL-gapps-20210124-0423.zip",
+      "id": "2e8c6a6cd01a4d13e176b5203a424c04",
       "romtype": "OFFICIAL",
-      "size":1575945463,
-      "url": "https://sourceforge.net/projects/project-awaken/files/v1.5.1/beryllium/awaken_beryllium-1.5.1-Azure-OFFICIAL-gapps-20210115-1143.zip/download",
+      "size":1427525457,
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.5.2-Azure-OFFICIAL-gapps-20210124-0423.zip/download",
       "version": "1.5.2"
     }
   ]

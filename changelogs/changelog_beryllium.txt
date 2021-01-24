@@ -1,1 +1,36 @@
-Test
+===============
+01-24-2021
+===============
+Source Changelog:
+• Added support for OTA updates
+• Added support for OEM fast charger detection
+• Imported Ambient display Now playing from Pixel devices
+• Added option to customize the position of now playing
+• Added option to customize system wide switches
+• Added option to enable Now Playing in at a glance
+• Added support for FM Radio
+• Added manrope font
+• Removed 5x6 and 6x7 grids (looks scuffed)
+• Fixed sim selection issue
+• Fix black screen issue due to wallpaper decoding exceptions 
+• Removed applock 
+• Removed fingerprint icon from lockscreen
+• Fixed NPE on Global settings dialog (Power Menu)
+• Updated and improved Quick Settings panel layout in favour of devices with notch
+• Improved layout of sim select dialog
+
+Device Changelog:
+• Enabled blur by default
+• Inline init with crosshatch
+• Modified cpusets yet again for better UX
+• Removed prebuilt Dolby
+• Extend buffer size to 256kb for offload playback
+• Enable camera hal buffer management
+• Import renderscript drivers from crosshatch
+• Fixed Mic issues in whatsapp 
+• Switch to AIDL light hal
+• Updated brightness configuration from stock
+• Fixed HDR issues in chrome
+• Fixed portrait mode in ANX camera
+• Fixed random jitters/stutters
+• Miscellaneous improvements
