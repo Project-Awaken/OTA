@@ -1,0 +1,27 @@
+===============
+01-24-2021
+===============
+Source Changelog:
+• Added support for OTA updates
+• Added support for OEM fast charger detection
+• Imported Ambient display Now playing from Pixel devices
+• Added option to customize the position of now playing
+• Added option to customize system wide switches
+• Added option to enable Now Playing in at a glance
+• Added support for FM Radio
+• Added manrope font
+• Removed 5x6 and 6x7 grids (looks scuffed)
+• Fixed sim selection issue
+• Fix black screen issue due to wallpaper decoding exceptions 
+• Removed applock 
+• Removed fingerprint icon from lockscreen
+• Fixed NPE on Global settings dialog (Power Menu)
+• Updated and improved Quick Settings panel layout in favour of devices with notch
+• Improved layout of sim select dialog
+
+Device Changelog:
+• upstreamed Kernel
+• update DRM
+• disable WPA3
+• use redfin fingerprint
+• adress some more denial
