@@ -1,5 +1,5 @@
 ===============
-01-27-2021
+01-29-2021
 ===============
 Source Changelog:
 • Added support for OTA updates
@@ -20,7 +20,4 @@ Source Changelog:
 • Improved layout of sim select dialog
 
 Device Changelog:
-• CTS fixed, google pay working
-• Fully fixed proximity sensor
-• Switched back to AOSP BT stack
-• Fixed some graphic glitches
+• Fixed GCam and camera lags
