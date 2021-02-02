@@ -1,0 +1,28 @@
+===============
+02-02-2021
+===============
+Source Changelog:
+• Merged February security patch (r30)
+• Option to toggle Qs media player
+• Added pocket mode
+• Added smart charging
+• Added option to enable fingerprint authentication while using pocket mode
+• Added OOS styled network traffic indicator
+• Added option to increase/decrease size of statusbar and qs panel clock
+• Added option to adjust opacity of qs panel header
+• Added animated clocks
+• Added option to disable qs drag handle
+• Added faceunlock animation
+• Added clipboard toast toggle
+• Fixed old mobile style getting resetted after reboot
+• Fixed padding between battery icon and signal cluster
+• Fixed overlapping of ambient music ticker with charging animation
+• Improved Quick settings panel UI
+• Improved power menu layout 
+• Reworked animations timings
+
+Device Changelog:
+• Initial Build from new maintainer (@ArixElo)
+• CyberBonk+ kernel included (by @Marco03)
+• Clean Flash required if you are been on previous build of Awaken.
+
