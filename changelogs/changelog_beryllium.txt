@@ -28,3 +28,9 @@ Device Changelog:
 • Updated build fingerprint from redfin's february update
 • Enabled smart charging
 • Major performance improvement
+
+===========================
+02-02-2021 - Hotfix Update
+===========================
+• Fixed issues with webview (Not able to sign in after clean flash)
+• Fixed issues with gyroscope sensor
