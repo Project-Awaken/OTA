@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime":1611458534,
-      "filename": "awaken_beryllium-1.5.2-Azure-OFFICIAL-gapps-20210124-0423.zip",
-      "id": "2e8c6a6cd01a4d13e176b5203a424c04",
+      "datetime":1612241547,
+      "filename": "awaken_beryllium-1.6-Sienna-OFFICIAL-gapps-20210202-1023.zip",
+      "id": "39e1de4345717e7d257f7a2b48e9f12f",
       "romtype": "OFFICIAL",
-      "size":1427525457,
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.5.2-Azure-OFFICIAL-gapps-20210124-0423.zip/download",
-      "version": "1.5.2"
+      "size":1420126208,
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.6-Sienna-OFFICIAL-gapps-20210202-1023.zip/download",
+      "version": "1.6"
     }
   ]
 }
