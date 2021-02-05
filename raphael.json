@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime":1611582923,
-      "filename": "awaken_raphael-1.5.2-Azure-OFFICIAL-gapps-20210125-1927.zip",
-      "id": "5960720ea8f8b13e86441900a2685455",
+      "filename": "awaken_raphael-1.6-Sienna-OFFICIAL-gapps-20210205-0948.zip",
+      "id": "a3961c51c3aad7f8e07e40d717fc9d14",
       "romtype": "OFFICIAL",
-      "size":1199446747,
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken_raphael-1.5.2-Azure-OFFICIAL-gapps-20210125-1927.zip/download",
-      "version": "1.5.2"
+      "size":1199747555,
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken_raphael-1.6-Sienna-OFFICIAL-gapps-20210205-0948.zip/download",
+      "version": "1.6"
     }
   ]
 }
