@@ -1,40 +1,34 @@
 ===============
-01-31-2021
+02-06-2021
 ===============
 Source Changelog:
-• Added support for OTA updates
-• Added support for OEM fast charger detection
-• Imported Ambient display Now playing from Pixel devices
-• Added option to customize the position of now playing
-• Added option to customize system wide switches
-• Added option to enable Now Playing in at a glance
-• Added support for FM Radio
-• Added manrope font
-• Removed 5x6 and 6x7 grids (looks scuffed)
-• Fixed sim selection issue
-• Fix black screen issue due to wallpaper decoding exceptions 
-• Removed applock 
-• Removed fingerprint icon from lockscreen
-• Fixed NPE on Global settings dialog (Power Menu)
-• Updated and improved Quick Settings panel layout in favour of devices with notch
-• Improved layout of sim select dialog
+• Merged February security patch (r30)
+• Option to toggle Qs media player
+• Added pocket mode
+• Added smart charging
+• Added option to enable fingerprint authentication while using pocket mode
+• Added OOS styled network traffic indicator
+• Added option to increase/decrease size of statusbar and qs panel clock
+• Added option to adjust opacity of qs panel header
+• Added animated clocks
+• Added option to disable qs drag handle
+• Added faceunlock animation
+• Added clipboard toast toggle
+• Fixed old mobile style getting resetted after reboot
+• Fixed padding between battery icon and signal cluster
+• Fixed overlapping of ambient music ticker with charging animation
+• Improved Quick settings panel UI
+• Improved power menu layout 
+• Reworked animations timings
 
 Device Changelog:
-• twrp (jasmine_sprout): Fixed twrp warning after flashing magisk
-• telephony: Fixed Volte call and RIL crash
-• sdm660-common: Update telephony from LA.QSSI.11.0.r1-09400-qssi.0 
-• sdm660-common: Add 3.0 and 4.0 IMapper instance to manifest
-• sdm660-common: Format fstab with FBE encryption
-• sdm660-common: sepolicy: Allow ota updater to access package file
-• sdm660-common: Enable WiFi display, once again 
-• sdm660-common: Update WFD and Time services blobs 
-• sdm660-common: Change USB autosuspend delay to 7s by commandline
-• sdm660-common: Remove unused entries from config.fs
-• sdm660-common: Remove unused gps certificates 
-• sdm660-common: gps: Ignore some build warnings
-• sdm660-common: gps: Resolve unused parameter warnings 
-• sdm660-common: gps: Lower debug level
-• sdm660-common: gps: Increase batch size to max 
-• sdm660-common: gps: disable unused location services
-• sdm660-common: gps: Checkout gps hal from LA.UM.8.2.r1-07400-sdm660.0 
-• sdm660-common: Regenerate and add missing blob with proper permission
+• Upstream kernel to linux stable v4.4.255
+• configs: Retune media_codecs_performance
+• overlay: Enable smart charging
+• DeviceSettings: Fix null object reference of thermal
+• overlay: Adjust overlay with source 
+• DeviceSettings: Drop userspace hall switcher
+• Use QCOM_WLAN HAL instead of AOSP
+• Upstream wlan hal to 'LA.UM.9.2.r1-02000-SDMxx0.0
+• Fixed hotspot for both 2.4GHz and 5GHz
+• Fixed DUAL AP (You can share wifi through hotspot)
