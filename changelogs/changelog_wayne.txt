@@ -1,34 +1,55 @@
 ===============
-02-06-2021
+02-17-2021
 ===============
 Source Changelog:
-• Merged February security patch (r30)
-• Option to toggle Qs media player
-• Added pocket mode
-• Added smart charging
-• Added option to enable fingerprint authentication while using pocket mode
-• Added OOS styled network traffic indicator
-• Added option to increase/decrease size of statusbar and qs panel clock
-• Added option to adjust opacity of qs panel header
-• Added animated clocks
-• Added option to disable qs drag handle
-• Added faceunlock animation
-• Added clipboard toast toggle
-• Fixed old mobile style getting resetted after reboot
-• Fixed padding between battery icon and signal cluster
-• Fixed overlapping of ambient music ticker with charging animation
+-----------------
+• Added long screenshot
+• Added OnePlus Sans font
+• Added toggle to hide statusbar in lockscreen
+• Added VoWIFI icon
+• Added support for multi-sim ringtone
+• Added toggles for qs footer icons 
+• Added faded ambient notification pulse
+• Added screen off animations to choose from
+• Added aggressive battery option
+• Added option to block sensors for apps
+• Added battery bar option
+• Added option to adjust home handle thickness
+• Added back statusbar tuner
+• Fixed unusual spacing in QS panel
+• Fixed Font scale validator
+• Fixed NPE on ExpandableNotificationRow
+• Fixed FOD icon flicker issue
 • Improved Quick settings panel UI
-• Improved power menu layout 
-• Reworked animations timings
+• Updated brightness thumb vector
+• Improved Network traffic layout
+• Moved QQS brghtness slider to bottom
 
 Device Changelog:
-• Upstream kernel to linux stable v4.4.255
-• configs: Retune media_codecs_performance
-• overlay: Enable smart charging
-• DeviceSettings: Fix null object reference of thermal
-• overlay: Adjust overlay with source 
-• DeviceSettings: Drop userspace hall switcher
-• Use QCOM_WLAN HAL instead of AOSP
-• Upstream wlan hal to 'LA.UM.9.2.r1-02000-SDMxx0.0
-• Fixed hotspot for both 2.4GHz and 5GHz
-• Fixed DUAL AP (You can share wifi through hotspot)
+-----------------
+• Upstream kernel to linux stable v4.4.257
+• net/wireguard: Update wiredguard to v1.0.20210124
+• apex: Symlink metadata to existing sessions 
+• Stop inheriting depricated gapps makefile
+• Handle vendor.audio.adm.buffering.ms for lavender
+• Move some props to system/build.prop 
+• add external sdcard to fstab.qcom
+• Add back zRam block in fstab
+• ueventd: Allow system permission for RPS sysfs node 
+• ueventd.qcom.rc: Add permissions to /dev/membuf 
+• ueventd.qcom.rc: Add mhi diag pipe device rules 
+• overlay: configure SQLite to operate in MEMORY mode 
+• Enable fluence voice recording 
+• Add 2 instance support for record_24 
+• Add required GPU props 
+• drop sched_enable_hmp/power_aware boot argument
+• apex: create and symlink a dummy /metadata/apex 
+• audio: Add fast input profile for the record concurrency 
+• audio:Add hotword input for hotword mic concurrency
+• import Hotword Enrollment blobs
+• Drop non-functional soundtrigger
+• Cleanup dead targets 
+• Remove unused libextmedia_jni 
+• Remove unnecessary netutils packages 
+• Remove unnecessary media extension packages 
+• Checkout rootdir and init stuffs from caf 
