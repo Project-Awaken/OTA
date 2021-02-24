@@ -1,38 +1,10 @@
 ===============
-02-19-2021
+02-24-2021
 ===============
 Source Changelog:
 -----------------
-• Added long screenshot
-• Added OnePlus Sans font
-• Added toggle to hide statusbar in lockscreen
-• Added VoWIFI icon
-• Added support for multi-sim ringtone
-• Added toggles for qs footer icons 
-• Added faded ambient notification pulse
-• Added screen off animations to choose from
-• Added aggressive battery option
-• Added option to block sensors for apps
-• Added battery bar option
-• Added option to adjust home handle thickness
-• Added back statusbar tuner
-• Fixed unusual spacing in QS panel
-• Fixed Font scale validator
-• Fixed NPE on ExpandableNotificationRow
-• Fixed FOD icon flicker issue
-• Improved Quick settings panel UI
-• Updated brightness thumb vector
-• Improved Network traffic layout
-• Moved QQS brghtness slider to bottom
+• nothing, as its a device hotfix
 
 Device Changelog:
 -----------------
-• reworked trees
-• Disable WPA2 to WPA3 auto-upgrade in P18 and P19 devices
-• Drop soundtrigger
-• adress more denials
-• Update from China Beta 21.2.3
-• parts: Adapt dimlayer dc dimming sysfs path
-• overlay: Use a mask for rounded corners 
-• Drop contexthub HAL
-• Use Pixel offline charging animation 
+• bring back BT 
