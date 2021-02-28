@@ -1,36 +1,23 @@
 ===============
-02-02-2021
+02-28-2021
 ===============
 Source Changelog:
-• Merged February security patch (r30)
-• Option to toggle Qs media player
-• Added pocket mode
-• Added smart charging
-• Added option to enable fingerprint authentication while using pocket mode
-• Added OOS styled network traffic indicator
-• Added option to increase/decrease size of statusbar and qs panel clock
-• Added option to adjust opacity of qs panel header
-• Added animated clocks
-• Added option to disable qs drag handle
-• Added faceunlock animation
-• Added clipboard toast toggle
-• Fixed old mobile style getting resetted after reboot
-• Fixed padding between battery icon and signal cluster
-• Fixed overlapping of ambient music ticker with charging animation
-• Improved Quick settings panel UI
-• Improved power menu layout 
-• Reworked animations timings
+• Added option for bluetooth dual channel audio mode
+• Added options to customize dialog corner radius and statusbar height (gvisual mod)
+• Settings dashboard now themed similar to android 12
+• Fixed an issue where clear all button appear even on expanded quick settings panel
+• Fixed issues with per app network restrictions
+• Brightness slider improvements
+• Switch art to performance mode if possible
+• Shortened network transition timeout
 
 Device Changelog:
-• Configured sqlite to operate in MEMORY mode
-• Reduced stune boost a bit for better battery backup
-• Addressed a few selinux denials
-• Updated build fingerprint from redfin's february update
-• Enabled smart charging
-• Major performance improvement
-
-===========================
-02-02-2021 - Hotfix Update
-===========================
-• Fixed issues with webview (Not able to sign in after clean flash)
-• Fixed issues with gyroscope sensor
+• Fixed charging LED brightness issue
+• Much Faster boot time
+• Switched to AIDL vibrator hal interface
+• Enabled suspend to idle
+• Updated wfd system blobs
+• Memory management optimisations
+• Addressed some selinux denials
+• Cleaned up network settings preferences
+• Lot more udh improvements
