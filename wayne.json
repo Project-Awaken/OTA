@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime":1613491527,
-      "filename": "awaken_wayne-1.6.1-Sienna-OFFICIAL-gapps-20210216-2212.zip",
-      "id": "2c29565ff3807e5053b57448afa026ee",
+      "datetime":1614608413,
+      "filename": "awaken_wayne-1.6.2-Sienna-OFFICIAL-gapps-20210301-2027.zip",
+      "id": "c0a07b14131592c55cd82b945689e41f",
       "romtype": "OFFICIAL",
-      "size":1354318031,
-      "url": "https://sourceforge.net/projects/project-awaken/files/wayne/awaken_wayne-1.6.1-Sienna-OFFICIAL-gapps-20210216-2212.zip/download",
-      "version": "1.6.1"
+      "size":1385688771,
+      "url": "https://sourceforge.net/projects/project-awaken/files/wayne/awaken_wayne-1.6.2-Sienna-OFFICIAL-gapps-20210301-2027.zip/download",
+      "version": "1.6.2"
     }
   ]
 }
