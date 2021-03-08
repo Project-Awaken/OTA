@@ -1,80 +1,34 @@
 =============================
-03-01-2021:  v1.6.2 - Sienna
+03-08-2021:  v1.6.2 - Sienna
 =============================
 Source Changelog:
 _________________
-• Added option for bluetooth dual channel audio mode
-• Added options to customize dialog corner radius and statusbar height (gvisual mod)
-• Settings dashboard slightly similar to android 12
-• Fixed an issue where clear all button appear even on expanded quick settings panel
-• Fixed issues with per app network restrictions
-• Brightness slider improvements
-• Switch art to performance mode if possible
-• Shortened network transition timeout
+• Merged March Security Patch
+• Dev is busy with exams, so no major update till March
 
 Device Changelog:
 _________________
 # kernel-sdm660
 -----------------
-• Bump HALCYON to v3.8
-• Merge tag 'v4.4.258'from linux stable release 
-• net/wireguard: Update wiredguard to v1.0.20210219
+• Bump HALCYON to v4.0
+• Merge tag 'v4.4.260'from linux stable release
 -----------------
 # sdm660-Commonize
 -----------------
-• Commonize thermal-engine-config from device (2/1)
-• loosen up charging thermal throttling thresholds 
-• Kang more pixel power HAL sepolicy 
-• Add more pixel powerhal nodes
-• Revert "sdm660-common: props: enable vsync and disable backpressure"
-• update Telephony overlays from LA.UM.9.2.1.r1-05500-sdm660 
-• sepolicy: Add rules for older IMS blobs
-• add QTI health implementation
-• apex: Generate APEX image 
-• rootdir: Set permission for spidev7.1 IR node 
-• rootdir: sysfs node permission for smart-charging 
-• Remove Duplicated props 
-• Move some QCOM props to system_ext 
-• Move props from system to product 
-• Update wfd blobs from LA.UM.9.6.2.r1-03300-89xx.0 
-• Uprev vendor.display.config to 2.0
-• Add libdisplayconfig.qti for wfd dependency 
-• init: Handle fingerprint overrides through init
-• init: Remove deprecated property
-• Decommonize screen density
-• Add wowlan_triggers to wpa_supplicant conf
-• Create socket for /dev/socket/audio_hw_socket 
-• Reduce screenshot delay to 0 
-• Move IPA flag to sdm660 make file 
-• rootdir: start themed_bootanimation before bootanim 
-• power-libperfmgr: initialize powerHAL when boot is completed
-• Update graphics from LA.UM.9.6.2.r1-03300-89xx.0
-• Add missing egl symlinks
-• Remove Qdutils_disp entry from manifest 
-• Build libdisplayconfig.qti from source
-• build system_ext variant of libqdMetaData
-• Update blobs from LA.UM.9.6.2.r1-03300-89xx.0
-• Remove unnecessary usage of TOPDIR
-• Don't build tinymix 
-• bluetooth: Undef BLUETOOTH_QTI_SW
-• bluetooth: Disable clean turn on
-• component-override: Enable hfpclient support
-• Set vendor.audio.adm.buffering.ms to 3
-• Build libavservices_minijail
-• Set loop max part to 7 (fixes twrp warning after flashing magisk)
-• Switch to blueprint for DeviceSettings and DeviceDoze
-• Enable QCRIL radio power saving
-• Don't pin camera app in memory
-• Replace miuiCamera with DMGC
-• Update GPS blos from LA.UM.9.6.2.r1-03600-89xx.0
-• Add IQccsyshal for device compatibility
-• Checkout gps hal from LA.UM.9.6.2.r1-03300-89xx.0
-• Update gnss entries and Build new GNSS stack
+• Added back MiuiCamera
+• Fixed Camera on third party apps
+• Fixed twrp warning after flashing magisk
+• Reverted back to LA.UM.8.2.r1 graphics and media stack with old HAL
+• Use default clang set by build/soong
+• Shorten wait time for services exit to optimize shutdown time
+• rootdir: add permission for /dev/sp_keymaster_ssr 
+• sepolicy: Adress system_server denials and Silence logspam 
+• manifest: Fix android.hardware.sensors VINTF 
+• Import gps configs from LA.UM.9.6.2.r1-03600-89xx.0
+• Checkout gps hal from LA.UM.9.6.2.r1-03600-89xx.0
+•  Update some blobs from LA.UM.9.6.2.r1-03600-89xx.0  
+
 -----------------
 # wayne
 -----------------
-• Update vendor SPL from LA.UM.8.2.r1-07400-sdm660.0
-• overlay: Import some device specific overlay
-• Decommonize screen density
-• Switch Channels for Camera Recording 
-• Commonize thermal-engine-config from sdm660 device (2/2)
+• Kang sensors.ssc from PL2_sprout QKQ1.190828.002
