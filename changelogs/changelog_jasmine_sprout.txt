@@ -1,34 +1,32 @@
 =============================
-03-08-2021:  v1.6.2 - Sienna
+03-15-2021:  v1.6.2 - Sienna
 =============================
 Source Changelog:
 _________________
-• Merged March Security Patch
-• Dev is busy with exams, so no major update till March
+• Roll back to February Security Patch
+(To get rid of some issues)
 
 Device Changelog:
 _________________
 # kernel-sdm660
 -----------------
-• Bump HALCYON to v4.0
-• Merge tag 'v4.4.260'from linux stable release
+• Bump HALCYON to v4.1
+• Merge tag 'v4.4.261'from linux stable release
+• ARM: dts: xiaomi: set max brightness to 255
+• Switch to westwood tcp by default
 -----------------
 # sdm660-Commonize
 -----------------
-• Added back MiuiCamera
-• Fixed Camera on third party apps
-• Fixed twrp warning after flashing magisk
-• Reverted back to LA.UM.8.2.r1 graphics and media stack with old HAL
-• Use default clang set by build/soong
-• Shorten wait time for services exit to optimize shutdown time
-• rootdir: add permission for /dev/sp_keymaster_ssr 
-• sepolicy: Adress system_server denials and Silence logspam 
-• manifest: Fix android.hardware.sensors VINTF 
-• Import gps configs from LA.UM.9.6.2.r1-03600-89xx.0
-• Checkout gps hal from LA.UM.9.6.2.r1-03600-89xx.0
-•  Update some blobs from LA.UM.9.6.2.r1-03600-89xx.0  
-
+• Build power stats and label it 
+• Decommonize build.fingerprint
+• Add qrtr blobs
+• power-libperfmgr: Switch to AIDL Power HAL
+• audio: Switch to audio hal v4
+• Fix sensorservice
+• init: Adapt libinit to Android 11
+• Fixed cts
+• Improve battery life 
 -----------------
 # jasmine_sprout
 -----------------
-• Kang sensors.ssc from PL2_sprout QKQ1.190828.002
+• Reverted to sdm660 sensors.ssc
