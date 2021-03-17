@@ -1,32 +1,21 @@
 =============================
-03-15-2021:  v1.6.2 - Sienna
+03-17-2021:  v1.6.2 - Sienna
 =============================
+
 Source Changelog:
-_________________
-• Roll back to February Security Patch
-(To get rid of some issues)
+=================
+• Resolved March Security Patch Issues
 
 Device Changelog:
-_________________
-# kernel-sdm660
+=================
+# sdm660-Common
 -----------------
-• Bump HALCYON to v4.1
-• Merge tag 'v4.4.261'from linux stable release
-• ARM: dts: xiaomi: set max brightness to 255
-• Switch to westwood tcp by default
+• Loosen up default charging thermal throttling thresholds 
+• Roll back to wayne-thermal 
+• Set up/down_rate_limit_us as 1000
+• Disable WLAN Firmware loggings 
+• Revert "rootdir: drop wlan driver loading" 
 -----------------
-# sdm660-Commonize
+# wayne
 -----------------
-• Build power stats and label it 
-• Decommonize build.fingerprint
-• Add qrtr blobs
-• power-libperfmgr: Switch to AIDL Power HAL
-• audio: Switch to audio hal v4
-• Fix sensorservice
-• init: Adapt libinit to Android 11
-• Fixed cts
-• Improve battery life 
------------------
-# jasmine_sprout
------------------
-• Reverted to sdm660 sensors.ssc
+• Fix stereo audio recording
