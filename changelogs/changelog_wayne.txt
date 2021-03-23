@@ -1,21 +1,49 @@
 =============================
-03-17-2021:  v1.6.2 - Sienna
+03-23-2021:  v1.6.2 - Sienna
 =============================
 
-Source Changelog:
-=================
-• Resolved March Security Patch Issues
+Highlights:
+************
+• Fixed WFD and Miracast
+• Fixed rapid charge and thermal throttling
+• Included latest Halcyon Kernel v4.2
+• Improved GPS and GNNS
+• Fixed wired headset 
+• Fixed Mic for Google Meet and other apps
+• Some misc improvements and stability
 
-Device Changelog:
-=================
+Full Changelog (Device specific):
+*********************************
+
+# kernel-sdm660
+------------------------------
+• drivers: misc: implement usb fast charge mode
+• ktime: Get rid of the union 
+• Merge tag 'v4.4.262'
+• futex: Move compat implementation into futex.c 
+• Remerged some dropped commits from previous merges
+
 # sdm660-Common
------------------
-• Loosen up default charging thermal throttling thresholds 
-• Roll back to wayne-thermal 
-• Set up/down_rate_limit_us as 1000
-• Disable WLAN Firmware loggings 
-• Revert "rootdir: drop wlan driver loading" 
------------------
-# wayne
------------------
-• Fix stereo audio recording
+------------------------------
+• Switch to wayne thermal blobs
+• Update libsdmcolor and libsdmextension 
+• overlay: Set Google autofill service as default 
+• Allow com.qualcomm.location to run in the background
+• lights: Include VINTF fragment
+• Enable BluetoothSar v1.1 
+• Downgrade gps hal to LA.UM.9.6.2.r1-03300-89xx.0 
+• Downgrade gps blobs to LA.UM.9.6.2.r1-03300-89xx.0
+• Build wfd dependency blobs from source 
+• Downgrade LA.UM.9.6.2.r1 revision to 03300-89xx.0
+• Update common tree and adapt changes with wayne-common
+• Enable AOSP surfaceflinger  
+• rootdir: Add missing max_comp_streams in init 
+
+# wayne-Common
+---------------------------------
+• Merged common stuff of both jasmine_sprout and wayne into wayne-common
+
+# jasmine_sprout/wayne
+------------------------------------
+• jasmine_sprout: Switch to wayne build.fingerprint …
+• jasmine_sprout/wayne: Clean-up and transform into wayne-common tree
