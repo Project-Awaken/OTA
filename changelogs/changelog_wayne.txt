@@ -1,49 +1,66 @@
-=============================
-03-23-2021:  v1.6.2 - Sienna
-=============================
+=======================================
+ 04-05-2021: Pre-Release for April OTA
+=======================================
+••• • • • • • • •• • • • • • • • •••
+••  NO MORE FBE FORCE ENCRYPTION  ••
+••  NO MORE FBE FORCE ENCRYPTION  ••
+••  NO MORE FBE FORCE ENCRYPTION  ••
+•• • • • • • • ••• • • • • • • • •••
+BEFORE YOU DOWNLOAD, READ THIS UGLY NOTES
+-------------------------------------------
+• Changed Encryption type - So flash the rom and foramt data FFS 
+• NO MORE FBE FORCE ENCRYPTION - SO FORMAT AFTER FLASHING IT
+• Clean flash by foramtting your cringe data or die in your bed
+• FORMAT AFTER FLASHING or it won't boot and NO OTA in FUTURE
+--------------------------------------------
+• Listen again! Flash it and format data!!
+--------------------------------------------
+If you are okay with above shit talks, go ahead with further changes
+Or STAY FOREVER IN YOUR FBE BUILD
 
 Highlights:
-************
-• Fixed WFD and Miracast
-• Fixed rapid charge and thermal throttling
-• Included latest Halcyon Kernel v4.2
-• Improved GPS and GNNS
-• Fixed wired headset 
-• Fixed Mic for Google Meet and other apps
-• Some misc improvements and stability
-
-Full Changelog (Device specific):
+*********************************
+• Roll back to February pacth
+• Fixed lags and some system glitches
+• Included latest Halcyon Kernel v5.1
+• Inline device/kernel/vendor tree for all 8 xiaomi-sdm660 devices 
 *********************************
 
-# kernel-sdm660
+# halcyon kernel sdm660
 ------------------------------
-• drivers: misc: implement usb fast charge mode
-• ktime: Get rid of the union 
-• Merge tag 'v4.4.262'
-• futex: Move compat implementation into futex.c 
-• Remerged some dropped commits from previous merges
+• Merge tag 'v4.4.263' and 'v4.4.264'
+• Rebased kernel on lineage-base
+• Added platina from los and clover from our org tree
+• Added back LTO and lld to rebased kernel
+• Disbaled all incoming debug and test drivers
+• Merged all f2fs and iosched backports from old kernel
+• Upstreamed EAS changes from uevera's and old tree's
+• Introduce devfreq boost driver and Tune default devfreq governors 
+• Add clock-frequency property to CPU nodes
+• sched: Add stub function for core_ctl_set_boost
+• sched: Move schedtune en/dequeue before schedutil update triggers
+• msm_performance: Disable a HMP-specific function  
+• sched/boost: Re-introduce sched_boost proc from HMP
+• Many msicelnious kernel patches from kerneltoast, kdragon, tytydraco and arter97
+• Improved sched, cpu-boost and touch latency
+• thermal: Disable thermal switcher for jason and platina which prevent booting
 
 # sdm660-Common
 ------------------------------
-• Switch to wayne thermal blobs
-• Update libsdmcolor and libsdmextension 
-• overlay: Set Google autofill service as default 
-• Allow com.qualcomm.location to run in the background
-• lights: Include VINTF fragment
-• Enable BluetoothSar v1.1 
-• Downgrade gps hal to LA.UM.9.6.2.r1-03300-89xx.0 
-• Downgrade gps blobs to LA.UM.9.6.2.r1-03300-89xx.0
-• Build wfd dependency blobs from source 
-• Downgrade LA.UM.9.6.2.r1 revision to 03300-89xx.0
-• Update common tree and adapt changes with wayne-common
-• Enable AOSP surfaceflinger  
-• rootdir: Add missing max_comp_streams in init 
+• Fix some camera denials
+• Decommmonize cnss-daemon (WiFi) 1/2 
+• Update blobs from LA.UM.8.2.r1-07500-sdm660.0
+• Revert "sdm660-common: import Hotword Enrollment blobs" 
+• rootdir: Disable fbe encryption except A-target/lavender
+• DeviceSettings: Access dirac from device-settings 
+• audio: Add standalone Dirac support
+• wlan: Smarter decisions on whether to use a 2GHz or 5GHz AP
+• wlan: Relax WiFi re-association RSSI thresholds
+• props: Disable GPU protected composition
+• audio: Fix mic issues in apps like WhatsApp
+• Switch to sdfat driver for exfat  
+• Update korean translations 
 
 # wayne-Common
 ---------------------------------
-• Merged common stuff of both jasmine_sprout and wayne into wayne-common
-
-# jasmine_sprout/wayne
-------------------------------------
-• jasmine_sprout: Switch to wayne build.fingerprint …
-• jasmine_sprout/wayne: Clean-up and transform into wayne-common tree
+• Decommmonize cnss-daemon (WiFi from jasmine) 2/2
