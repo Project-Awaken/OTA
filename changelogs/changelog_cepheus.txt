@@ -1,20 +1,22 @@
 ===============
-02-24-2021
+05-07-2021
 ===============
 Source Changelog:
 -----------------
-• Added option for bluetooth dual channel audio mode
-• Added options to customize dialog corner radius and statusbar height (gvisual mod)
-• Settings dashboard now themed similar to android 12
-• Fixed an issue where clear all button appear even on expanded quick settings panel
-• Fixed issues with per app network restrictions
-• Brightness slider improvements
-• Switch art to performance mode if possible
-• Shortened network transition timeout
+• This is a pure device tree update, new updates to ROM source will come soon hopefully
 
 Device Changelog:
 -----------------
-• update Fingerprint to March
-• bring back BT
-• Addressed some selinux denials
-• Lot more udh improvements
+• update Fingerprint to April
+• powerhint: Add Flipendo powerhint
+• Update from China Beta 21.4.29
+• Reset to stock audio configs
+• bring back Google Hotword
+• sync with latest EcrosoftXiao trees (big THX)
+• upstreamed Kernel to 4.14.232 und added latest CAF Tags
+• updated graphics blobs from tp1803
+• build GNSS HAL
+• updated power-libperfmgr
+• enable iorap
+• add mac adress correction
+• add wifimac adress generator
