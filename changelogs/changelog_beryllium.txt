@@ -1,23 +1,28 @@
 ===============
-02-28-2021
+05-17-2021
 ===============
 Source Changelog:
-• Added option for bluetooth dual channel audio mode
-• Added options to customize dialog corner radius and statusbar height (gvisual mod)
-• Settings dashboard now themed similar to android 12
-• Fixed an issue where clear all button appear even on expanded quick settings panel
-• Fixed issues with per app network restrictions
-• Brightness slider improvements
-• Switch art to performance mode if possible
-• Shortened network transition timeout
+• May security patch
+• Added applock, per-app volume & smart cutoff
+• Added P404 IDE, Fluid & ShapeShift lockscreen clock
+• Enabled IORap app launch prefetching
+• Updated sqlite, lmkd & sepolicies
+• Updated Faceunlock & Gapps
+• Fixed random crash
+• Fixed misc UI bug
+• Some performance optimization
+• Miscellaneous fixes and improvements
 
 Device Changelog:
-• Fixed charging LED brightness issue
-• Much Faster boot time
-• Switched to AIDL vibrator hal interface
-• Enabled suspend to idle
-• Updated wfd system blobs
-• Memory management optimisations
-• Addressed some selinux denials
-• Cleaned up network settings preferences
-• Lot more udh improvements
+• Build all targets for iorapd
+• Enable Power HAL interaction boost 
+• Misc fixes and improvement
+• Remove fingerprint HAL from background cpuset
+• Build power-off charging daemon dependency
+• Configure cpusets
+• Cleanup sepolicy
+• Enable ringtone audio focus for Wired/BT headset
+• Update WFD & Media Blobs from pyxis
+• Update CNE, IMS, QMI & RIL Blobs from pyxis
+• Update DRM and DPM Blobs from pyxis
+• Update whitelisting for HotwordEnrollment
