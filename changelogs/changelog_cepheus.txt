@@ -3,7 +3,16 @@
 ===============
 Source Changelog:
 -----------------
-• This is a pure device tree update, new updates to ROM source will come soon hopefully
+• May security patch
+• Added applock, per-app volume & smart cutoff
+• Added P404 IDE, Fluid & ShapeShift lockscreen clock
+• Enabled IORap app launch prefetching
+• Updated sqlite, lmkd & sepolicies
+• Updated Faceunlock & Gapps
+• Fixed random crash
+• Fixed misc UI bug
+• Some performance optimization
+• Miscellaneous fixes and improvements
 
 Device Changelog:
 -----------------
@@ -11,7 +20,6 @@ Device Changelog:
 • powerhint: Add Flipendo powerhint
 • Update from China Beta 21.4.29
 • Reset to stock audio configs
-• bring back Google Hotword
 • sync with latest EcrosoftXiao trees (big THX)
 • upstreamed Kernel to 4.14.232 und added latest CAF Tags
 • updated graphics blobs from tp1803
