@@ -16,15 +16,5 @@ Source Changelog:
 
 Device Changelog:
 -----------------
-• update Fingerprint to April
-• powerhint: Add Flipendo powerhint
-• Update from China Beta 21.4.29
-• Reset to stock audio configs
-• sync with latest EcrosoftXiao trees (big THX)
-• upstreamed Kernel to 4.14.232 und added latest CAF Tags
-• updated graphics blobs from tp1803
-• build GNSS HAL
-• updated power-libperfmgr
-• enable iorap
-• add mac adress correction
-• add wifimac adress generator
+• HOTFIX screen off FOD
+• HOTFIX smartcharge
