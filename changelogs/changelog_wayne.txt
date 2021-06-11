@@ -1,26 +1,70 @@
-=======================================
-Awaken v1.7 - Sapphire
-=======================================
+===================================
+****** Awaken v1.8 - Jasper ******
+===================================
 Source Changelog:
 -----------------
-• Updated Codec from LineageOS
-• Removed toggle for per app volume
-• Prolly fixed smart charge and smart cutoff
-• Added Wifi and Bluetooth Timeout feature
-• Misc fixes to volume dialog
-• Updated pixel props
-• Add VPN tile 
-• Add tuner switch to hide location icon on status bar
+• June security patch
+• Add option to hide location icon on status bar
+• Added Bluetooth & Wi-Fi timeout
+• Added VPN Tile
+• Introduce notch-city (3 mode display cutout handler)
+• Introduce MIUI compact volume panel
+• Introduce dynamic Volte & VoWiFi icon
+•  Update Asus Stitch image
+• Fixed battery icon on quick settings panel
+• Fixed double screenshot issue while using 3 finger gesture
+• Fixed SystemUI crash when clicking on Bluetooth icon on volume panel
+• Fixed kill app button on recent
+• Per-app volume improvement
+• Smart charging and cutoff improvement
 
 Device Changelog:
------------------
+---------------------
 # kernel-sdm660
-.................
-• Bump HALCYON to v5.5
-• Merge tag 'v4.4.269' and 'v4.4.270'from linux stable release 
+• Initial 4.19-beta with 4.19.193
 
 # sdm660-Common 
-.................
-• Fix smart-charging
+• Uprev camera.provider to 2.6 
+• rootdir: Set permission to powerhint nodes for k4.19 
+• power-libperfmgr: Update powerhint with available values
+• power-libperfmgr: Add Flipendo powerhint
+• power-libperfmgr: Limit dex2oat thread and cpuset under thermal stress
+• power-libperfmgr: let perfmgr change dex2oat priorities 
+• power-libperfmgr: Add back audio hints 
+• rootdir: Enable EAS after boot 
+• rootdir: Disable EAS on early-init 
+• Set target FCM level to 4 for 4.19
+• Add prebuilt WFD dependency blobs for 4.19 
+• Checkout CarrierConfig to LA.UM.9.1.r1-07300-SMxxx0.0
+• Update RIL from curtana V12.0.1.7.RJWMIXM
+• Update blobs from LA.UM.8.2.1.r1-05600-sdm660
+• libqti-perfd-client: Remove namespace declaration
+• libqti-perfd-client: return a dummy value
+• Create dummy libqti-perfd-client
+• Switch to QTI Thermal HAL
+• Drop thermal and thermal controller
+• Build graphics.allocator@3.0 and @4.0
+• Required HALs for 4.19
+• Disable KPTI feature
+• sepolicy: Label wakeup nodes for 4.19  
+• sepolicy: Add swapper to kill
+• config.fs: Add mapping for imsdaemon
+• Set BPF support level 
+• Set swiotlb to default size
+• Set printk.devkmsg=on on kernel cmdline to avoid ratelimit
+• /sys/devices/soc -> /sys/devices/platform/soc
+• Set TARGET_KERNEL_VERSION to 4.19
+• power-libperfmgr: let power hal start early
+• ower-libperfmgr: Adapt sdm660 powerhint to k4.19
+• Update thermal config & sensor names for 4.19
+• light: Adapt light HAL for k4.19
+• Update fstab for k4.14/k4.19 
+• Update post_boot for sdm660 k4.14/k4.19 upgrade
+• Initial bring up changes for k4.14/k4.19
 
-N.B: Probably I am gonna release with 4.19 from next build
+# jasmine_sprout/wayne
+• wayne-common: Set target FCM level to 4 for 4.19
+• wayne-common: Update Wifi from LA.UM.8.2.1.r1-05600-sdm660
+• wayne-common: Update sensor from LA.UM.8.2.1.r1-05600-sdm660
+• wayne-common: Disable apex for now 
+• wayne-common: Update dependency
