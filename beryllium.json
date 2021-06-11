@@ -1,13 +1,14 @@
 {
   "response": [
     {
-      "datetime":1621232130,
-      "filename": "awaken_beryllium-1.7-Sapphire-OFFICIAL-gapps-20210517-0817.zip",
-      "id": "e29b8f0c6f495533c58ea0e3aac7f210",
+      "datetime": 1623394211,
+      "size": 1427256813,
+      "filehash": "bbb9ee3eab8fe5a18f96b1102afb8303",
+      "filename": "awaken_beryllium-1.8-Jasper-OFFICIAL-gapps-20210611-1226.zip",
+      "id": "51eeeeb0a4663d74eeef7b537e3a520c151ee43c68cc5d3cdde709ce8e4ddd6a",
       "romtype": "OFFICIAL",
-      "size":1423162948,
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.7-Sapphire-OFFICIAL-gapps-20210517-0817.zip/download",
-      "version": "1.7"
+      "version": "1.8",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.8-Jasper-OFFICIAL-gapps-20210611-1226.zip/download"
     }
   ]
 }

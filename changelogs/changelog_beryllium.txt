@@ -1,28 +1,24 @@
 ===============
-05-17-2021
+06-11-2021
 ===============
 Source Changelog:
-• May security patch
-• Added applock, per-app volume & smart cutoff
-• Added P404 IDE, Fluid & ShapeShift lockscreen clock
-• Enabled IORap app launch prefetching
-• Updated sqlite, lmkd & sepolicies
-• Updated Faceunlock & Gapps
-• Fixed random crash
-• Fixed misc UI bug
-• Some performance optimization
-• Miscellaneous fixes and improvements
+• June security patch
+• Add option to hide location icon on status bar 
+• Added Bluetooth & Wi-Fi timeout
+• Added VPN Tile
+• Introduce notch-city (3 mode display cutout)
+• Introduce MIUI compact volume panel
+• Introduce dynamic Volte & VoWiFi icons 
+• Update Asus Stitch image
+• Fixed battery icon on quick settings panel
+• Fixed double screenshot issue while using 3 finger gesture
+• Fixed SystemUI crash when clicking on Bluetooth icon on volume panel
+• Fixed kill app button on recent
+• Per app volume improvement
+• Smart charging and cutoff improvement
 
 Device Changelog:
-• Build all targets for iorapd
-• Enable Power HAL interaction boost 
-• Misc fixes and improvement
-• Remove fingerprint HAL from background cpuset
-• Build power-off charging daemon dependency
-• Configure cpusets
-• Cleanup sepolicy
-• Enable ringtone audio focus for Wired/BT headset
-• Update WFD & Media Blobs from pyxis
-• Update CNE, IMS, QMI & RIL Blobs from pyxis
-• Update DRM and DPM Blobs from pyxis
-• Update whitelisting for HotwordEnrollment
+• Add brightness float values
+• Update Fingerprint To Redfin June Security Patch
+• Update GMS client id
+• Uprev perf hal
