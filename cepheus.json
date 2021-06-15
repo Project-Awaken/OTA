@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": ,
-      "size": 1600887682,
-      "filehash": 55662919505f42fac947b75f8a321c03,
-      "filename": "awaken_cepheus-1.7-Sapphire-OFFICIAL-gapps-20210525-1433.zip",
-      "id": 056152ec563bd00e5158ae49be8d744423b4c85ae5b92a79c1a42f63435df74b,
-      "romtype": ,
+      "size": 1605678675,
+      "filehash": "6329454e6d62ce2ad08ea1bfce559b23",
+      "filename": "awaken_cepheus-1.8-Jasper-OFFICIAL-gapps-20210615-1353.zip",
+      "id": "f98bd5c9d408144807ecf3be5585109cc43a20f1ec9bb891d7fe6ab59662ad05",
+      "romtype": "",
       "version": "",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken_cepheus-1.7-Sapphire-OFFICIAL-gapps-20210525-1433.zip/download"
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken_cepheus-1.8-Jasper-OFFICIAL-gapps-20210615-1353.zip/download"
     }
   ]
 }
