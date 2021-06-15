@@ -1,20 +1,29 @@
 ===============
-05-07-2021
+15-06-2021
 ===============
 Source Changelog:
------------------
-• May security patch
-• Added applock, per-app volume & smart cutoff
-• Added P404 IDE, Fluid & ShapeShift lockscreen clock
-• Enabled IORap app launch prefetching
-• Updated sqlite, lmkd & sepolicies
-• Updated Faceunlock & Gapps
-• Fixed random crash
-• Fixed misc UI bug
-• Some performance optimization
-• Miscellaneous fixes and improvements
+• Add option to hide location icon on status bar 
+• Added Bluetooth & Wi-Fi timeout
+• Added VPN Tile
+• Introduce notch-city (3 mode display cutout)
+• Introduce MIUI compact volume panel
+• Introduce dynamic Volte & VoWiFi icons 
+• Update Asus Stitch image
+
+- Bugs and insects that no longer stay here
+• Fixed battery icon on quick settings panel
+• Fixed double screenshot issue while using 3 finger gesture
+• Fixed SystemUI crash when clicking on Bluetooth icon on volume panel
+• Fixed kill app button on recent
+
+- These are what we term as Miscellaneous improvements
+• Per app volume improvement
+• Smart charging and cutoff improvement
 
 Device Changelog:
------------------
-• HOTFIX screen off FOD
-• HOTFIX smartcharge
+• Updated to Redfin's June FP
+• Fixed Ok Google(Screen on & Screen Off)
+• Nuke unused power off alarm blobs
+• Import headset jack layout
+• extract widevine L1 blobs from xiaomi.eu 21.6.2
+• kernel upstreamed to 4.14.236
