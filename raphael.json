@@ -1,13 +1,14 @@
 {
   "response": [
     {
-      "datetime":1611582923,
-      "filename": "awaken_raphael-1.6-Sienna-OFFICIAL-gapps-20210205-0948.zip",
-      "id": "a3961c51c3aad7f8e07e40d717fc9d14",
+      "datetime": 1623748577,
+      "size": 1193871408,
+      "filehash": "0081e0e66d71e66d9c7cd7c5d02262da",
+      "filename": "awaken_raphael-1.8-Jasper-OFFICIAL-gapps-20210615-1447.zip",
+      "id": "d8c9860ebed1da0158b45e821ce28a232185fc650446d2c6f15b0ee447019d8e",
       "romtype": "OFFICIAL",
-      "size":1199747555,
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken_raphael-1.6-Sienna-OFFICIAL-gapps-20210205-0948.zip/download",
-      "version": "1.6"
+      "version": "1.8",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken_raphael-1.8-Jasper-OFFICIAL-gapps-20210615-1447.zip/download"
     }
   ]
 }

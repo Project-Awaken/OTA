@@ -1,4 +1,30 @@
 ===============
+15-06-2021
+===============
+Source Changelog:
+• Add option to hide location icon on status bar 
+• Added Bluetooth & Wi-Fi timeout
+• Added VPN Tile
+• Introduce notch-city (3 mode display cutout)
+• Introduce MIUI compact volume panel
+• Introduce dynamic Volte & VoWiFi icons 
+• Update Asus Stitch image
+
+- Bugs and insects that no longer stay here
+• Fixed battery icon on quick settings panel
+• Fixed double screenshot issue while using 3 finger gesture
+• Fixed SystemUI crash when clicking on Bluetooth icon on volume panel
+• Fixed kill app button on recent
+
+- These are what we term as Miscellaneous improvements
+• Per app volume improvement
+• Smart charging and cutoff improvement
+
+Device Changelog:
+• Updated to Redfin's June FP
+• Fixed Ok Google(Screen on & Screen Off)
+
+===============
 05-02-2021
 ===============
 Source Changelog:
