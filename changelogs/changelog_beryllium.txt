@@ -1,24 +1,24 @@
 ===============
-06-11-2021
+07-09-2021
 ===============
 Source Changelog:
-• June security patch
-• Add option to hide location icon on status bar 
-• Added Bluetooth & Wi-Fi timeout
-• Added VPN Tile
-• Introduce notch-city (3 mode display cutout)
-• Introduce MIUI compact volume panel
-• Introduce dynamic Volte & VoWiFi icons 
-• Update Asus Stitch image
-• Fixed battery icon on quick settings panel
-• Fixed double screenshot issue while using 3 finger gesture
-• Fixed SystemUI crash when clicking on Bluetooth icon on volume panel
-• Fixed kill app button on recent
-• Per app volume improvement
-• Smart charging and cutoff improvement
+• Added Android S Clocks & S Style Switches
+• Added option to auto hide status-bar clock
+• Added Wakelock and Alarms Blocker
+• Allow Seamless rotation while PIP is active
+• Introduce LiveDisplay
+• Switch to Hastebin for copying crash logs
+• Updated Sqlite
+• Upstream changes for volumepanel plugins
+• Fixed battery estimates
+• Fixed backuptool
+• Fixed exfat issue
+• Fixed force full screen
+• Fixed privacy indicators
+• AppLock & Face Unlock improvements
+• Miscellaneous fixes and improvements
 
 Device Changelog:
-• Add brightness float values
-• Update Fingerprint To Redfin June Security Patch
-• Update GMS client id
-• Uprev perf hal
+• Drop some duplicate services
+• Update Fingerprint To Redfin July Security Patch
+• Update RIL Blobs from pyxis
