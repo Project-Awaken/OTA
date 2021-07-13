@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1623748577,
-      "size": 1193871408,
-      "filehash": "0081e0e66d71e66d9c7cd7c5d02262da",
-      "filename": "awaken_raphael-1.8-Jasper-OFFICIAL-gapps-20210615-1447.zip",
-      "id": "d8c9860ebed1da0158b45e821ce28a232185fc650446d2c6f15b0ee447019d8e",
+      "datetime": 1626100490,
+      "size": 1161274319,
+      "filehash": "9d4b65d3be60efd02806fa25358369b5",
+      "filename": "awaken_raphael-1.9-Clover-OFFICIAL-gapps-20210712-1635.zip",
+      "id": "aacdfd2a15b6fb5f4345f7fb60b5995b169f768fcc46285d450a9a8c5dd1398c",
       "romtype": "OFFICIAL",
-      "version": "1.8",
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken_raphael-1.8-Jasper-OFFICIAL-gapps-20210615-1447.zip/download"
+      "version": "1.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken_raphael-1.9-Clover-OFFICIAL-gapps-20210712-1635.zip/download"
     }
   ]
 }

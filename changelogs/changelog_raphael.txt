@@ -1,4 +1,36 @@
 ===============
+13-07-2021
+===============
+Source Changelog:
+• Added Android S Clocks & S Style Switches
+• Added option to auto hide status-bar clock
+• Added Wakelock and Alarms Blocker
+• Allow Seamless rotation while PIP is active
+• Introduce LiveDisplay
+• Switch to Hastebin for copying crash logs
+• Updated Sqlite
+• Upstream changes for volumepanel plugins
+
+- Bugs and insects that no longer stay here
+
+• Fixed battery estimates
+• Fixed backuptool
+• Fixed exfat issue
+• Fixed force full screen
+• Fixed privacy indicators
+
+- These are what we term as Miscellaneous improvements
+
+• AppLock & Face Unlock improvements
+• Miscellaneous fixes and improvements
+
+Device Changelog:
+• Updated to Redfin's July FP
+• Fixed Ok Google(Screen on & Screen Off)
+• Added Clear Speaker Option
+• Added Pop-up related settings
+
+===============
 15-06-2021
 ===============
 Source Changelog:
