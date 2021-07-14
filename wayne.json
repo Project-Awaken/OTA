@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1623591676,
-      "size": 1388631459,
-      "filehash": "f7ddc998e7c4f14dd2d159c2a9aa86a8",
-      "filename": "awaken_wayne-1.8-Jasper-OFFICIAL-gapps-20210613-1944.zip",
-      "id": "8b2b872a5d5dd13f4ccad0d265f82a8d09252579937bbc3ddeb654a98052c9de",
+      "datetime": 1626253011,
+      "size": 1401659778,
+      "filehash": "6c9b4c98449abe6edfe514ec581d3950",
+      "filename": "awaken_wayne-1.9-Clover-OFFICIAL-gapps-20210714-1501.zip",
+      "id": "d853318704175ad3e3c85eb394e8b56e64766a5dbd0cf60d216a3351cc551c10",
       "romtype": "OFFICIAL",
-      "version": "1.8",
-      "url": "https://sourceforge.net/projects/project-awaken/files/wayne/awaken_wayne-1.8-Jasper-OFFICIAL-gapps-20210613-1944.zip/download"
+      "version": "1.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/wayne/awaken_wayne-1.9-Clover-OFFICIAL-gapps-20210714-1501.zip/download"
     }
   ]
 }

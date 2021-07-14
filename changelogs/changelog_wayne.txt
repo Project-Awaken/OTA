@@ -1,14 +1,49 @@
 ===================================
-****** Awaken v1.8 - Jasper ******
+****** Awaken v1.9 - Clover ******
 ===================================
 Source Changelog:
------------------
-• Fixed crash on statusbar settings
-• Improved sytemwide stability after June Security
+----------------------------
+• July Security Patch
+• Added Android S Clocks & S Style Switches
+• Added option to auto hide status-bar clock
+• Added Wakelock and Alarms Blocker
+• Allow Seamless rotation while PIP is active
+• Introduce LiveDisplay
+• Switch to Hastebin for copying crash logs
+• Updated Sqlite
+• Upstream changes for volumepanel plugins
+• Fixed battery estimates
+• Fixed backuptool
+• Fixed exfat issue
+• Fixed force full screen
+• Fixed privacy indicators
+• AppLock & Face Unlock improvements
+• Miscellaneous fixes and improvements
 
 Device Changelog:
----------------------
-• sdm660-common: sepolicy: Adjust sepolicy for qti thermal
-• sdm660-common: Force FDE encryption for A-target/lavender
-• Revert "sdm660-common: Set linker to LLD"
-• sdm660-common: Downgrade android.hardware.secure_element 
+----------------------------
+• kernel-sdm660: HALCYON V7.2
+- Rebased on LA.UM.9.2.1.r1-07700-sdm660.0
+- Merged android-4.19-stable  from aosp:common/kernel
+- Bug fixes and stability ensured
+• sdm660-common: Patch some wfd blobs
+• sdm660-common: Build libqdMetaData.vendor 
+• sdm660-common: Use TARGET_COPY_OUT_SYSTEM instead of system/ 
+• sdm660-common: Stop creating IOP deamon dirs
+• sdm660-common: overlay: Use vibration pattern from pixel 2
+• sdm660-common: Override readahead to 128KiB after post-boot
+• sdm660-common: Disable debug.sf.latch_unsignaled 
+• sdm660-common: Enable TARGET_QTI_USB_SUPPORTS_AUDIO_ACCESSORY
+• sdm660-common: props: Add few more props for WiFi Display 
+• sdm660-common: Merge data-ipa-cfg-mgr form LA.UM.9.2.1.r1-07200-sdm660.0'
+• sdm660-common: data-ipa-cfg-mgr: Use log/log.h instead of cutils/log.h
+• sdm660-common: data-ipa-cfg-mgr: Use generated kernel headers
+• sdm660-common: data-ipa-cfg-mgr: Don't build ipacm tests on debug builds 
+• sdm660-common: data-ipa-cfg-mgr: Remove verbose cflag
+• sdm660-common: data-ipa-cfg-mgr: Address ipacm start failure 
+• sdm660-common: Add netutils-wrapper to device compatibility matrix 
+• sdm660-common: Remove obsolete directory flag
+• Revert "sdm660-common: Enable AOSP surfaceflinger"
+• sdm660-common: sepolicy: Update sepolicy for 4.19
+• sdm660-common: update-sha1sums: Add sort option
+• sdm660-common: Update RIL from AOSPA (Radio from LA.UM.9.12.r1-10800-SMxx50.0-AOSPA and Telephony from qcom-common-AOSPA)
