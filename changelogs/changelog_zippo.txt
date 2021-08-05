@@ -1,34 +1,28 @@
-Changelog for Project-Awaken v1.9 Update - Clover :-
+Changelog for Project-Awaken v1.10 Update - Violet :-
 
 - Somethings that weren't present in old versions but we added this time
 
-• Added Android S Clocks & S Style Switches
-• Added option to auto hide status-bar clock
-• Added Wakelock and Alarms Blocker
-• Allow Seamless rotation while PIP is active
-• Introduce LiveDisplay
-• Switch to Hastebin for copying crash logs
-• Updated Sqlite
-• Upstream changes for volumepanel plugins
+• Add alarm volume slider to MiuiCompact Panel
+• Allow to limit the max framerate of built-in screen recorder
+• Bring back bypass lockscreen after face unlock
+• Introduce per app volume row to volume panel plugins
+• Make app volume rows optional
+• Switch to katbin for uploading crash log
 
 - Bugs and insects that no longer stay here
 
-• Fixed battery estimates
-• Fixed backuptool
-• Fixed exfat issue
-• Fixed force full screen
-• Fixed privacy indicators
+• Fixed thumbnail for Android S clock
+• Fix clock icon on Kai & Victor icon pack
+• Fixed caption issue with landscape on volume panel
+• Use correct icon for notification and ring volume on Rounded Icon Pack
 
-- These are what we term as Miscellaneous improvements
-
-• AppLock & Face Unlock improvements
-• Miscellaneous fixes and improvements
-
--DEVICE changelog:
-• Initial OFFICIAL build
-• User build and SEPolicy Enforcing
-• Kernel 4.14.238 "Moderna" by @kanstmablason
-• Update Redfin FP from July
-• Fixed charging issue related to fast charging
-• Fixed deep sleep issue after connecting with some BT devices like smartwatch
-• Added FPS info overlay
+- DEVICE changelog:
+• Kernel 4.14.241 by @kanstmablason
+• Updated with Redfin fp from August
+• Fix A2DP with QTI BT stack
+• Use the right movement sensor for parts
+• Update Graphics stack
+• Update Wifi stack
+• Update IPA firmware
+• Update Snapdragon Computer Vision Engine stack
+• Update sensors stack from stock
