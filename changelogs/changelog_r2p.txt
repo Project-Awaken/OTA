@@ -1,0 +1,23 @@
+===============
+08-06-2021
+===============
+Source Changelog:
+• Add alarm volume slider to MiuiCompact Panel
+• Allow to limit the max framerate of built-in screen recorder
+• Bring back bypass lockscreen after face unlock
+• Introduce per app volume row to volume panel plugins
+• Make app volume rows optional
+• Switch to katbin for uploading crash log
+• Fixed thumbnail for Android S clock
+• Fix clock icon on Kai & Victor icon pack
+• Fixed caption issue with landscape on volume panel
+• Use correct icon for notification and ring volume on Rounded Icon Pack
+
+Device Changelog:
+• Set tethering SSID to “Realme 2 Pro”
+• Add Realme Dirac
+• Fixed QS Panel
+• Update build fp/desc to redfin August
+• Add missing PowerOffAlarm apk
+• Add Overlay to declare that device has notch
+  (Can ignore notch space for selected apps now)
