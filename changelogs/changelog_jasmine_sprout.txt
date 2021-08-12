@@ -1,9 +1,24 @@
 ===================================
-****** Awaken v1.9 - Clover ******
+****** Awaken v1.10 - Violet ******
 ===================================
 Device Changelog:
 ----------------------------
-• Fixed VoWIFI/ViLTE/Career Video calling
-• Fixed GeekBench score
-• Fixed Notification LED for user apps 
-• Rebased kernel and got rid of issues
+• kernsel-sdm660: Upstream to 4.19.202 
+• sdm660-common: Introduce kernelspace battery saver
+• sdm660-common: Switch back to exfat 
+• sdm660-common: Disable sdm rotator downscaler
+• sdm660-common: DeviceSettings: Update notification LED path for K4.19  
+• sdm660-common: DeviceSettings: Add earpiece gain
+
+Source Changelog:
+----------------------------
+• Add alarm volume slider to MiuiCompact Panel
+• Allow to limit the max framerate of built-in screen recorder
+• Bring back bypass lockscreen after face unlock
+• Introduce per app volume row to volume panel plugins
+• Make app volume rows optional
+• Switch to katbin for uploading crash log
+• Fixed thumbnail for Android S clock
+• Fix clock icon on Kai & Victor icon pack
+• Fixed caption issue with landscape on volume panel
+• Use correct icon for notification and ring volume on Rounded Icon Pack
