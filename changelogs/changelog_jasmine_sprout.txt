@@ -3,22 +3,33 @@
 ===================================
 Device Changelog:
 ----------------------------
-• kernsel-sdm660: Upstream to 4.19.202 
-• sdm660-common: Introduce kernelspace battery saver
-• sdm660-common: Switch back to exfat 
-• sdm660-common: Disable sdm rotator downscaler
-• sdm660-common: DeviceSettings: Update notification LED path for K4.19  
-• sdm660-common: DeviceSettings: Add earpiece gain
+• kernel-sdm660: Upstream to 4.4.283 
+• sdm660-common: sepolicy: Address new denials
+• sdm660-common: Uprev camera.provider to 2.6
+• sdm660-common: Update RIL from LA.UM.9.11.r1-03900-NICOBAR.0
+• sdm660-common: update-sha1sums: Add sort option 
+• sdm660-common: Flatten APEXes if updatable APEX is not present 
+• sdm660-common: overlay: Use vibration pattern from pixel 2 
+• sdm660-common: Stop creating IOP deamon dirs
+• sdm660-common: Mark WifiOverlay as coreApp
+• sdm660-common: props: Disable debug.sf.latch_unsignaled 
+• sdm660-common: props: Add few more props for WiFi Display
+• sdm660-common: Build libqdMetaData.vendor
+• sdm660-common: Switch to QTI surfaceflinger
+• sdm660-common: Remove WfdCommon from BOOT_JARS 
+• sdm660-common: Remove obsolete directory flag 
+• sdm660-common: props: remove duplicated drm property 
+• sdm660-common: Use TARGET_COPY_OUT_SYSTEM instead of system/ 
+• sdm660-common: rootdir: Override readahead to 128KiB after post-boot 
+• sdm660-common: rootdir: Enable EAS after boot instead of early-init 
+• sdm660-common: libqti-perfd-client: Remove namespace declaration 
+• sdm660-common: libqti-perfd-client: return a dummy value  
+• sdm660-common: Create dummy libqti-perfd-client 
+• sdm660-common: Switch to Thermal 2.0 mock 
+• sdm660-common: Drop thermal and thermal controller
 
 Source Changelog:
 ----------------------------
-• Add alarm volume slider to MiuiCompact Panel
-• Allow to limit the max framerate of built-in screen recorder
-• Bring back bypass lockscreen after face unlock
-• Introduce per app volume row to volume panel plugins
-• Make app volume rows optional
-• Switch to katbin for uploading crash log
-• Fixed thumbnail for Android S clock
-• Fix clock icon on Kai & Victor icon pack
-• Fixed caption issue with landscape on volume panel
-• Use correct icon for notification and ring volume on Rounded Icon Pack
+• New Gaming Mode
+• Spoof GMS as Pixel 2
+• LockScreen Clock Fixes
