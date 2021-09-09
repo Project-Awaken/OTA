@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1628108081,
-      "size": 1330114500,
-      "filehash": "f8c794fbef4cc5f0b05379ff445f26f3",
-      "filename": "awaken_zippo-1.10-Violet-OFFICIAL-gapps-20210804-2215.zip",
-      "id": "35cf06371033c61b37e334302bb872dfde8c5ef8d41b1c555fc5dfe1de95bbe5",
+      "datetime": 1631213904,
+      "size": 1335145681,
+      "filehash": "f00066ce7dfa84663b7b5560f237b5e7",
+      "filename": "awaken_zippo-1.11-Peach-OFFICIAL-gapps-20210909-2100.zip",
+      "id": "98fb8e020e03bc413da71d07c535016a29a4af3ad1dcb9e10c381703ba1be5cf",
       "romtype": "OFFICIAL",
-      "version": "1.10",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/awaken_zippo-1.10-Violet-OFFICIAL-gapps-20210804-2215.zip/download"
+      "version": "1.11",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/awaken_zippo-1.11-Peach-OFFICIAL-gapps-20210909-2100.zip/download"
     }
   ]
 }
