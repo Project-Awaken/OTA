@@ -1,28 +1,21 @@
-Changelog for Project-Awaken v1.10 Update - Violet :-
+Changelog for Project-Awaken v1.11 Update - Peach :-
 
 - Somethings that weren't present in old versions but we added this time
 
-• Add alarm volume slider to MiuiCompact Panel
-• Allow to limit the max framerate of built-in screen recorder
-• Bring back bypass lockscreen after face unlock
-• Introduce per app volume row to volume panel plugins
-• Make app volume rows optional
-• Switch to katbin for uploading crash log
+• Introduce new Gaming Mode from exTHmUI
+• Added option for customizing gaming mode menu opacity
+• Spoof GMS as Pixel 2
 
-- Bugs and insects that no longer stay here
+- These are what we term as Miscellaneous improvements
 
-• Fixed thumbnail for Android S clock
-• Fix clock icon on Kai & Victor icon pack
-• Fixed caption issue with landscape on volume panel
-• Use correct icon for notification and ring volume on Rounded Icon Pack
+• LockScreen Clock Improvements
+• Fixed LockScreen charging animation
 
 - DEVICE changelog:
-• Kernel 4.14.241 by @kanstmablason
-• Updated with Redfin fp from August
-• Fix A2DP with QTI BT stack
-• Use the right movement sensor for parts
-• Update Graphics stack
-• Update Wifi stack
-• Update IPA firmware
-• Update Snapdragon Computer Vision Engine stack
-• Update sensors stack from stock
+• Kernel 4.14.246 by @kanstmablason
+• Revert GPU overclock and undervolt
+• Drop BUILD_FINGERPRINT and PRIVATE_BUILD_DESC
+• Add Moto Dolby
+• Enable aptX TWS+
+• Update blobs from ZUI 12.5.332 by @ThE_MarD
+
