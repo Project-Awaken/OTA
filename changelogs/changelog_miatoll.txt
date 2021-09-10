@@ -2,21 +2,13 @@
 08-06-2021
 ===============
 Source Changelog:
-• Add alarm volume slider to MiuiCompact Panel
-• Allow to limit the max framerate of built-in screen recorder
-• Bring back bypass lockscreen after face unlock
-• Introduce per app volume row to volume panel plugins
-• Make app volume rows optional
-• Switch to katbin for uploading crash log
-• Fixed thumbnail for Android S clock
-• Fix clock icon on Kai & Victor icon pack
-• Fixed caption issue with landscape on volume panel
-• Use correct icon for notification and ring volume on Rounded Icon Pack
+• Introduce new Gaming Mode from exTHmUI
+• Added option for customizing gaming mode menu opacity
+• Spoof GMS as Pixel 2
 
 Device Changelog:
-• Initial official build
-• Defined Fast charge node
-• Enabled IORap app pre-fetching
-• Increased Earphone gain
-• Switched to AOSP color management
-• Fixed AUX lenses support
+• Updated September fingerprint
+• Enabled schedutil predicted-load boosting
+• Enabled zram-writeback job
+• Updated and cleaned up wake-up nodes
+• Safteynet Passes by default
