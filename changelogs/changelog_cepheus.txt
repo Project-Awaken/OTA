@@ -1,24 +1,15 @@
 ===============
-12-07-2021
+15-09-2021
 ===============
 Source Changelog:
-• Added Android S Clocks & S Style Switches
-• Added option to auto hide status-bar clock
-• Added Wakelock and Alarms Blocker
-• Allow Seamless rotation while PIP is active
-• Introduce LiveDisplay
-• Switch to Hastebin for copying crash logs
-• Updated Sqlite
-• Upstream changes for volumepanel plugins
-• Fixed battery estimates
-• Fixed backuptool
-• Fixed exfat issue
-• Fixed force full screen
-• Fixed privacy indicators
-• AppLock & Face Unlock improvements
-• Miscellaneous fixes and improvements
+• Introduce new Gaming Mode from exTHmUI
+• Added option for customizing gaming mode menu opacity
+• Spoof GMS as Pixel 2
+• LockScreen Clock Improvements
+• Fixed LockScreen charging animation
 
 Device Changelog:
-• Update Fingerprint To Redfin July Security Patch
+• Updated September fingerprint
 • some under-the-hood changes
 • get back some more stability
+• Safteynet Passes by default
