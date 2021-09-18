@@ -1,35 +1,17 @@
 ===================================
-****** Awaken v1.10 - Violet ******
+ ***** Awaken v1.11 - Peach ******
 ===================================
 Device Changelog:
 ----------------------------
-• kernel-sdm660: Upstream to 4.4.283 
-• sdm660-common: sepolicy: Address new denials
-• sdm660-common: Uprev camera.provider to 2.6
-• sdm660-common: Update RIL from LA.UM.9.11.r1-03900-NICOBAR.0
-• sdm660-common: update-sha1sums: Add sort option 
-• sdm660-common: Flatten APEXes if updatable APEX is not present 
-• sdm660-common: overlay: Use vibration pattern from pixel 2 
-• sdm660-common: Stop creating IOP deamon dirs
-• sdm660-common: Mark WifiOverlay as coreApp
-• sdm660-common: props: Disable debug.sf.latch_unsignaled 
-• sdm660-common: props: Add few more props for WiFi Display
-• sdm660-common: Build libqdMetaData.vendor
-• sdm660-common: Switch to QTI surfaceflinger
-• sdm660-common: Remove WfdCommon from BOOT_JARS 
-• sdm660-common: Remove obsolete directory flag 
-• sdm660-common: props: remove duplicated drm property 
-• sdm660-common: Use TARGET_COPY_OUT_SYSTEM instead of system/ 
-• sdm660-common: rootdir: Override readahead to 128KiB after post-boot 
-• sdm660-common: rootdir: Enable EAS after boot instead of early-init 
-• sdm660-common: libqti-perfd-client: Remove namespace declaration 
-• sdm660-common: libqti-perfd-client: return a dummy value  
-• sdm660-common: Create dummy libqti-perfd-client 
-• sdm660-common: Switch to Thermal 2.0 mock 
-• sdm660-common: Drop thermal and thermal controller
+• Fixed WiFi Display 
+• Upstream kernel from linux stable release
+• Update more stuffs from LA.UM.9.11.r1-03900-NICOBAR.0
+• Clean up properties and Improve overall stability
 
 Source Changelog:
 ----------------------------
-• New Gaming Mode
+• Introduce new Gaming Mode from exTHmUI
+• Added option for customizing gaming mode menu opacity
 • Spoof GMS as Pixel 2
-• LockScreen Clock Fixes
+• LockScreen Clock Improvements
+• Fixed LockScreen charging animation
