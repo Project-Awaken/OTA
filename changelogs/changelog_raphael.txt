@@ -1,4 +1,23 @@
 ===============
+19-09-2021
+===============
+Source Changelog:
+• Introduce new Gaming Mode from exTHmUI
+• Added option for customizing gaming mode menu opacity
+• Spoof GMS as Pixel 2
+
+- These are what we term as Miscellaneous improvements
+
+• LockScreen Clock Improvements
+• Fixed LockScreen charging animation
+
+Device Changelog:
+- Updated Security Patch to September
+- Updated to Redfin's September FP
+- Safetynet fixed
+- Misc fixes and overall improvements
+
+===============
 13-07-2021
 ===============
 Source Changelog:
