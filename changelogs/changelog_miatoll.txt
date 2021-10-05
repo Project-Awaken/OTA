@@ -1,16 +1,16 @@
 ===============
-09-09-2021
+05-10-2021
 ===============
 Source Changelog:
-• Introduce new Gaming Mode from exTHmUI
-• Added option for customizing gaming mode menu opacity
-• Spoof GMS as Pixel 2
-• LockScreen Clock Improvements
-• Fixed LockScreen charging animation
+• Added option to disable menu overlay in gaming mode
+• Added one shot auto-brightness support
+• Allow locking app in recent
+• Fixed overlays resetting on every reboot
 
 Device Changelog:
-• Updated September fingerprint
-• Enabled schedutil predicted-load boosting
+• Updated October ASB
+• Cleaned up wakeup nodes
+• Droped useless TLOC demon
+• Removed MI SoundFX
+• Fixed mic issues in apps
 • Enabled zram-writeback job
-• Updated and cleaned up wake-up nodes
-• Safteynet Passes by default
