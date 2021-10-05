@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1631170787,
-      "size": 1432363605,
-      "filehash": "9a9ff7b0f3ffca7712c9e455c966e46a",
-      "filename": "awaken_beryllium-1.11-Peach-OFFICIAL-gapps-20210909-0859.zip",
-      "id": "855edc1f7f4f89a77f3e70ce98c2eb9da3c5ee72ff66225fc3c3194e2cf38790",
+      "datetime": 1633410975,
+      "size": 1414634447,
+      "filehash": "e4da769f305d89d9d787647eb20e70b8",
+      "filename": "awaken_beryllium-1.12-Adios-OFFICIAL-gapps-20211005-1047.zip",
+      "id": "415893cb44597813f97165820a39d92a10db66e970485ca35557c3c10e56e4ee",
       "romtype": "OFFICIAL",
-      "version": "1.11",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.11-Peach-OFFICIAL-gapps-20210909-0859.zip/download"
+      "version": "1.12",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken_beryllium-1.12-Adios-OFFICIAL-gapps-20211005-1047.zip/download"
     }
   ]
 }

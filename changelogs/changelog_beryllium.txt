@@ -1,14 +1,14 @@
 ===============
-09-09-2021
+05-10-2021
 ===============
 Source Changelog:
-• Introduce new Gaming Mode from exTHmUI
-• Added option for customizing gaming mode menu opacity
-• Spoof GMS as Pixel 2
-• LockScreen Clock Improvements
-• Fixed LockScreen charging animation
+• Added option to disable menu overlay in gaming mode
+• Added one shot auto-brightness support
+• Allow locking app in recent
+• Fixed overlays resetting on every reboot
 
 Device Changelog:
-• Boost GPU to max for expensive rendering
-• Switch to custom vibrator hal
-• Switch to stock beryllium fingerprint
+• Fixed network delay after boot
+• Fixed manual network selection
+• Misc 5Ghz Wifi improvement
+• Update CNE, IMS, QMI & RIL Blobs from pyxis
