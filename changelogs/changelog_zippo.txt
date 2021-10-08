@@ -1,21 +1,16 @@
-Changelog for Project-Awaken v1.11 Update - Peach :-
+Changelog for Project-Awaken v1.12 Update - Adios :-
 
 - Somethings that weren't present in old versions but we added this time
 
-• Introduce new Gaming Mode from exTHmUI
-• Added option for customizing gaming mode menu opacity
-• Spoof GMS as Pixel 2
+• Added option to disable menu overlay in gaming mode
+• Added one shot auto-brightness support
+• Allow locking app in recent
 
 - These are what we term as Miscellaneous improvements
 
-• LockScreen Clock Improvements
-• Fixed LockScreen charging animation
+• Fixed overlays resetting on every reboot
 
 - DEVICE changelog:
-• Kernel 4.14.246 by @kanstmablason
-• Revert GPU overclock and undervolt
-• Drop BUILD_FINGERPRINT and PRIVATE_BUILD_DESC
-• Add Moto Dolby
-• Enable aptX TWS+
-• Update blobs from ZUI 12.5.332 by @ThE_MarD
+• Kernel 4.14.249 by @kanstmablason
+• Update blobs from CN12.5.365
 
