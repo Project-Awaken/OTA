@@ -1,5 +1,26 @@
 ===============
-15-10-3030
+04-11-2021
 ===============
+Source Changelog:
+• Added deep sleep info to uptime preference
+• Add a toggle to unlink ringtone and notification volumes
+• Allow user to disable screenshot sound
+• Bring back battery percentage option
+• Bring back separate Wi-Fi & data QS tiles
+• Hide Google account avatar in Settings
+• Introducing Advanced Reboot & Double Tap to Sleep on status bar & lock screen
+• Introducing Caffeine, Ambient Display, USB Tether, Heads up, Sync, Sound & Partial/Full Screenshot QS Tile
+• Introducing Udfps for FOD devices
+• Introducing OTA Update for both Gapps and Vanilla
+• Make Google Sans as default font
+• Fixed some animation preview in settings
+• Fixed exFAT SD card issue
+• Fixed random crash & recovery stuck issue
+• Some UHD improvements
+• Move display density option to Settings
+• Switch to Memochō for uploading crash log
 
-• Was there a release yet?
+Device Changelog:
+• Fixed offline charging
+• Fixed recovery stuck issue
+• Fixed screen off ok google
