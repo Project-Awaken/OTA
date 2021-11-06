@@ -1,0 +1,29 @@
+===============
+06-11-2021
+===============
+Source Changelog:
+• Added deep sleep info to uptime preference
+• Add a toggle to unlink ringtone and notification volumes
+• Allow user to disable screenshot sound
+• Bring back battery percentage option
+• Bring back separate Wi-Fi & data QS tiles
+• Hide Google account avatar in Settings
+• Introducing Advanced Reboot & Double Tap to Sleep on status bar & lock screen
+• Introducing Caffeine, Ambient Display, USB Tether, Heads up, Sync, Sound & Partial/Full Screenshot QS Tile
+• Introducing Udfps for FOD devices
+• Introducing OTA Update for both Gapps and Vanilla
+• Make Google Sans as default font
+• Fixed some animation preview in settings
+• Fixed exFAT SD card issue
+• Fixed random crash & recovery stuck issue
+• Some UHD improvements
+• Move display density option to Settings
+• Switch to Memochō for uploading crash log
+
+Device Changelog:
+* Fixed IR blaster
+* Enabled A2DP offload for bluetooth
+* Cleaned up some blobs
+* Added XiaomiParts back and adapted them to a12
+* Upstreamed kernel to 4.14.254 and merged LA.UM.9.11.r1-04900-NICOBAR.0 CAF tag
+
