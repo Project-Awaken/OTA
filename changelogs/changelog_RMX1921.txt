@@ -1,5 +1,5 @@
 ===============
-04-11-2021
+07-11-2021
 ===============
 Source Changelog:
 • Added deep sleep info to uptime preference
@@ -21,8 +21,8 @@ Source Changelog:
 • Switch to Memochō for uploading crash log
 
 Device Changelog:
-• Kernel upstreamed to 4.9.289
-• Merged latest CAF tags in kernel and re-imported audio-kernel from CAF (LA.UM.10.3.r1-00300-sdm845.0)
-• Added display color mode settings in RealmeParts
-• Improved screen off fod handling
-• Added new pixel charging animation
+• Realme Parts and Doze settings updated to match S style
+• Fod flickering fixed
+• Improved fod position and display cutout
+• Improved screen off fod algorithm (fixed some bugs when doze sensors aren't enabled)
+• Fixed headset detection on some devices
