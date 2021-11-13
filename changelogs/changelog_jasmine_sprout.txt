@@ -1,54 +1,10 @@
 ===============
-12-11-2021
+13-11-2021
 ===============
 Device Changelog:
 ------------------------------------
-• Fixed random lag and freezes
-• Fixed Recent app force stop
-• Fixed other known bugs
-• Upstreamed kernel from akc
-• Merged android 12 tag from caf
-• Added back BCL driver from 4.4 for better thermal
-• Update IPACM from 'LA.UM.10.2.1.r1-02700-sdm660.0'
-• Import datastatusnotification from coral SP1A.210812.015
-• Revert "sdm660-common: Update graphics blobs from taimen RP1A.201005
-• overlay: Disable combined signal icons in status bar 
-• Switch to bootcontrol 1.2 
-• sepolicy: Add the new thermal hal policy
-• Switch to QTI thermal HAL
-• thermal: rename to Xiaomi SDM660
-• thermal: Add support for sdm660/636 
-• Pull QTI thermal from LineageOS
-• Move DeviceSettings from settings to system page 
-• Add diag hal interface 
-• Add display config file
-• overlay: Show 4G icon for all carriers
-• DeviceDoze: Add an exported flag in manifest 
-• rootdir: Update bw_hwmon mbps zones
-• properties: Enable GL comp backpressure 
-• properties: Disable disable_backpressure
-• properties: Kang offsets from crosshatch 
-• properties: Disable debug.sf.enable_hwc_vds 
-• properties: Disable unsignaled prop
-• sepolicy: Cleanup duplicate policy
-• Switch to Camera2 (Can install gcam for better camera)
+• Just another ota with some fixes
 
 Source Changelog:
 ------------------------------------
-• Added deep sleep info to uptime preference
-• Add a toggle to unlink ringtone and notification volumes
-• Allow user to disable screenshot sound
-• Bring back battery percentage option
-• Bring back separate Wi-Fi & data QS tiles
-• Hide Google account avatar in Settings
-• Introducing Advanced Reboot & Double Tap to Sleep on status bar & lock screen
-• Introducing Caffeine, Ambient Display, USB Tether, Heads up, Sync, Sound & Partial/Full Screenshot QS Tile
-• Introducing Udfps for FOD devices
-• Introducing OTA Update for both Gapps and Vanilla
-• Make Google Sans as default font
-• Fixed some animation preview in settings
-• Fixed exFAT SD card issue
-• Fixed random crash & recovery stuck issue
-• Some UHD improvements
-• Move display density option to Settings
-• Switch to Memochō for uploading crash log
+• Merged android 12 caf tag into legacy-um
