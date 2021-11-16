@@ -1,10 +1,7 @@
 ===============
-13-11-2021
+ 16-11-2021
 ===============
-Device Changelog:
-------------------------------------
-• Just another ota with some fixes
-
-Source Changelog:
-------------------------------------
-• Merged android 12 caf tag into legacy-um
+• Fixed screen flickering  
+• Fixed auto closing apps
+• Fixed Recent app force stop
+• Fixed other known bugs
