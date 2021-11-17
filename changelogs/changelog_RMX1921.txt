@@ -1,5 +1,5 @@
 ===============
-07-11-2021
+17-11-2021
 ===============
 Source Changelog:
 • Added deep sleep info to uptime preference
@@ -21,8 +21,11 @@ Source Changelog:
 • Switch to Memochō for uploading crash log
 
 Device Changelog:
-• Realme Parts and Doze settings updated to match S style
-• Fod flickering fixed
-• Improved fod position and display cutout
-• Improved screen off fod algorithm (fixed some bugs when doze sensors aren't enabled)
-• Fixed headset detection on some devices
+• Fixed fingerprint on AOD
+• Improved audio quality
+• Fully fixed display cutout
+• Fixed usb hotspot
+• Added more KCal presets
+• Set power button location, so AOD animation will close/open on it
+• Added my own implementation of Game Mode with auto DnD and performance mode
+• Set display density to Realme declared value
