@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1636004276,
-      "size": 1606804023,
-      "filehash": "44dda7aaaa6b03b3e008153782c39e0c",
-      "filename": "Awaken-2.1-Luna-beryllium-OFFICIAL-Gapps-0539-20211104.zip",
-      "id": "b10410d3d0e7741a2c503868fffb9a624992178bb7c95d90437bf17b9083a027",
+      "datetime": 1639566246,
+      "size": 1621958238,
+      "filehash": "9bb8e7103dcf1b1b91c26027735b2a1c",
+      "filename": "Awaken-2.2-Ares-beryllium-OFFICIAL-Gapps-1105-20211215.zip",
+      "id": "e0b68ea550f86c02744fdccd572a83a507d78b4c0e78484e501a37db49fb954c",
       "romtype": "OFFICIAL",
-      "version": "2.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.1-Luna-beryllium-OFFICIAL-Gapps-0539-20211104.zip/download"
+      "version": "2.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.2-Ares-beryllium-OFFICIAL-Gapps-1105-20211215.zip/download"
     }
   ]
 }

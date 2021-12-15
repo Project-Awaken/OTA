@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1636009109,
-      "size": 883749482,
-      "filehash": "89377ed10c4aa7e11c48d453916d8558",
-      "filename": "Awaken-2.1-Luna-beryllium-OFFICIAL-Vanilla-0659-20211104.zip",
-      "id": "33c933933d2f8b78999168a76b407f28faa9c9287c41f01735dd574a5413cf8a",
+      "datetime": 1639567443,
+      "size": 919710062,
+      "filehash": "6aa3aaaa2aa45c8aa51e2a3d8b871599",
+      "filename": "Awaken-2.2-Ares-beryllium-OFFICIAL-Vanilla-1125-20211215.zip",
+      "id": "3dec10d3c71b77593bfe6e6855ef23d83a79b5a6efa99c820950720c5be364d9",
       "romtype": "OFFICIAL",
-      "version": "2.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.1-Luna-beryllium-OFFICIAL-Vanilla-0659-20211104.zip/download"
+      "version": "2.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.2-Ares-beryllium-OFFICIAL-Vanilla-1125-20211215.zip/download"
     }
   ]
 }
