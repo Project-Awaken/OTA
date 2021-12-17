@@ -22,4 +22,4 @@ Source Changelog:
 • Updated sqlite
 
 Device Changelog:
-• Misc fixes & improvements
+• Vanilla hotfix update
