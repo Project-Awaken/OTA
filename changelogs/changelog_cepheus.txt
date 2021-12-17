@@ -1,25 +1,32 @@
 ===============
-04-11-2021
+17-12-2021
 ===============
 Source Changelog:
-• Added deep sleep info to uptime preference
-• Add a toggle to unlink ringtone and notification volumes
-• Allow user to disable screenshot sound
-• Bring back battery percentage option
-• Bring back separate Wi-Fi & data QS tiles
-• Hide Google account avatar in Settings
-• Introducing Advanced Reboot & Double Tap to Sleep on status bar & lock screen
-• Introducing Caffeine, Ambient Display, USB Tether, Heads up, Sync, Sound & Partial/Full Screenshot QS Tile
-• Introducing Udfps for FOD devices
-• Introducing OTA Update for both Gapps and Vanilla
-• Make Google Sans as default font
-• Fixed some animation preview in settings
-• Fixed exFAT SD card issue
-• Fixed random crash & recovery stuck issue
+• Add option to cycle through ringer modes
+• Add vibration patterns from oos
+• Added touch hidl support & systemui reboot in advance power menu
+• Added support for pixel charging animation & themed icons on pixel launcher
+• Allow users to customize gesture navbar & hide gesture bar
+• Allow users to toggle combined signal icons & long press power button toggle torch
+• Introducing battery styles
+• Introducing old style mobile data indication & 4G instead of LTE option
+• Introducing volume key music control & volume rocker wake 
+• Introducing double tap to trigger doze & pocket lock
+• Introducing increasing ringtone & incall vibration options
+• Introducing refresh rate settings & monet customization
+
+- Fixed issues -
+
+• Fixed alarm and vibrate icon not showing in status bar
+• Fixed emerygency sos crash issue
+• Fixed navbar issue in portrait mode
+• Fixed some devices not detecting oem fast charger
+
+- Ah yes, improvements -
+
 • Some UHD improvements
-• Move display density option to Settings
-• Switch to Memochō for uploading crash log
+• Updated sqlite
 
 Device Changelog:
-• Fixed recovery stuck issue
-• Fixed screen off ok google
+• switched to IRON Kernel
+• many other small fixes
