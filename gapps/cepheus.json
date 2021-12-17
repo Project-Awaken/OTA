@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1635968355,
-      "size": 1691392338,
-      "filehash": "9ddd2275fa2b2b49ca052c0d81e52d3b",
-      "filename": "Awaken-2.1-Luna-cepheus-OFFICIAL-Gapps-1249-20211104.zip",
-      "id": "861f8d1c24012f57c681b22e8eafe995eef20adfd0fc85ed7703439118682084",
+      "datetime": 1639729163,
+      "size": 1769546835,
+      "filehash": "02a602e4cba99288e219298b1cc413ea",
+      "filename": "Awaken-2.2-Ares-cepheus-OFFICIAL-Gapps-0822-20211217.zip",
+      "id": "0c8d3cba08f83d563ed41fe3fb8319268f05ceb96d43202edeefb176d60af8fb",
       "romtype": "",
       "version": "",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.1-Luna-cepheus-OFFICIAL-Gapps-1249-20211104.zip/download"
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.2-Ares-cepheus-OFFICIAL-Gapps-0822-20211217.zip/download"
     }
   ]
 }
