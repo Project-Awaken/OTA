@@ -21,11 +21,7 @@ Source Changelog:
 • Some UHD improvements
 • Updated sqlite
 
-Notes:
-• Initial Official Release
-• This is User/Enforcing release build
-• Based on new trees
-     - https://github.com/Project-Awaken/android_device_xiaomi_vayu
-• Based on OSS vendor
-• Included Litten kernel
-     - https://github.com/raghavt20/kernel_sm8150
+Device Changelog:
+• Hotfix Release
+• Fixed FPC Fingerprint.
+• Fixed some issues with 'volume -' + 'power button' screenshots.
