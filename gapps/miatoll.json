@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1636126408,
-      "size": 1743897380,
-      "filehash": "897ab52443b06edcff8e5d08b5fb5054",
-      "filename": "Awaken-2.1-Luna-miatoll-OFFICIAL-Gapps-1625-20211105.zip",
-      "id": "748501dcf17a3fe070991ed57759292144816a85277e91f0344aa7295d8ff6b6",
+      "datetime": 1639998386,
+      "size": 1936764042,
+      "filehash": "2fac0eb9be7717c4c2de653223dee4e8",
+      "filename": "Awaken-2.2-Ares-miatoll-OFFICIAL-Gapps-1109-20211220.zip",
+      "id": "d5fddc2d0592947b530dd434a7226db7f6e75b8cdb9d738ca66f88790f67701f",
       "romtype": "OFFICIAL",
-      "version": "2.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/Awaken-2.1-Luna-miatoll-OFFICIAL-Gapps-1625-20211105.zip/download"
+      "version": "2.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/Awaken-2.2-Ares-miatoll-OFFICIAL-Gapps-1109-20211220.zip/download"
     }
   ]
 }
