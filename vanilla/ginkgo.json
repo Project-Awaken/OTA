@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1636180142,
-      "size": 868879135,
-      "filehash": "6a3d5a10c2ead01ee3b8ad46edf94b68",
-      "filename": "Awaken-2.1-Luna-ginkgo-OFFICIAL-Vanilla-0631-20211106.zip",
-      "id": "ab63bff1ffc8e1e9afd9502fac3f8aa10c79d696ba7bf736820ded72ee29f5d3",
+      "datetime": 1639992939,
+      "size": 897430254,
+      "filehash": "66cea78b4fc2ab7a86ca554d6f7c0121",
+      "filename": "Awaken-2.2-Ares-ginkgo-OFFICIAL-Vanilla-0937-20211220.zip",
+      "id": "113fac691332077e1ebfb292f44c6727d50c73f16794b751a4a10c8069caec15",
       "romtype": "OFFICIAL",
-      "version": "2.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/ginkgo/Awaken-2.1-Luna-ginkgo-OFFICIAL-Vanilla-0631-20211106.zip/download"
+      "version": "2.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/ginkgo/Awaken-2.2-Ares-ginkgo-OFFICIAL-Vanilla-0937-20211220.zip/download"
     }
   ]
 }
