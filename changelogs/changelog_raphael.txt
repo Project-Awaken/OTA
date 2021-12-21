@@ -1,0 +1,45 @@
+===============
+21-12-2021
+===============
+
+Note:
+• Rom is based on OSS vendor. Read instructions carefully
+• Last update for 2021. Merry Christmas and a Happy New Year :D
+
+Source Changelog:
+• Add option to cycle through ringer modes
+• Add vibration patterns from oos
+• Added touch hidl support & systemui reboot in advance power menu
+• Added support for pixel charging animation & themed icons on pixel launcher
+• Allow users to customize gesture navbar & hide gesture bar
+• Allow users to toggle combined signal icons & long press power button toggle torch
+• Introducing battery styles
+• Introducing old style mobile data indication & 4G instead of LTE option
+• Introducing volume key music control & volume rocker wake 
+• Introducing double tap to trigger doze & pocket lock
+• Introducing increasing ringtone & incall vibration options
+• Introducing refresh rate settings & monet customization
+• Fixed alarm and vibrate icon not showing in status bar
+• Fixed emerygency sos crash issue
+• Fixed navbar issue in portrait mode
+• Fixed some devices not detecting oem fast charger
+• Some UHD improvements
+• Updated sqlite
+
+Device Changelog:
+
+• First Official release
+• Updated build prop and desc to Pixel 6 Pro December release
+• Updated Gapps to Pixel 6 Pro December
+• Make use of Arm v8-2a arch
+• Fixed a few SE denials
+• Fixed path for Gcam permissions
+• Updated blobs to LA.UM.9.1.r1-10900-SMxxx0.0
+• Merged latest changes from Arrow kernel
+• Add HDR and WCG flags
+• Cleanup rootdir
+• Fixed 180hz game mode page being transparent
+• Increased status bar height a bit
+• Add FM radio
+• Added maintainer string
+• Removed useless blobs
