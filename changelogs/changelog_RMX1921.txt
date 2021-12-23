@@ -1,5 +1,5 @@
 ===============
-15-12-2021
+23-12-2021
 ===============
 Source Changelog:
 • Add option to cycle through ringer modes
@@ -22,9 +22,8 @@ Source Changelog:
 • Updated sqlite
 
 Device Changelog:
-• Blobs updated from RUI 2.0 (except for camera, sensors, bluetooth and fingerprint)
-• Added assistant and fixed camera screen off gesture actions
-• Moved to pixel power hal
-• Moved from android lmkd to simple lmk by Sultan
-• Switched to Vulkan UI renderer
-• Cleaned up useless blobs
+• Updated BT blobs from Pixel 3aXL
+• Fixed screen off fod (again)
+• Cleaned up audio profiles
+• Improved ram management for 4 GB users (tuned dalvik props)
+• Added SIM ON/Off switch (uprev radio to 1.5)
