@@ -1,5 +1,5 @@
 ===============
-23-12-2021
+27-12-2021
 ===============
 Source Changelog:
 • Add option to cycle through ringer modes
@@ -22,8 +22,5 @@ Source Changelog:
 • Updated sqlite
 
 Device Changelog:
-• Updated BT blobs from Pixel 3aXL
-• Fixed screen off fod (again)
-• Cleaned up audio profiles
-• Improved ram management for 4 GB users (tuned dalvik props)
-• Added SIM ON/Off switch (uprev radio to 1.5)
+• Fixed camera script (camera broken on clean flash)
+• Improved battery life (fixed buggy deep sleep)
