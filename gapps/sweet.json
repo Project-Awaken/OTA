@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1639622540,
-      "size": 1749478044,
-      "filehash": "7e9604c461644a4cfcfc97ea17bd6fb3",
-      "filename": "Awaken-2.2-Ares-sweet-OFFICIAL-Gapps-0242-20211216.zip",
-      "id": "7cacaafb9247aec6ece511ac10e4c424804189712d83d9871d32d4ebbd4d7aea",
+      "datetime": 1642420902,
+      "size": 1699959056,
+      "filehash": "eac56e7452ddae2b4b688323187d0720",
+      "filename": "Awaken-2.3-Nebula-sweet-OFFICIAL-Gapps-1205-20220117.zip",
+      "id": "d3159b2925983cacd342670a4002ae5f34dc9091646a2b5b812b81fe051b56fd",
       "romtype": "OFFICIAL",
-      "version": "2.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.2-Ares-sweet-OFFICIAL-Gapps-0242-20211216.zip/download"
+      "version": "2.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.3-Nebula-sweet-OFFICIAL-Gapps-1205-20220117.zip/download"
     }
   ]
 }
