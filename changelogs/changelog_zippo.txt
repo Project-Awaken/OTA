@@ -1,19 +1,27 @@
 ===============
-16-12-2021
+18-01-2022
 ===============
 Source Changelog:
-• Add option to cycle through ringer modes
-• Add vibration patterns from oos
-• Added touch hidl support & systemui reboot in advance power menu
-• Added support for pixel charging animation & themed icons on pixel launcher
-• Allow users to customize gesture navbar & hide gesture bar
-• Allow users to toggle combined signal icons & long press power button toggle torch
-• Introducing battery styles
-• Introducing old style mobile data indication & 4G instead of LTE option
-• Introducing volume key music control & volume rocker wake 
-• Introducing double tap to trigger doze & pocket lock
-• Introducing increasing ringtone & incall vibration options
-• Introducing refresh rate settings & monet customization
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
+• Some UHD improvements
+• Fonts are now systemwide
 
 - Fixed issues -
 
@@ -28,14 +36,12 @@ Source Changelog:
 • Updated sqlite
 
 Device Changelog:
-• SELinux Enforcing
-• Proton clang
-• Adjust schedtune params
-• Fix FOD which needed double touch to unlock
-• Add Moto Dolby
-• Use correct colour profiles
-• Enable OEM unlocking toggle
-• Enable SAE for WPA3
-• Add NotchBar killer overlay
-• Add support for FPS info
-• Add setting and QS tile for HBM
+• Turn off compressed apex
+• Unpin camera app to save some RAM
+• Switch to AOSP WFD
+• Switch to Xiaomi fingerprint extension
+• Update many blobs from CAF
+• Switch back to QTI BT
+• Integrate MotoDolby in the audio settings
+• Adapt parts to S style and add icon vectors
+• Update kernel to Schatzkiste 0.7 by Einar
