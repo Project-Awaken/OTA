@@ -1,28 +1,39 @@
 ===============
-29-12-2021
+19-01-2022
 ===============
 Source Changelog:
-• Add option to cycle through ringer modes
-• Add vibration patterns from oos
-• Added touch hidl support & systemui reboot in advance power menu
-• Added support for pixel charging animation & themed icons on pixel launcher
-• Allow users to customize gesture navbar & hide gesture bar
-• Allow users to toggle combined signal icons & long press power button toggle torch
-• Introducing battery styles
-• Introducing old style mobile data indication & 4G instead of LTE option
-• Introducing volume key music control & volume rocker wake 
-• Introducing double tap to trigger doze & pocket lock
-• Introducing increasing ringtone & incall vibration options
-• Introducing refresh rate settings & monet customization
-• Fixed alarm and vibrate icon not showing in status bar
-• Fixed emerygency sos crash issue
-• Fixed navbar issue in portrait mode
-• Fixed some devices not detecting oem fast charger
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
 • Some UHD improvements
-• Updated sqlite
+• Fonts are now systemwide
+
+Device Changelog:
+• Update blobs from LA.UM.9.1.r1-10900-SMxxx0.0, Redmi Note 10 Pro V12.5.9.0.RKFMIXM, Redmi Note 7 Pro V12.5.4.0.QFHCNXM
+• Uprev to Fingerprint HAL to 2.3
+• Disable collection of I/O statistics on runtime
+• Update GPS HAL to LA.UM.9.1.r1-10200-SMxxx0.0
+• Add Support for F2FS compression and garbage collector 
+• Enable 64-bit inode version support for ext4
 
 Notes:
-• Initial Official Release
 • This is User/Enforcing release build
 • Based on OSS vendor
 • Included Litten kernel
+• Found any bug?, report it with a proper logcat
+• If you flash magisk, enable magisk hide in magisk settings
