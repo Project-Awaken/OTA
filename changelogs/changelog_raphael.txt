@@ -1,45 +1,53 @@
 ===============
-21-12-2021
+21-01-2022
 ===============
 
 Note:
 • Rom is based on OSS vendor. Read instructions carefully
-• Last update for 2021. Merry Christmas and a Happy New Year :D
 
 Source Changelog:
-• Add option to cycle through ringer modes
-• Add vibration patterns from oos
-• Added touch hidl support & systemui reboot in advance power menu
-• Added support for pixel charging animation & themed icons on pixel launcher
-• Allow users to customize gesture navbar & hide gesture bar
-• Allow users to toggle combined signal icons & long press power button toggle torch
-• Introducing battery styles
-• Introducing old style mobile data indication & 4G instead of LTE option
-• Introducing volume key music control & volume rocker wake 
-• Introducing double tap to trigger doze & pocket lock
-• Introducing increasing ringtone & incall vibration options
-• Introducing refresh rate settings & monet customization
-• Fixed alarm and vibrate icon not showing in status bar
-• Fixed emerygency sos crash issue
-• Fixed navbar issue in portrait mode
-• Fixed some devices not detecting oem fast charger
+
+• January 2022 Sec patch
+- New features -
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+- Fixed issues -
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
+- Improvements -
 • Some UHD improvements
-• Updated sqlite
+• Fonts are now systemwide (G00gle Sans)
 
-Device Changelog:
+Device changelog:
 
-• First Official release
-• Updated build prop and desc to Pixel 6 Pro December release
-• Updated Gapps to Pixel 6 Pro December
-• Make use of Arm v8-2a arch
-• Fixed a few SE denials
-• Fixed path for Gcam permissions
-• Updated blobs to LA.UM.9.1.r1-10900-SMxxx0.0
-• Merged latest changes from Arrow kernel
-• Add HDR and WCG flags
-• Cleanup rootdir
-• Fixed 180hz game mode page being transparent
-• Increased status bar height a bit
-• Add FM radio
-• Added maintainer string
-• Removed useless blobs
+• Updated build fingerprint and build desc to Pixel 6 Pro Jan 2022
+• Fixed FM
+• Switched to Qti bt
+• Fixed buggy bt audio
+• Marginally reduced battery drain. Idle drain is almost zero now
+• Added Pixel livewallpaper, Google recorder (need to set audio source in app to device only in order to have it working), NGA, ArCore
+• Updated Display and Graphics blobs to CAF tag LA.UM.9.1.r1-11400.02
+• Added vulkan support (Didn't enable by default as it's really not 100% stable yet. A game crashed for me once)
+• Upstreamed kernel, WiFi driver to CAF tag LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0 and LA.UM.9.1.r1-11500-SMxxx0.0
+• Merged tag LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0 and LA.UM.9.1.r1-11500-SMxxx0.0 in Audio media and display HALs
+• Merged 4.14.191 linux stable into kernel (Didn't merge rest cz lazy xD)
+• Tweak statusbar padding values
+• Purged Dirac, useless anyway
+• Nuked lots of unwanted code
+• Performance improvements and underhood bug fixes
+• Updated Gapps
+• Rest I don't remember
