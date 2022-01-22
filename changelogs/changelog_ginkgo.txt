@@ -1,36 +1,34 @@
 ===============
-20-12-2021
+22-1-2022
 ===============
 Source Changelog:
-• Add option to cycle through ringer modes
-• Add vibration patterns from oos
-• Added touch hidl support & systemui reboot in advance power menu
-• Added support for pixel charging animation & themed icons on pixel launcher
-• Allow users to customize gesture navbar & hide gesture bar
-• Allow users to toggle combined signal icons & long press power button toggle torch
-• Introducing battery styles
-• Introducing old style mobile data indication & 4G instead of LTE option
-• Introducing volume key music control & volume rocker wake 
-• Introducing double tap to trigger doze & pocket lock
-• Introducing increasing ringtone & incall vibration options
-• Introducing refresh rate settings & monet customization
-• Fixed alarm and vibrate icon not showing in status bar
-• Fixed emerygency sos crash issue
-• Fixed navbar issue in portrait mode
-• Fixed some devices not detecting oem fast charger
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
 • Some UHD improvements
-• Updated sqlite
+• Fonts are now systemwide
+
 
 Device Changelog:
-• Upstreamed kernel to 4.14.258 and merged LA.UM.9.11.r1-05000-NICOBAR.QSSI12.0 CAF tag
-• Fixed wifi and bluetooth mac address
-• Switched to pixel libperfmgr for boosting
-• Removed useless QTI PASR feature
-• Enabled FUSE passthrough mode
-• Align statusbar correctly on lockscreen
-• Disabled broken zygote USAP pool
-• Updated miui blobs to V12.5.1.0
-• More changes in XiaomiParts
-• Fixed a bug with volume control on compressed audio playback
-• Fixed a bug with google apps crashing when touching the fingerpint sensor
-• Fixed flickering and improved performance and fluidity overall
+• Upstreamed kernel to 4.14.262 and merged LA.UM.9.11.r1-05100-NICOBAR.0 CAF tag
+• Switched back to QTI BT
+• Added miui camera back
+• Disable vsync for CPU rendered apps
+• Reverted usage of Vulkan UI renderer
+• Cleaned up a few blobs
+• Miscellaneous changes
