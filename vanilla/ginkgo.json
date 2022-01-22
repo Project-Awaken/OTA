@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1639992939,
-      "size": 897430254,
-      "filehash": "66cea78b4fc2ab7a86ca554d6f7c0121",
-      "filename": "Awaken-2.2-Ares-ginkgo-OFFICIAL-Vanilla-0937-20211220.zip",
-      "id": "113fac691332077e1ebfb292f44c6727d50c73f16794b751a4a10c8069caec15",
+      "datetime": 1642718440,
+      "size": 930641455,
+      "filehash": "0efcd3f454ae7338443a7674a7a838d6",
+      "filename": "Awaken-2.3-Nebula-ginkgo-OFFICIAL-Vanilla-2240-20220120.zip",
+      "id": "adacae5dbdc4b8df08c804c9a00db996c633c9397d7038a8ee360b2afd672dde",
       "romtype": "OFFICIAL",
-      "version": "2.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/ginkgo/Awaken-2.2-Ares-ginkgo-OFFICIAL-Vanilla-0937-20211220.zip/download"
+      "version": "2.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/ginkgo/Awaken-2.3-Nebula-ginkgo-OFFICIAL-Vanilla-2240-20220120.zip/download"
     }
   ]
 }
