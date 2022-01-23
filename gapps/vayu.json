@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1639910825,
-      "size": 1813272142,
-      "filehash": "a3bc54de125743024e70236b9ec773be",
-      "filename": "Awaken-2.2-Ares-vayu-OFFICIAL-Gapps-1204-20211219.zip",
-      "id": "9749278b8a445d09b67fa35fd92fe58b6af9122713155e2d8acc9d77fa36879d",
+      "datetime": 1642935952,
+      "size": 1844191692,
+      "filehash": "98ec813cd611da5a04da496829cbad4b",
+      "filename": "Awaken-2.3-Nebula-vayu-OFFICIAL-Gapps-1108-20220123.zip",
+      "id": "4613aa382aed4ad0095bee7b15d3eede5fe9dba4ff357eefc7f98fc765993c5c",
       "romtype": "OFFICIAL",
-      "version": "2.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/Awaken-2.2-Ares-vayu-OFFICIAL-Gapps-1204-20211219.zip/download"
+      "version": "2.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/Awaken-2.3-Nebula-vayu-OFFICIAL-Gapps-1108-20220123.zip/download"
     }
   ]
 }
