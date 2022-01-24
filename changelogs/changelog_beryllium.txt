@@ -1,29 +1,13 @@
 ===============
-17-01-2022
+24-01-2022
 ===============
 Source Changelog:
-• Added option to scramble pin layout & lockscreen quick unlock
-• Added QS brightness customization
-• Add support for allowing/disallowing apps on restricted networks
-• Allow users to swap volume buttons rotation based
-• Allow users to toggle haptic feedback on back gesture
-• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
-• Allow users to toggle small keyguard clock
-• Bring back statusbar NFC icon
-• Introducing ambient edge lightning customization
-• Introducing HeadsUp customization
-• Introducing lock screen media artwork & visualizer customizations
-• Introducing lockscreen charging info
-• Introducing OOS style network traffic
-• Fixed 1.1.1.1 themed icon
-• Fixed battery graph reset issue
-• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
-• Fixed google photos unlimited backup & smartspace
-• Fixed pip mode and cat control crash
-• Some UHD improvements
-• Fonts are now systemwide
+• Fixed issues with Headsup customizations
+• Fixed location privacy indicator getting stuck
+• Fixed QS clock & net traffic being white on light theme
+• Hide lockscreen media art if nothing is playing
 
 Device Changelog:
-• Bring back QTI bluetooth stack
-• Fixed thermal profile layout
-• Switch to QTI vibrator hal
+• Enable charging & low battery light toggle by default
+• Fixed Vilte
+• Suppress speech services by google crashes on first boot
