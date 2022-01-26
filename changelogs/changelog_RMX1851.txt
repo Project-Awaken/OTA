@@ -1,27 +1,38 @@
 ===============
-30-12-2021
+26-01-2022
 ===============
 Source Changelog:
-• Add option to cycle through ringer modes
-• Add vibration patterns from oos
-• Added touch hidl support & systemui reboot in advance power menu
-• Added support for pixel charging animation & themed icons on pixel launcher
-• Allow users to customize gesture navbar & hide gesture bar
-• Allow users to toggle combined signal icons & long press power button toggle torch
-• Introducing battery styles
-• Introducing old style mobile data indication & 4G instead of LTE option
-• Introducing volume key music control & volume rocker wake 
-• Introducing double tap to trigger doze & pocket lock
-• Introducing increasing ringtone & incall vibration options
-• Introducing refresh rate settings & monet customization
-• Fixed alarm and vibrate icon not showing in status bar
-• Fixed emerygency sos crash issue
-• Fixed navbar issue in portrait mode
-• Fixed some devices not detecting oem fast charger
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
 • Some UHD improvements
-• Updated sqlite
+• Fonts are now systemwide
 
 Device Changelog:
-• Initial build
-• User/Enforced build
-• A lot of changes and fixes
+• Switch to QTI vibrator hal
+• Configured Vibration patterns
+• Address some denials
+• Kernel upstreamed to 4.9.297
+• TCP, rcu, binder and mm Backports
+• SLMK improvements
+• Improved cpuidle
+• Switch to Eva GCC with LTO and O3 optimizations
+• Move to uclamp
+• Enable BPF JIT
+• Scheduler improvements
+• Updated Energy mode with efficient frequencies
