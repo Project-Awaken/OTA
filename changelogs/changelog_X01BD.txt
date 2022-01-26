@@ -1,28 +1,39 @@
 ===============
-18-11-2021
+26-01-2022
 ===============
-• Added deep sleep info to uptime preference
-• Add a toggle to unlink ringtone and notification volumes
-• Allow user to disable screenshot sound
-• Bring back battery percentage option
-• Bring back separate Wi-Fi & data QS tiles
-• Hide Google account avatar in Settings
-• Introducing Advanced Reboot & Double Tap to Sleep on status bar & lock screen
-• Introducing Caffeine, Ambient Display, USB Tether, Heads up, Sync, Sound & Partial/Full Screenshot QS Tile
-• Introducing Udfps for FOD devices
-• Introducing OTA Update for both Gapps and Vanilla
-• Make Google Sans as default font
-• Fixed some animation preview in settings
-• Fixed exFAT SD card issue
-• Fixed random crash & recovery stuck issue
+Source Changelog:
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+
+- Fixed issues -
+
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
+
+- Improvements -
+
 • Some UHD improvements
-• Move display density option to Settings
-• Switch to Memochō for uploading crash log
+• Fonts are now systemwide
 
 Device Changelog:
-• Initial Build
-• Fixed Extra Dim
-• Fixed Night Light
-• Fixed recovery stuck issue
-• Improved audio quality
-• Remove blur on system.prop
+• Disable vsync for GPU rendered app
+• Enabled GPU protected contents
+• Fixed Speech Services crash on setupwizard
+• Switched back to QTI BT
+• Switched thermal with QTI Thermal from LineageOS
+• Switched to Vulkan UI rendered
+

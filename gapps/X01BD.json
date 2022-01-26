@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1637146304,
-      "size": 1709570151,
-      "filehash": "067d1ed5fb0d878855362fb9e59b893a",
-      "filename": "Awaken-2.1-Luna-X01BD-OFFICIAL-Gapps-1036-20211118.zip",
-      "id": "2da5e557d5fd57b0c1da401637fd8380d80c2af01dda86fb12b46aea9fdb7c5b",
+      "datetime": 1643168529,
+      "size": 1762604436,
+      "filehash": "b6797f740d2b46ebcd36738922a1078a",
+      "filename": "Awaken-2.3-Nebula-X01BD-OFFICIAL-Gapps-0342-20220126.zip",
+      "id": "eb08ce445fbca9f0d9d0736ee17f5096196f091ed111fb485fee756be24114c0",
       "romtype": "OFFICIAL",
-      "version": "2.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/X01BD/Awaken-2.1-Luna-X01BD-OFFICIAL-Gapps-1036-20211118.zip/download"
+      "version": "2.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/X01BD/Awaken-2.3-Nebula-X01BD-OFFICiAL-GAPPS-0342-20220126.zip/download"
     }
   ]
 }
