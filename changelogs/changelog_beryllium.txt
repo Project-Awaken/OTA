@@ -1,13 +1,8 @@
 ===============
-24-01-2022
+26-01-2022
 ===============
-Source Changelog:
-• Fixed issues with Headsup customizations
-• Fixed location privacy indicator getting stuck
-• Fixed QS clock & net traffic being white on light theme
-• Hide lockscreen media art if nothing is playing
-
 Device Changelog:
-• Enable charging & low battery light toggle by default
-• Fixed Vilte
-• Suppress speech services by google crashes on first boot
+• Fixed hotspot issue for some users
+
+Notes:
+• Flash this update only if you had hotspot issue in previous build else dont.
