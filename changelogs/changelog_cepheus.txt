@@ -1,32 +1,10 @@
 ===============
-17-12-2021
+01-02-2021
 ===============
-Source Changelog:
-• Add option to cycle through ringer modes
-• Add vibration patterns from oos
-• Added touch hidl support & systemui reboot in advance power menu
-• Added support for pixel charging animation & themed icons on pixel launcher
-• Allow users to customize gesture navbar & hide gesture bar
-• Allow users to toggle combined signal icons & long press power button toggle torch
-• Introducing battery styles
-• Introducing old style mobile data indication & 4G instead of LTE option
-• Introducing volume key music control & volume rocker wake 
-• Introducing double tap to trigger doze & pocket lock
-• Introducing increasing ringtone & incall vibration options
-• Introducing refresh rate settings & monet customization
-
-- Fixed issues -
-
-• Fixed alarm and vibrate icon not showing in status bar
-• Fixed emerygency sos crash issue
-• Fixed navbar issue in portrait mode
-• Fixed some devices not detecting oem fast charger
-
-- Ah yes, improvements -
-
-• Some UHD improvements
-• Updated sqlite
-
 Device Changelog:
-• switched to IRON Kernel
-• many other small fixes
+• Enabled updatable apex
+• Fix charging speed for all available adapter(again xd)
+• Disabled 2.4GHz channel bonding by default, some more under the hood wlan driver changes
+• Kernel upstreamed to .262
+• Enabled status bar burn-in protection
+• lets go back to EvasionXiao Kernel for better stability
