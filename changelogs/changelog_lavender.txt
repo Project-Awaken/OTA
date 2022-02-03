@@ -1,0 +1,36 @@
+===============
+03-02-2022
+===============
+Source Changelog:
+• Added option to scramble pin layout & lockscreen quick unlock
+• Added QS brightness customization
+• Add support for allowing/disallowing apps on restricted networks
+• Allow users to swap volume buttons rotation based
+• Allow users to toggle haptic feedback on back gesture
+• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
+• Allow users to toggle small keyguard clock
+• Bring back statusbar NFC icon
+• Introducing ambient edge lightning customization
+• Introducing HeadsUp customization
+• Introducing lock screen media artwork & visualizer customizations
+• Introducing lockscreen charging info
+• Introducing OOS style network traffic
+• Fixed 1.1.1.1 themed icon
+• Fixed battery graph reset issue
+• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
+• Fixed google photos unlimited backup & smartspace
+• Fixed pip mode and cat control crash
+• Some UHD improvements
+• Fonts are now systemwide
+
+Device Changelog:
+• AOD is available for user choice.
+• Xiaomi Parts added.
+• Switch audio HAL to V7.
+• Some other changes that you can check on my github page.
+
+Notes:
+• Initial Official Release
+• This is User/Enforcing release build
+• Included Predator QTI EAS kernel
+• Found any bug?, report it with a proper logcat
