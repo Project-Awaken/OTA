@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1643833491,
-      "size": 891522163,
-      "filehash": "9942f06c831d3fe8d09265daa0c89c9a",
-      "filename": "Awaken-2.3-Nebula-lavender-OFFICIAL-Vanilla-2240-20220202.zip",
-      "id": "46bf31730e4133183d6f627d1707c6b8df01d3f7aa32f71b3a69085e304c0ff7",
+      "datetime": 1644344103,
+      "size": 882775262,
+      "filehash": "4057b65dd6b0c4f7d0354e20efe4f152",
+      "filename": "Awaken-2.4-Aurora-lavender-OFFICIAL-Vanilla-1815-20220208.zip",
+      "id": "2c5083a4dc82ea1b7b40280065015e86ad0e2aa29c9c39e8c8ca2d61f0c4db89",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.3-Nebula-lavender-OFFICIAL-Vanilla-2240-20220202.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.4-Aurora-lavender-OFFICIAL-Vanilla-1815-20220208.zip/download"
     }
   ]
 }
