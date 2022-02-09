@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642467616,
-      "size": 1467102700,
-      "filehash": "9d3a7c71d7fa2fa1a9e7f74d1784a67b",
-      "filename": "Awaken-2.3-Nebula-zippo-OFFICIAL-Gapps-0100-20220118.zip",
-      "id": "ed741faa51ed2c833b61d264c79602eb2cdd9796b66468d4c0fa0ffedb5bd96c",
+      "datetime": 1644388578,
+      "size": 1457510096,
+      "filehash": "339570d54648a7cd1b7a1855118b1a13",
+      "filename": "Awaken-2.4-Aurora-zippo-OFFICIAL-Gapps-2040-20220209.zip",
+      "id": "136db27fe4fe217382dbe896b6e0f6701b489f8e6434c5efd2666332f1840a26",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.3-Nebula-zippo-OFFICIAL-Gapps-0100-20220118.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.4-Aurora-zippo-OFFICIAL-Gapps-2040-20220209.zip/download"
     }
   ]
 }
