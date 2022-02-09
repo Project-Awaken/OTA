@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1643487435,
-      "size": 1647308619,
-      "filehash": "521befc14ee99f346e3672890b9a639f",
-      "filename": "Awaken-2.3-Nebula-r5x-OFFICIAL-Gapps-2020-20220129.zip",
-      "id": "58b3c8f488f8702af540c13d0f83fb3d8b6acd04aeda4c43954cc5848e65af76",
+      "datetime": 1644339363,
+      "size": 1641520189,
+      "filehash": "0f4d7493bc2372eb4c582856a79edd9e",
+      "filename": "Awaken-2.4-Aurora-r5x-OFFICIAL-Gapps-1656-20220208.zip",
+      "id": "fb85f1aac9d110dc36ef07050d25014d46e36efbf7cfdecd3e5fcc6ce06cba2b",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/r5x/Awaken-2.3-Nebula-r5x-OFFICIAL-Gapps-2020-20220129.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/r5x/Awaken-2.4-Aurora-r5x-OFFICIAL-Gapps-1656-20220208.zip/download"
     }
   ]
 }
