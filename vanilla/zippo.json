@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642467616,
-      "size": 830573363,
-      "filehash": "09d44f3749724cdbbc456352b56054fa",
-      "filename": "Awaken-2.3-Nebula-zippo-OFFICIAL-Vanilla-0833-20220118.zip",
-      "id": "1da19f8882695b3c08ec042ce8bb629fdfa147630cfb3e6aa3fe7293f1a46abf",
+      "datetime": 1644388578,
+      "size": 820759373,
+      "filehash": "8fc88ef9479b1858faa34fe7f68c897a",
+      "filename": "Awaken-2.4-Aurora-zippo-OFFICIAL-Vanilla-2227-20220209.zip",
+      "id": "c41c2f31579d64e488badd8b314086f835c512e87c497c233f12f0e8e5995673",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.3-Nebula-zippo-OFFICIAL-Vanilla-0833-20220118.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.4-Aurora-zippo-OFFICIAL-Vanilla-2227-20220209.zip/download"
     }
   ]
 }
