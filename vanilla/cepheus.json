@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642753267,
-      "size": 1083842808,
-      "filehash": "7ee11a9e46a20f84c1986230067d54ac",
-      "filename": "Awaken-2.3-Nebula-cepheus-OFFICIAL-Vanilla-1012-20220121.zip",
-      "id": "6d4ad635d3f069dff00141b44a71ff2aaa27c9a9ddf8ffcd5c1d55d5f0c33db3",
+      "datetime": 1644409038,
+      "size": 1084601772,
+      "filehash": "1bde7c2f127fb38fe49407f1925b4331",
+      "filename": "Awaken-2.4-Aurora-cepheus-OFFICIAL-Vanilla-1219-20220209.zip",
+      "id": "12facbdbc05aaee1413e84b1e30aa9b7bf5c9bc88ee0654edb54f3bfebeb5df0",
       "romtype": "",
       "version": "",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.3-Nebula-cepheus-OFFICIAL-Vanilla-1012-20220121.zip/download"
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.4-Aurora-cepheus-OFFICIAL-Vanilla-1219-20220209.zip/download"
     }
   ]
 }
