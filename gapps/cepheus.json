@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642753267,
-      "size": 1715769153,
-      "filehash": "6535f9a42d26e384d352efbfd7e2858c",
-      "filename": "Awaken-2.3-Nebula-cepheus-OFFICIAL-Gapps-0912-20220121.zip",
-      "id": "47de8874b8cba6b395988879f7d174258dcdf624b850544155d14009cea47ac0",
-      "romtype": "",
-      "version": "",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.3-Nebula-cepheus-OFFICIAL-Gapps-0912-20220121.zip/download"
+      "datetime": 1644407407,
+      "size": 1907946230,
+      "filehash": "d31091d2e65c5d7dd16fec5aca97614b",
+      "filename": "Awaken-2.4-Aurora-cepheus-OFFICIAL-Gapps-1150-20220209.zip",
+      "id": "b350c0421f8ae2f9559aa188922b742e5a4eeb98ebf56b0d67943e87487b32a0",
+      "romtype": "OFFICIAL",
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.4-Aurora-cepheus-OFFICIAL-Gapps-1150-20220209.zip/download"
     }
   ]
 }
