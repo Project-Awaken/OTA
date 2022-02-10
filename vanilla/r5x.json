@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1643487435,
-      "size": 1015054242,
-      "filehash": "db5be620ea9982e2a9b7b1065ba41cf0",
-      "filename": "Awaken-2.3-Nebula-r5x-OFFICIAL-Vanilla-1913-20220131.zip",
-      "id": "c9f43124d85eb32b061015eff4e10bb84672205b12262ffc88efbf085c397b9b",
+      "datetime": 1644339363,
+      "size": 1008774605,
+      "filehash": "ebc8f5a58d084999160038faa3bdd9cc",
+      "filename": "Awaken-2.4-Aurora-r5x-OFFICIAL-Vanilla-0310-20220210.zip",
+      "id": "ee31222d2b82d67760fa916312eb35a20df99b225392b264e7902810f519aa15",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/r5x/Awaken-2.3-Nebula-r5x-OFFICIAL-Vanilla-1913-20220131.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/r5x/Awaken-2.4-Aurora-r5x-OFFICIAL-Vanilla-0310-20220210.zip/download"
     }
   ]
 }
