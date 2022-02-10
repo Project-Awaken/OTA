@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642420902,
-      "size": 1699959056,
-      "filehash": "eac56e7452ddae2b4b688323187d0720",
-      "filename": "Awaken-2.3-Nebula-sweet-OFFICIAL-Gapps-1205-20220117.zip",
-      "id": "d3159b2925983cacd342670a4002ae5f34dc9091646a2b5b812b81fe051b56fd",
+      "datetime": 1644449535,
+      "size": 1718006638,
+      "filehash": "f38128bf4cfcdd60d4ddb695c26a36ca",
+      "filename": "Awaken-2.4-Aurora-sweet-OFFICIAL-Gapps-2335-20220209.zip",
+      "id": "7d01081aaf47d9be94e23bfcdc733b7a8323ebc5dd76904ec211fa2c9f9767ff",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.3-Nebula-sweet-OFFICIAL-Gapps-1205-20220117.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.4-Aurora-sweet-OFFICIAL-Gapps-2335-20220209.zip/download"
     }
   ]
 }
