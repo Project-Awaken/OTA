@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": 1644339363,
-      "size": 1641520189,
-      "filehash": "0f4d7493bc2372eb4c582856a79edd9e",
-      "filename": "Awaken-2.4-Aurora-r5x-OFFICIAL-Gapps-1656-20220208.zip",
-      "id": "fb85f1aac9d110dc36ef07050d25014d46e36efbf7cfdecd3e5fcc6ce06cba2b",
+      "size": 1641653475,
+      "filehash": "48367356ca12f748b55ef9003dbcc0de",
+      "filename": "Awaken-2.4-Aurora-r5x-OFFICIAL-Gapps-1717-20220211.zip",
+      "id": "16e7fdc7306012525b9238805034b2e0af6ebc4fbeb28a18082f2717b1faa462",
       "romtype": "OFFICIAL",
       "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/r5x/Awaken-2.4-Aurora-r5x-OFFICIAL-Gapps-1656-20220208.zip/download"
+      "url": "https://sourceforge.net/projects/project-awaken/files/r5x/Awaken-2.4-Aurora-r5x-OFFICIAL-Gapps-1717-20220211.zip/download"
     }
   ]
 }
