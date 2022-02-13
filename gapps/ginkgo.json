@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642722111,
-      "size": 1565861747,
-      "filehash": "29ccb36da3b47baff7eb0126bd05f310",
-      "filename": "Awaken-2.3-Nebula-ginkgo-OFFICIAL-Gapps-2343-20220120.zip",
-      "id": "a99360c42c30c1e53a8158685cc19d43a21e30a897bc2ca3ffabc6b622fc527e",
+      "datetime": 1644598208,
+      "size": 1559138417,
+      "filehash": "351df6baed7f3fad9f7746b589cdfdb3",
+      "filename": "Awaken-2.4-Aurora-ginkgo-OFFICIAL-Gapps-1652-20220211.zip",
+      "id": "23058b20ff3a1c0fcdc35611f9a3f689f0842f9595059ea249e8bcfcceecdebf",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/ginkgo/Awaken-2.3-Nebula-ginkgo-OFFICIAL-Gapps-2343-20220120.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/ginkgo/Awaken-2.4-Aurora-ginkgo-OFFICIAL-Gapps-1652-20220211.zip/download"
     }
   ]
 }
