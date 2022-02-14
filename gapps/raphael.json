@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642483029,
-      "size": 1937767494,
-      "filehash": "979cdbb40ee11c2d3a029041c92d4d47",
-      "filename": "Awaken-2.3-Nebula-raphael-OFFICIAL-Gapps-1237-20220120.zip",
-      "id": "2c7802a4c2109628eb7a4fe40c643a8228a79457e28d1f08f26553c8309fc3d1",
+      "datetime": 1644778274,
+      "size": 1898958435,
+      "filehash": "f2855f2c64e191a0de91d1a3c3defec6",
+      "filename": "Awaken-2.4-Aurora-raphael-OFFICIAL-Gapps-1126-20220214.zip",
+      "id": "63c9d66d917ea5746a8f88484eb90d45226747e8e7521993f8f3d458198b5497",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/Awaken-2.3-Nebula-raphael-OFFICIAL-Gapps-1237-20220120.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/Awaken-2.4-Aurora-raphael-OFFICIAL-Gapps-1126-20220214.zip/download"
     }
   ]
 }
