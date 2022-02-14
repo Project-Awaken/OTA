@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1643194001,
-      "size": 1652139749,
-      "filehash": "b3ce120b214f4a2d87c216f00cedf870",
-      "filename": "Awaken-2.3-Nebula-beryllium-OFFICIAL-Gapps-1047-20220126.zip",
-      "id": "a6b086af10c4c911c49a902e42561d0411c9d73150ebd0c6548e48a19c6e53ea",
+      "datetime": 1644815579,
+      "size": 1636916448,
+      "filehash": "69505301e05388b7fda1565f80673f3d",
+      "filename": "Awaken-2.4-Aurora-beryllium-OFFICIAL-Gapps-0513-20220214.zip",
+      "id": "782f8669cdc73f5a1120faf8c999eb08f26e3f2d07c15887a87b986aa01dbaa5",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.3-Nebula-beryllium-OFFICIAL-Gapps-1047-20220126.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.4-Aurora-beryllium-OFFICIAL-Gapps-0513-20220214.zip/download"
     }
   ]
 }

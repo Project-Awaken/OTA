@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1643203232,
-      "size": 922309895,
-      "filehash": "bb4e41bef50aa5cc9fdab5e978286993",
-      "filename": "Awaken-2.3-Nebula-beryllium-OFFICIAL-Vanilla-1321-20220126.zip",
-      "id": "8b5a3c5dacb1eb5427d46085a6d02a70be1bbf8f74229b8525f456d16e354368",
+      "datetime": 1644814696,
+      "size": 906618495,
+      "filehash": "516fd3e021321fa3d01614263fcfefdd",
+      "filename": "Awaken-2.4-Aurora-beryllium-OFFICIAL-Vanilla-0458-20220214.zip",
+      "id": "1a27dbdbf2e5374f82ff844248192d95877e5d886733c64af69eb6e3d043b46b",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.3-Nebula-beryllium-OFFICIAL-Vanilla-1321-20220126.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.4-Aurora-beryllium-OFFICIAL-Vanilla-0458-20220214.zip/download"
     }
   ]
 }
