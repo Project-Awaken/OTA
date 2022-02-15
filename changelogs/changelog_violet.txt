@@ -1,35 +1,34 @@
 ===============
-19-01-2022
+15-02-2022
 ===============
 Source Changelog:
-• Added option to scramble pin layout & lockscreen quick unlock
-• Added QS brightness customization
-• Add support for allowing/disallowing apps on restricted networks
-• Allow users to swap volume buttons rotation based
-• Allow users to toggle haptic feedback on back gesture
-• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
-• Allow users to toggle small keyguard clock
-• Bring back statusbar NFC icon
-• Introducing ambient edge lightning customization
-• Introducing HeadsUp customization
-• Introducing lock screen media artwork & visualizer customizations
-• Introducing lockscreen charging info
-• Introducing OOS style network traffic
-• Fixed 1.1.1.1 themed icon
-• Fixed battery graph reset issue
-• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
-• Fixed google photos unlimited backup & smartspace
-• Fixed pip mode and cat control crash
-• Some UHD improvements
-• Fonts are now systemwide
+• Added option to invert navbar layout
+• Added support for repainter integration service
+• Allow maintainers to configure audio panel location
+• Allow users to toggle haptic feedback on qs tiles
+• Allow users to toggle privacy indicator
+• Bring back icon shape customization
+• Introduced Adaptive Playback
+• Introduced Game Dashboard
+• Introduced hotspot setting to allow VPN upstreams
+• Introduced one shot auto brightness
+• Introduced pixel sounds & remove aosp sounds
+• Introduced statusbar brightness control
+• Make Quick Unlock compatible with long PIN/Password
+• Avoid spoofing props for gcam and mods
+• Fixed Kai icon pack overlay for carriers using 5 bars of signal
+• Fixed some layout for ambient music ticker
+• Fixed glitchy charging info on ambient display
+• Improved QS Dataswitch, Sound & Screenshot tiles
 
 Device Changelog:
-• Update blobs from LA.UM.9.1.r1-10900-SMxxx0.0, Redmi Note 10 Pro V12.5.9.0.RKFMIXM, Redmi Note 7 Pro V12.5.4.0.QFHCNXM
-• Uprev to Fingerprint HAL to 2.3
-• Disable collection of I/O statistics on runtime
-• Update GPS HAL to LA.UM.9.1.r1-10200-SMxxx0.0
-• Add Support for F2FS compression and garbage collector 
-• Enable 64-bit inode version support for ext4
+• Fix scrolling lag in few apps
+• Disable VSync for CPU rendered apps
+• Enable skia reduceOpsTaskSplitting
+• Fix Fingerprint Wake-up Animation
+• Fix clear speaker and Update clear speaker audio from MIUI 12
+• Enable display protected contents in SF
+• Disable TTS force stop warning for Decrypted Users
 
 Notes:
 • This is User/Enforcing release build
