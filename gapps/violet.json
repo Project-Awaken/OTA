@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1642669661,
-      "size": 1651488601,
-      "filehash": "b0262e35f80657475cd3d89c25ca6d55",
-      "filename": "Awaken-2.3-Nebula-violet-OFFICIAL-Gapps-0911-20220120.zip",
-      "id": "fcd428bc51219f23fe7ea3d64de7636b3ab04122971078c16f1a210c88f58577",
+      "datetime": 1644821948,
+      "size": 1638897395,
+      "filehash": "1f28e78343e86bca0743d12a1ede5933",
+      "filename": "Awaken-2.4-Aurora-violet-OFFICIAL-Gapps-0659-20220214.zip",
+      "id": "cbbe1074144c6edd03c7ed78abfdfcfb9f213bccc0e76430629ab6b55633d35e",
       "romtype": "OFFICIAL",
-      "version": "2.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/violet/Awaken-2.3-Nebula-violet-OFFICIAL-Gapps-0911-20220120.zip/download"
+      "version": "2.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/violet/Awaken-2.4-Aurora-violet-OFFICIAL-Gapps-0659-20220214.zip/download"
     }
   ]
 }
