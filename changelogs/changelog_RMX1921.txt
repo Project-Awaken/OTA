@@ -1,5 +1,5 @@
 ===============
-11-02-2022
+17-02-2022
 ===============
 Source Changelog:
 
@@ -31,7 +31,5 @@ Source Changelog:
 • Improved QS Dataswitch, Sound & Screenshot tiles
 
 Device Changelog:
-• Fixed night light too reddish
-• Fixed proximity not waking the display (use accelerometer to wakeup)
-• Now RealmeParts tiles can be long pressed to open Realme settings
-• Improved fod on aod service logic
+• Fixed always on low brightness
+• Fixed smart wake always active
