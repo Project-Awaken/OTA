@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644814696,
-      "size": 906618495,
-      "filehash": "516fd3e021321fa3d01614263fcfefdd",
-      "filename": "Awaken-2.4-Aurora-beryllium-OFFICIAL-Vanilla-0458-20220214.zip",
-      "id": "1a27dbdbf2e5374f82ff844248192d95877e5d886733c64af69eb6e3d043b46b",
+      "datetime": 1648384983,
+      "size": 959411509,
+      "filehash": "d92990e8af9f21080fb7328e9812a4e9",
+      "filename": "Awaken-2.5-Gaia-beryllium-OFFICIAL-Vanilla-1243-20220327.zip",
+      "id": "56e1f84e9be76dba597cb9d4ec8fb4f7b11b666c24273e1a2d924409be32b116",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.4-Aurora-beryllium-OFFICIAL-Vanilla-0458-20220214.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.5-Gaia-beryllium-OFFICIAL-Vanilla-1243-20220327.zip/download"
     }
   ]
 }

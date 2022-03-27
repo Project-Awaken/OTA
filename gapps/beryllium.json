@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644815579,
-      "size": 1636916448,
-      "filehash": "69505301e05388b7fda1565f80673f3d",
-      "filename": "Awaken-2.4-Aurora-beryllium-OFFICIAL-Gapps-0513-20220214.zip",
-      "id": "782f8669cdc73f5a1120faf8c999eb08f26e3f2d07c15887a87b986aa01dbaa5",
+      "datetime": 1648383294,
+      "size": 1677855900,
+      "filehash": "db2f1bcef23a65a7e8d9626b7741fcf5",
+      "filename": "Awaken-2.5-Gaia-beryllium-OFFICIAL-Gapps-1215-20220327.zip",
+      "id": "066c329c16b630c51823b143c491742d12dde98647f8784b4e17ba8cf84583bb",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.4-Aurora-beryllium-OFFICIAL-Gapps-0513-20220214.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.5-Gaia-beryllium-OFFICIAL-Gapps-1215-20220327.zip/download"
     }
   ]
 }
