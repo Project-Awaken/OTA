@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644388578,
-      "size": 1457510096,
-      "filehash": "339570d54648a7cd1b7a1855118b1a13",
-      "filename": "Awaken-2.4-Aurora-zippo-OFFICIAL-Gapps-2040-20220209.zip",
-      "id": "136db27fe4fe217382dbe896b6e0f6701b489f8e6434c5efd2666332f1840a26",
+      "datetime": 1648455860,
+      "size": 1513936680,
+      "filehash": "6c5bdb93087d58c92a1780202784686f",
+      "filename": "Awaken-2.5-Gaia-zippo-OFFICIAL-Gapps-0825-20220328.zip",
+      "id": "482a36ef44e47fd479d625a0125adc57abe5f95e9730871cedd13e1707e81245",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.4-Aurora-zippo-OFFICIAL-Gapps-2040-20220209.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.5-Gaia-zippo-OFFICIAL-Gapps-0825-20220328.zip/download"
     }
   ]
 }

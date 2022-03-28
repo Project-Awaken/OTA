@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644388578,
-      "size": 820759373,
-      "filehash": "8fc88ef9479b1858faa34fe7f68c897a",
-      "filename": "Awaken-2.4-Aurora-zippo-OFFICIAL-Vanilla-2227-20220209.zip",
-      "id": "c41c2f31579d64e488badd8b314086f835c512e87c497c233f12f0e8e5995673",
+      "datetime": 1648455860,
+      "size": 888438118,
+      "filehash": "cbe5708ddbe33db9a1041507b6d18f4b",
+      "filename": "Awaken-2.5-Gaia-zippo-OFFICIAL-Vanilla-0958-20220328.zip",
+      "id": "0527fa3e689db7f76ff327e003dbd46a943705c4bf7275a906c46172d62861aa",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.4-Aurora-zippo-OFFICIAL-Vanilla-2227-20220209.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.5-Gaia-zippo-OFFICIAL-Vanilla-0958-20220328.zip/download"
     }
   ]
 }
