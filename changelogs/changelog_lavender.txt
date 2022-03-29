@@ -1,30 +1,74 @@
 ===============
-08-02-2022
+29-03-2022
 ===============
+
 Source Changelog:
-• Added option to invert navbar layout
-• Added support for repainter integration service
-• Allow maintainers to configure audio panel location
-• Allow users to toggle haptic feedback on qs tiles
-• Allow users to toggle privacy indicator
-• Bring back icon shape customization
-• Introduced Adaptive Playback
-• Introduced Game Dashboard & QuickTap
-• Introduced hotspot setting to allow VPN upstreams
-• Introduced one shot auto brightness
-• Introduced pixel sounds & remove aosp sounds
-• Introduced statusbar brightness control
-• Make Quick Unlock compatible with long PIN/Password
-• Avoid spoofing props for gcam and mods
-• Fixed Kai icon pack overlay for carriers using 5 bars of signal
-• Fixed some layout for ambient music ticker
-• Fixed glitchy charging info on ambient display
-• Improved QS Dataswitch, Sound & Screenshot tiles
+
+||- New features
+
+• Allow users to use charging vibration without sounds
+• Allow users to disable ripple effect on unlock
+• Allow users to disable QS footer warnings
+• Bring back cutout force full screen option
+• Bring back back gestures swipe deadzone
+• Bring back roaming indicator to statusbar tuner
+• Bring back battery temp on battery page
+• Enable call recording on google dialer (Gapps build only)
+• Introduce pulse music visualizer
+• Introduce face unlock & app lock
+• Introduce per app volume
+• Introduce auto hide clock
+• Move battery light settings into dashboard battery section 
+• Make ringtone audio focus customizable
+• Remove divider from Battery Manager
+
+||- Fixed issues
+
+• Fixed an issue when Systemui crash on long click QS tile
+• Fixed some NPE
+
+||- Improvements
+
+• Gmscompat upstream
+
 
 Device Changelog:
-• Added Quick Tap Support.
+
+• Properly set manufacturer and soc properties
+• Remove vendor RenderScript implementation
+• Set swiotlb to default size
+• config.fs: Checkout codecs performance to LA.UM.10.2.1.r1-02900-sdm660.0
+• config.fs: Checkout to LA.UM.10.2.1.r1-03200-sdm660.0
+• overlay: Checkout CarrierConfig to LA.UM.10.2.1.r1-03200-sdm660.0
+• Optimize native executables for Cortex-A73 CPU
+• overlay: Enable VoLTE and VoWIFI for all
+• Drop product_launched_with_*.mk
+• rro_overlays: Drop TetheringOverlay
+• overlay: Default to full gesture navigation
+• Uprev bluetooth audio HIDL impl to 2.1
+• WifiOverlay: Disable ACS and 11AC for legacy chipsets
+• rootdir: Replace writepid with task_profiles for cgroup migration
+• rootdir: Give proper permissions for /dev/diag 
+• Sync EGL symlinks with CAF
+• Create a symlink to the msadp partition in vendor/etc
+• rootdir: Keep powersaving disabled during boottime
+• overlay: Fix fingerprint wake-up animation 
+• Add dex2oat changes from barbet
+• overlay: Add call recording overlay
+• prop: Enable pre-rendering
+• Disable alpha compositing in WM
+• Provide android.frameworks.sensorservice@1.0 on vendor
+• Add framework detect modules to PRODUCT_PACKAGES 
+• Uprev framework compatibility matrix to 2.0
+• SurfaceFlinger: Enable GL comp backpressure
+• Switch back to OpenGl rendering
+• Add datastatusnotification from coral SP1A.210812.015
+• DeviceSettings: Add More Dirac Presets
+• Improved fingerprint unlock feedback
+• Switched Default Kernel to Nexus EAS-CAF QTI, where some problems like apps data usage and upload network indicator are now fixed. 
 
 Notes:
+• A Clean Flash is recommended from previous version
 • This is User/Enforcing release build
-• Included Predator QTI EAS kernel
-• Found any bug?, report it with a proper logcat
+• Included Nexus EAS-CAF QTI kernel
+• Found any bug? Report it with a proper logcat

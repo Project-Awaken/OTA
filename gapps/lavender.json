@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644344103,
-      "size": 1523000040,
-      "filehash": "e8a301ec2d512f526829b55793911a88",
-      "filename": "Awaken-2.4-Aurora-lavender-OFFICIAL-Gapps-1944-20220208.zip",
-      "id": "84f38739a179d231673303b24a69c25f718dbeb2ed701d412f9abf9bb0fff515",
+      "datetime": 1648496326,
+      "size": 1565292286,
+      "filehash": "ed929914bf5cfa131f5f2fa1986d8a6e",
+      "filename": "Awaken-2.5-Gaia-lavender-OFFICIAL-Gapps-1233-20220329.zip",
+      "id": "f25162fc9f65b64ee5aac89c0cdd1a04839c187f507dd87235bccf27da07d3ae",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.4-Aurora-lavender-OFFICIAL-Gapps-1944-20220208.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.5-Gaia-lavender-OFFICIAL-Gapps-1233-20220329.zip/download"
     }
   ]
 }
