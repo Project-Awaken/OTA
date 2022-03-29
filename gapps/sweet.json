@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644807732,
-      "size": 1713835049,
-      "filehash": "14428fe0e23c5eaa4c4961cd098d0c6a",
-      "filename": "Awaken-2.4-Aurora-sweet-OFFICIAL-Gapps-0304-20220214.zip",
-      "id": "83eb50c3e8bc0a076a388f4cf11559a509ff084f620673f4715aa66f838696d2",
+      "datetime": 1648445884,
+      "size": 1736271779,
+      "filehash": "079960a34445d551a7e281b5cb46854a",
+      "filename": "Awaken-2.5-Gaia-sweet-OFFICIAL-Gapps-0540-20220328.zip",
+      "id": "2dc8a0b6c9748e3556234a05b157520559e800b01028ccc45be501cf54896979",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.4-Aurora-sweet-OFFICIAL-Gapps-0304-20220214.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.5-Gaia-sweet-OFFICIAL-Gapps-0540-20220328.zip/download"
     }
   ]
 }
