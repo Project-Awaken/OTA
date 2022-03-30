@@ -1,29 +1,29 @@
 ===============
-14-02-2022
+30-03-2022
 ===============
 Source Changelog:
-• Added option to invert navbar layout
-• Added support for repainter integration service
-• Allow maintainers to configure audio panel location
-• Allow users to toggle haptic feedback on qs tiles
-• Allow users to toggle privacy indicator
-• Bring back icon shape customization
-• Introduced Adaptive Playback
-• Introduced Game Dashboard
-• Introduced hotspot setting to allow VPN upstreams
-• Introduced one shot auto brightness
-• Introduced pixel sounds & remove aosp sounds
-• Introduced statusbar brightness control
-• Make Quick Unlock compatible with long PIN/Password
-• Avoid spoofing props for gcam and mods
-• Fixed Kai icon pack overlay for carriers using 5 bars of signal
-• Fixed some layout for ambient music ticker
-• Fixed glitchy charging info on ambient display
-• Improved QS Dataswitch, Sound & Screenshot tiles
+• Allow users to use charging vibration without sounds
+• Allow users to disable ripple effect on unlock
+• Allow users to disable QS footer warnings
+• Bring back cutout force full screen option
+• Bring back back gestures swipe deadzone
+• Bring back roaming indicator to statusbar tuner
+• Bring back battery temp on battery page
+• Enable call recording on google dialer (Gapps build only)
+• Introduce pulse music visualizer
+• Introduce face unlock & app lock
+• Introduce per app volume
+• Introduce auto hide clock
+• Move battery light settings into dashboard battery section
+• Make ringtone audio focus customizable
+• Remove divider from Battery Manager
+• Fixed an issue when Systemui crash on long click QS tile
+• Fixed some NPE
+• Gmscompat upstream
 
 Device Changelog:
-• Killed IMS logspams
-• Removed virtual framebuffer
-• Switched to AOSP WFD (QTI was a bit buggy)
-• Updated few blobs from LA.UM.9.1.r1-11300-SMxxx0.0 & Joyeuse V12.5.2.0.RJZMIXM
+• Introducing Spectre kernel
+• Removed SchedTune boost node
+• Added stereo config channel support to USB surround sound
+• Tuned scheduler and governor settings
 • Various under-the-hood fixes, optimizations and improvements
