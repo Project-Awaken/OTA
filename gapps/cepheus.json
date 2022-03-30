@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1644407407,
-      "size": 1907946230,
-      "filehash": "d31091d2e65c5d7dd16fec5aca97614b",
-      "filename": "Awaken-2.4-Aurora-cepheus-OFFICIAL-Gapps-1150-20220209.zip",
-      "id": "b350c0421f8ae2f9559aa188922b742e5a4eeb98ebf56b0d67943e87487b32a0",
+      "datetime": 1648624869,
+      "size": 1952349901,
+      "filehash": "37329b43b9b65120157fdb9648aa251b",
+      "filename": "Awaken-2.5-Gaia-cepheus-OFFICIAL-Gapps-0930-20220330.zip",
+      "id": "d1967095f3d6978d0848941db1a7045525598af1201baf70fe1eb84b9c46440a",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.4-Aurora-cepheus-OFFICIAL-Gapps-1150-20220209.zip/download"
+      "version": "2.5",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.5-Gaia-cepheus-OFFICIAL-Gapps-0930-20220330.zip/download"
     }
   ]
 }
