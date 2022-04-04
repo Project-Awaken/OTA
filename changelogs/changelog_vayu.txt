@@ -1,49 +1,37 @@
 ===============
-23-1-2022
+04-04-2022
 ===============
-Source Changelog:
-• Added option to scramble pin layout & lockscreen quick unlock
-• Added QS brightness customization
-• Add support for allowing/disallowing apps on restricted networks
-• Allow users to swap volume buttons rotation based
-• Allow users to toggle haptic feedback on back gesture
-• Allow users to toggle for secure tiles, power menu & disable qs on lockscreen
-• Allow users to toggle small keyguard clock
-• Bring back statusbar NFC icon
-• Introducing ambient edge lightning customization
-• Introducing HeadsUp customization
-• Introducing lock screen media artwork & visualizer customizations
-• Introducing lockscreen charging info
-• Introducing OOS style network traffic
-• Fixed 1.1.1.1 themed icon
-• Fixed battery graph reset issue
-• Fixed inactive state Wifi Icon in Circular,Filled Kai Icon Pack
-• Fixed google photos unlimited backup & smartspace
-• Fixed pip mode and cat control crash
-• Some UHD improvements
-• Fonts are now systemwide
+// Device side stuff
 
-Device Changelog:
-• Address more fingerprint denials
-• Drop powerkey input boost
-• Move simple writes from post_boot script to init.target.rc
-• Configure dynamic schedtune boost
-• Always report max freq to unity tasks
-• Implement thermal profile
-• Implement Clear Speaker
-• Enable display protected contents in SF
-• Limit screen recorder to 90 fps
-• Disable TTS force stop warning
+• Update blobs from POCO X3 Pro MIUI V13.0.3.0 SJUMIXM.
+• Label Spi IR node.
+• Import finetuned ACDB configs by ujjwalkirorimal
 
-Kernel Changelog:
-• Enable Samsung UFSTW
-• Sync binder with android12-5.4
-• Implement usb2 fast charge mode up to 900mA
-• Introduce KCAL color control
+// Rom Side stuff
 
-Notes:
-• This is User/Enforcing release build
-• Based on OSS vendor
-• Included Litten kernel
-• Found any bug?, report it with a proper logcat
-• If you flash magisk, enable magisk hide in magisk settings
+// New features
+
+• Allow users to use charging vibration without sounds
+• Allow users to disable ripple effect on unlock
+• Allow users to disable QS footer warnings
+• Bring back cutout force full screen option
+• Bring back back gestures swipe deadzone
+• Bring back roaming indicator to statusbar tuner
+• Bring back battery temp on battery page
+• Enable call recording on google dialer (Gapps build only)
+• Introduce pulse music visualizer
+• Introduce face unlock & app lock
+• Introduce per app volume
+• Introduce auto hide clock
+• Move battery light settings into dashboard battery section
+• Make ringtone audio focus customizable
+• Remove divider from Battery Manager
+
+// Fixed issues
+
+• Fixed an issue when Systemui crash on long click QS tile
+• Fixed some NPE
+
+// Improvements
+
+• Gmscompat upstream
