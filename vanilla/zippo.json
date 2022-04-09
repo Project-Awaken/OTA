@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648455860,
-      "size": 888438118,
-      "filehash": "cbe5708ddbe33db9a1041507b6d18f4b",
-      "filename": "Awaken-2.5-Gaia-zippo-OFFICIAL-Vanilla-0958-20220328.zip",
-      "id": "0527fa3e689db7f76ff327e003dbd46a943705c4bf7275a906c46172d62861aa",
+      "datetime": 1649522247,
+      "size": 887922642,
+      "filehash": "a72e22b8f33c1f0aea9654de7a523d84",
+      "filename": "Awaken-2.6-Eclipse-zippo-OFFICIAL-Vanilla-2057-20220409.zip",
+      "id": "c822b8c678c3a0a81bdd5b0fa1d9414d3b31c441a7fab3106516cdb22fa5d9b9",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.5-Gaia-zippo-OFFICIAL-Vanilla-0958-20220328.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.6-Eclipse-zippo-OFFICIAL-Vanilla-2057-20220409.zip/download"
     }
   ]
 }

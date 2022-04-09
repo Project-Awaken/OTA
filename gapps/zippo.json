@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648455860,
-      "size": 1513936680,
-      "filehash": "6c5bdb93087d58c92a1780202784686f",
-      "filename": "Awaken-2.5-Gaia-zippo-OFFICIAL-Gapps-0825-20220328.zip",
-      "id": "482a36ef44e47fd479d625a0125adc57abe5f95e9730871cedd13e1707e81245",
+      "datetime": 1649522247,
+      "size": 1509567231,
+      "filehash": "6683b12eb31083011a62b5ab89f8327f",
+      "filename": "Awaken-2.6-Eclipse-zippo-OFFICIAL-Gapps-1750-20220409.zip",
+      "id": "6c57e197843f56b99e2db874885b64885f0b3ebeab67ea59e63255ffc1d18a23",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.5-Gaia-zippo-OFFICIAL-Gapps-0825-20220328.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.6-Eclipse-zippo-OFFICIAL-Gapps-1750-20220409.zip/download"
     }
   ]
 }
