@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1639608445,
-      "size": 1902152079,
-      "filehash": "e2e8f40adb6c010e0911d4caced532c8",
-      "filename": "Awaken-2.2-Ares-surya-OFFICIAL-Gapps-0159-20211216.zip",
-      "id": "da53eddd9a2b4964d2ad861da5e3c25604f1f5a108c65b16d79d7a5be777f78e",
+      "datetime": 1649501167,
+      "size": 2077040800,
+      "filehash": "0f040ade7c9ebdc50d3ecd5b77833a3a",
+      "filename": "Awaken-2.6-Eclipse-surya-OFFICIAL-Gapps-1052-20220409.zip",
+      "id": "b15c99e0ed7b9796c35aa6a2f78e1e6501598c53eb9fb49af8d80d63657409ae",
       "romtype": "OFFICIAL",
-      "version": "2.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/surya/Awaken-2.2-Ares-surya-OFFICIAL-Gapps-0159-20211216.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/surya/Awaken-2.6-Eclipse-surya-OFFICIAL-Gapps-1052-20220409.zip/download"
     }
   ]
 }
