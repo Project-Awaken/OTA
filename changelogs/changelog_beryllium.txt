@@ -1,26 +1,16 @@
 ===============
-27-03-2022
+09-04-2022
 ===============
 Source Changelog:
-• Allow users to use charging vibration without sounds
-• Allow users to disable ripple effect on unlock
-• Allow users to disable QS footer warnings
-• Bring back cutout force full screen option
-• Bring back back gestures swipe deadzone
-• Bring back roaming indicator to statusbar tuner
-• Bring back battery temp on battery page
-• Enable call recording on google dialer (Gapps build only)
-• Introduce pulse music visualizer
-• Introduce face unlock & app lock
-• Introduce per app volume
-• Introduce auto hide clock
-• Move battery light settings into dashboard battery section 
-• Make ringtone audio focus customizable
-• Remove divider from Battery Manager
-• Fixed an issue when Systemui crash on long click QS tile
-• Fixed some NPE
-• Gmscompat upstream
-
-Device Changelog:
-• Updated adreno & wfd blobs
-• Fixed some logspams
+• Add tunables for navbar layout
+• Add toggle for quick settings to pull down with one finger
+• Allow users to hide app from launcher
+• Bring back daily data usage in QS footer
+• Bring back Game Dashboard & Quick Tap
+• Introduced back gesture height settings
+• Introduced expanded volume panel
+• Implement burn-in protection for status/navbar
+• Update themed icons from Lawnicons
+• Fixed an issue where unlock sound played repeatedly
+• Fixed start padding for battery usage graph
+• Misc fixes and improvements
