@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1645015083,
-      "size": 1929932922,
-      "filehash": "e514ccb6f247caa2f776dff73f83918b",
-      "filename": "Awaken-2.4-Aurora-RMX1921-OFFICIAL-Gapps-1219-20220217.zip",
-      "id": "932afc9e91943c7cd3a8206dfb1bacbe2d17a1034a58d09c8057fc028fb47fc7",
+      "datetime": 1649331855,
+      "size": 1888649748,
+      "filehash": "944a2e19786dd426db15f514e67c7c43",
+      "filename": "Awaken-2.6-Eclipse-RMX1921-OFFICIAL-Gapps-1713-20220409.zip",
+      "id": "64e0787c4856132a8e0ccefae5b914a583626f1a2163d9348e975bca91eac7da",
       "romtype": "OFFICIAL",
-      "version": "2.4",
-      "url": "https://sourceforge.net/projects/project-awaken/files/RMX1921/Awaken-2.4-Aurora-RMX1921-OFFICIAL-Gapps-1219-20220217.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/RMX1921/Awaken-2.6-Eclipse-RMX1921-OFFICIAL-Gapps-1713-20220409.zip/download"
     }
   ]
 }
