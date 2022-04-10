@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648539357,
-      "size": 1960219185,
-      "filehash": "ed4ca7bf4cffc1b1fc9a8b6b4b92e695",
-      "filename": "Awaken-2.5-Gaia-raphael-OFFICIAL-Gapps-0739-20220329.zip",
-      "id": "b8847e6e14889b68bf8434b52716cb3588663966156ca9a8a60c5e6d387e20d5",
+      "datetime": 1649584543,
+      "size": 1960849543,
+      "filehash": "cbd27f9f48fc3f876d930928a53aa996",
+      "filename": "Awaken-2.6-Eclipse-raphael-OFFICIAL-Gapps-0958-20220410.zip",
+      "id": "4d97cdda91dfc09e5bb8316e8dd31dfc32ec16e43067513f06142e417f191e80",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/Awaken-2.5-Gaia-raphael-OFFICIAL-Gapps-0739-20220329.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/Awaken-2.6-Eclipse-raphael-OFFICIAL-Gapps-0958-20220410.zip/download"
     }
   ]
 }
