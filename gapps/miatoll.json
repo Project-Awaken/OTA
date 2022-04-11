@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648651090,
-      "size": 1953313123,
-      "filehash": "ca8c549bc636dc65a55c6c113174500d",
-      "filename": "Awaken-2.5-Gaia-miatoll-OFFICIAL-Gapps-1440-20220330.zip",
-      "id": "9d232b8c2071786fca8beedcf4193bf4403c8574d5ea2ab03b403667d64ec2bb",
+      "datetime": 1649599687,
+      "size": 1950174483,
+      "filehash": "388b776c09a6aef9dace83f3ee0f64f0",
+      "filename": "Awaken-2.6-Eclipse-miatoll-OFFICIAL-Gapps-1408-20220410.zip",
+      "id": "251c3b29a436911ce0ee1d633def76cd0b5c2021ad9c6c3d941710aad7284300",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/Awaken-2.5-Gaia-miatoll-OFFICIAL-Gapps-1440-20220330.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/Awaken-2.6-Eclipse-miatoll-OFFICIAL-Gapps-1408-20220410.zip/download"
     }
   ]
 }
