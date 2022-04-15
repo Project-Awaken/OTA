@@ -1,46 +1,24 @@
 ===============
-29-03-2022
+15-04-2022
 ===============
 Source Changelog:
-• Allow users to use charging vibration without sounds
-• Allow users to disable ripple effect on unlock
-• Allow users to disable QS footer warnings
-• Bring back cutout force full screen option
-• Bring back back gestures swipe deadzone
-• Bring back roaming indicator to statusbar tuner
-• Bring back battery temp on battery page
-• Enable call recording on google dialer (Gapps build only)
-• Introduce pulse music visualizer
-• Introduce face unlock & app lock
-• Introduce per app volume
-• Introduce auto hide clock
-• Move battery light settings into dashboard battery section 
-• Make ringtone audio focus customizable
-• Remove divider from Battery Manager
-
-// Fixed issues
-
-• Fixed an issue when Systemui crash on long click QS tile
-• Fixed some NPE
-
-// Improvements
-
-• Gmscompat upstream
+• Add tunables for navbar layout
+• Add toggle for quick settings to pull down with one finger
+• Allow users to hide app from launcher
+• Bring back daily data usage in QS footer
+• Bring back Game Dashboard & Quick Tap
+• Introduced back gesture height settings
+• Introduced expanded volume panel
+• Implement burn-in protection for status/navbar
+• Update themed icons from Lawnicons
+• Fixed an issue where unlock sound played repeatedly
+• Fixed start padding for battery usage graph
+• Misc fixes and improvements
 
 Device Changelog:
-• Updated IMS blobs from sweet-qssi-user-12-SKQ1.210908.001
-• Addressed IMS props
-• Disabled ims debug logging
-• Allowed bluetooth to read incremental prop 
-• Improve 5GHz AP selection preference 
-• Switched gEnablePowerSaveOffload to 5
-• Fixed some scrolling lags on apps like twitter
-• Merged LA.UM.9.1.r1-11500-SMxxx0.0 
-• Pinned QTI vibrator from MIUI v12.5.8.0 RKFMIXM 
-• Devicesettings: Added dirac QS tile 
-• Switched to skiagl threaded
-• Configured side fingerprint sensor properties 
-• Devicesettings: Added per app maximum refresh rate 
-• Added night display color temperature calibration from Coral 
-• Reduced status bar height
-• Switched to Sleepy Kernel
+• Update the proprietary files from MIUI 13 (Android 12)
+• Devicesettings: Introduced haptic feedback level adjustment
+• Devicesettings: Added MiSound scenes
+• Devicesettings: Introduced KCAL
+• Updated sensorLocation
+
