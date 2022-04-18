@@ -1,74 +1,69 @@
 ===============
-29-03-2022
+18-04-2022
 ===============
 
 Source Changelog:
 
 ||- New features
 
-• Allow users to use charging vibration without sounds
-• Allow users to disable ripple effect on unlock
-• Allow users to disable QS footer warnings
-• Bring back cutout force full screen option
-• Bring back back gestures swipe deadzone
-• Bring back roaming indicator to statusbar tuner
-• Bring back battery temp on battery page
-• Enable call recording on google dialer (Gapps build only)
-• Introduce pulse music visualizer
-• Introduce face unlock & app lock
-• Introduce per app volume
-• Introduce auto hide clock
-• Move battery light settings into dashboard battery section 
-• Make ringtone audio focus customizable
-• Remove divider from Battery Manager
+• Add tunables for navbar layout
+• Add toggle for quick settings to pull down with one finger
+• Allow users to hide app from launcher
+• Bring back daily data usage in QS footer
+• Bring back Game Dashboard & Quick Tap
+• Introduced back gesture height settings
+• Introduced expanded volume panel
+• Implement burn-in protection for status/navbar
+• Update themed icons from Lawnicons
 
 ||- Fixed issues
 
-• Fixed an issue when Systemui crash on long click QS tile
-• Fixed some NPE
+• Fixed an issue where unlock sound played repeatedly
+• Fixed start padding for battery usage graph
 
 ||- Improvements
 
-• Gmscompat upstream
+• Misc fixes and improvements
 
 
 Device Changelog:
 
-• Properly set manufacturer and soc properties
-• Remove vendor RenderScript implementation
-• Set swiotlb to default size
-• config.fs: Checkout codecs performance to LA.UM.10.2.1.r1-02900-sdm660.0
-• config.fs: Checkout to LA.UM.10.2.1.r1-03200-sdm660.0
-• overlay: Checkout CarrierConfig to LA.UM.10.2.1.r1-03200-sdm660.0
-• Optimize native executables for Cortex-A73 CPU
-• overlay: Enable VoLTE and VoWIFI for all
-• Drop product_launched_with_*.mk
-• rro_overlays: Drop TetheringOverlay
-• overlay: Default to full gesture navigation
-• Uprev bluetooth audio HIDL impl to 2.1
-• WifiOverlay: Disable ACS and 11AC for legacy chipsets
-• rootdir: Replace writepid with task_profiles for cgroup migration
-• rootdir: Give proper permissions for /dev/diag 
-• Sync EGL symlinks with CAF
-• Create a symlink to the msadp partition in vendor/etc
-• rootdir: Keep powersaving disabled during boottime
-• overlay: Fix fingerprint wake-up animation 
-• Add dex2oat changes from barbet
-• overlay: Add call recording overlay
-• prop: Enable pre-rendering
-• Disable alpha compositing in WM
-• Provide android.frameworks.sensorservice@1.0 on vendor
-• Add framework detect modules to PRODUCT_PACKAGES 
-• Uprev framework compatibility matrix to 2.0
-• SurfaceFlinger: Enable GL comp backpressure
-• Switch back to OpenGl rendering
-• Add datastatusnotification from coral SP1A.210812.015
-• DeviceSettings: Add More Dirac Presets
-• Improved fingerprint unlock feedback
-• Switched Default Kernel to Nexus EAS-CAF QTI, where some problems like apps data usage and upload network indicator are now fixed. 
+• Rebased trees on common sources.
+• overlay: Adapt some overlays to android 12L
+• wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+• wifi: Enable nl broadcast logging and disable packet logging
+• props: Disable vsync for CPU rendered Apps
+• rootdir: Move boot animation early start to late-init
+• Add night display color temperature calibration from Coral
+• init: Add vendor prefix for shell
+• mirror IRQ tuning from Razer Phone 2
+• Increase mic volume
+• init: Register and enable qcrild & data services on boot
+• overlay: Disable slow blur effect to avoid laggish blur effect
+• rootdir: Hide Magisk Better
+• overlay: Add config_wallpaperMaxScale
+• overlay: Allow all apps to use smart replies
+• Improve scrolling and Ram managment
+• Disable sdm rotator downscaler
+• BoardConfig: Set NUM_FRAMEBUFFER_SURFACE_BUFFERS
+• Fix deprecated power profile items
+• Address hal_power_default self capability denial
+• Disable EGL buffer_age extension support
+• Enable cpuset for light service
+• Enable Seamless Transfer support
+• audio: Remove property violating sepolicy
+• sepolicy: Allow camera HAL to get/set vendor_video_prop
+• Disable the usage of ConfigStore
+• Disable Idle timeout
+• Disable debug.sf.enable_hwc_vds
+• power-libperfmgr: Properly handle sustained performance mode
+• libperfmgr: Update from android12-release
+• libperfmgr: Use log/log.h instead of utils/Log.h
+• libperfmgr.rc: let power hal start early
+• Xiaomi Parts: Added LED Brightness Control
 
 Notes:
-• A Clean Flash is recommended from previous version
-• This is User/Enforcing release build
-• Included Nexus EAS-CAF QTI kernel
-• Found any bug? Report it with a proper logcat
+• A Clean Flash is mandatory.
+• This is User/Enforcing release build.
+• Included Nexus EAS-CAF QTI kernel.
+• Found any bug? Report it with a proper logcat.
