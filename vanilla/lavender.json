@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648496326,
-      "size": 936639706,
-      "filehash": "9b3affc3b609914eabd9fa269cf431e6",
-      "filename": "Awaken-2.5-Gaia-lavender-OFFICIAL-Vanilla-1242-20220329.zip",
-      "id": "e0665994ff71fd6aad248ff90a8fc8d908f75717fc87046307492ab2208a3de3",
+      "datetime": 1650152962,
+      "size": 928334033,
+      "filehash": "7b4c70015660a916464155d1a7c8e694",
+      "filename": "Awaken-2.6-Eclipse-lavender-OFFICIAL-Vanilla-0854-20220417.zip",
+      "id": "8eb29bb4a3c8447419c7c6080f5109ae1bd0bac3fbb1cc206f432a01267d5742",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.5-Gaia-lavender-OFFICIAL-Vanilla-1242-20220329.zip/download"
+      "version": "2.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.6-Eclipse-lavender-OFFICIAL-Vanilla-0854-20220417.zip/download"
     }
   ]
 }
