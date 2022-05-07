@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1649949591,
-      "size": 1734508959,
-      "filehash": "889c07a3b2ac9dd7e0b507d3dd6dabb6",
-      "filename": "Awaken-2.6-Eclipse-sweet-OFFICIAL-Gapps-1523-20220414.zip",
-      "id": "57056f0b7a3560d124a89d563ecdff7fe836a923bbc19ea6aced401b78072606",
+      "datetime": 1651789995,
+      "size": 1892802858,
+      "filehash": "2e33ab62cd36170b3a6090546ebc90d1",
+      "filename": "Awaken-2.7-Glacier-sweet-OFFICIAL-Gapps-2235-20220505.zip",
+      "id": "2827603a09502d207322e7765c7f4459117295f5612dc718ae0c33e3f5692d62",
       "romtype": "OFFICIAL",
-      "version": "2.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.6-Eclipse-sweet-OFFICIAL-Gapps-1523-20220414.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/sweet/Awaken-2.7-Glacier-sweet-OFFICIAL-Gapps-2235-20220505.zip/download"
     }
   ]
 }
