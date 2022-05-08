@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1649522247,
-      "size": 1509567231,
-      "filehash": "6683b12eb31083011a62b5ab89f8327f",
-      "filename": "Awaken-2.6-Eclipse-zippo-OFFICIAL-Gapps-1750-20220409.zip",
-      "id": "6c57e197843f56b99e2db874885b64885f0b3ebeab67ea59e63255ffc1d18a23",
+      "datetime": 1652020263,
+      "size": 1533357895,
+      "filehash": "6375035fe5d0805d0ed995d472e24b74",
+      "filename": "Awaken-2.7-Glacier-zippo-OFFICIAL-Gapps-1623-20220508.zip",
+      "id": "32e0595ec7e2983b090edf420ea743de6b0336f06d70cb29f78ddc83f3ba6249",
       "romtype": "OFFICIAL",
-      "version": "2.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.6-Eclipse-zippo-OFFICIAL-Gapps-1750-20220409.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.7-Glacier-zippo-OFFICIAL-Gapps-1623-20220508.zip/download"
     }
   ]
 }
