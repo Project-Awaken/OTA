@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1649522247,
-      "size": 887922642,
-      "filehash": "a72e22b8f33c1f0aea9654de7a523d84",
-      "filename": "Awaken-2.6-Eclipse-zippo-OFFICIAL-Vanilla-2057-20220409.zip",
-      "id": "c822b8c678c3a0a81bdd5b0fa1d9414d3b31c441a7fab3106516cdb22fa5d9b9",
+      "datetime": 1652020263,
+      "size": 918572764,
+      "filehash": "a780cd5e4e01ced3f0658bdfaa09d387",
+      "filename": "Awaken-2.7-Glacier-zippo-OFFICIAL-Vanilla-1431-20220508.zip",
+      "id": "e13de2fad036b0ef04ce922275e2ee147617e6ebefd3b6589c489d8317426964",
       "romtype": "OFFICIAL",
-      "version": "2.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.6-Eclipse-zippo-OFFICIAL-Vanilla-2057-20220409.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.7-Glacier-zippo-OFFICIAL-Vanilla-1431-20220508.zip/download"
     }
   ]
 }
