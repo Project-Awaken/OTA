@@ -1,22 +1,27 @@
 ===============
-11-04-2022
+11-05-2022
 ===============
 Source Changelog:
-• Add tunables for navbar layout
-• Add toggle for quick settings to pull down with one finger
-• Allow users to hide app from launcher
-• Bring back daily data usage in QS footer
-• Bring back Game Dashboard & Quick Tap
-• Introduced back gesture height settings
-• Introduced expanded volume panel
-• Implement burn-in protection for status/navbar
-• Update themed icons from Lawnicons
-• Fixed an issue where unlock sound played repeatedly
-• Fixed start padding for battery usage graph
-• Misc fixes and improvements
+• Add call strength, vibrate & mute icon to statusbar tuner
+• Add API for runtime taskbar config on phones
+• Allow users to lock and hide system apps
+• Allow users to toggle camera/mic privacy indicator
+• Allow users to configure 0, 90, 180 and 270 degree rotation
+• Bring back battery health
+• Do not show camera indicator for Face Unlock service
+• Fetch bluetooth battery level from any device
+• Introduced volume key cursor control
+• Introduced CM Screen Lockscreen Pattern Security settings
+• Update caffeine qs tile icon
+• Update themed icons
+• Fixed issues:
+  - Fixed issue with alarm icon
+  - Fixed pixel launcher dark search bar in light theme
+  - Fixed rounded corners for icon shapes
+  - Fixed volume panel arrow in Victor and Sam icon packs
 
 Device Changelog:
-• Implemented fuse short circuit
-• Enabled Fuse passthrough
-• Fixed paddings on some apps like Snapchat
-• Brought back ultra low latency playback
+• Switch to few prebuilt audio hals
+• Disabled ULL (broken)
+• Updated some blobs from LA.UM.9.1.r1-11700-SMxxx0.0
+• Misc under the hood improvements which you may not care...
