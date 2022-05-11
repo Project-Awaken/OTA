@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648624869,
-      "size": 1952349901,
-      "filehash": "37329b43b9b65120157fdb9648aa251b",
-      "filename": "Awaken-2.5-Gaia-cepheus-OFFICIAL-Gapps-0930-20220330.zip",
-      "id": "d1967095f3d6978d0848941db1a7045525598af1201baf70fe1eb84b9c46440a",
+      "datetime": 1652259581,
+      "size": 1958946523,
+      "filehash": "37d00158b1dd6d0dc8f412cabb2f7064",
+      "filename": "Awaken-2.7-Glacier-cepheus-OFFICIAL-Gapps-0901-20220511.zip",
+      "id": "ff0688a7aaee36ef4aa922509dd11dbf440b683fe81fe4f3b40e6c866d06b5fd",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.5-Gaia-cepheus-OFFICIAL-Gapps-0930-20220330.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.7-Glacier-cepheus-OFFICIAL-Gapps-0901-20220511.zip/download"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1648638333,
-      "size": 1139783254,
-      "filehash": "1de813b68dbfbcb379dda6b30e99b7ca",
-      "filename": "Awaken-2.5-Gaia-cepheus-OFFICIAL-Vanilla-1107-20220330.zip",
-      "id": "4b83359f547cd8923ca82132a60785d1ae1ab5f6d9dbba060e2d974db1a1c401",
+      "datetime": 1652266561,
+      "size": 1160405001,
+      "filehash": "8affc37527ddb435d31de88585aa3870",
+      "filename": "Awaken-2.7-Glacier-cepheus-OFFICIAL-Vanilla-1058-20220511.zip",
+      "id": "7d6fefddc7ac72e45594288561975fca2fc8280b45c8b2cd8e51de2b281adb94",
       "romtype": "OFFICIAL",
-      "version": "2.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.5-Gaia-cepheus-OFFICIAL-Vanilla-1107-20220330.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/Awaken-2.7-Glacier-cepheus-OFFICIAL-Vanilla-1058-20220511.zip/download"
     }
   ]
 }

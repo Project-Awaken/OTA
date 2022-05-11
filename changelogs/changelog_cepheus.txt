@@ -1,39 +1,28 @@
 ===============
-30-03-2022
+11-05-2022
 ===============
 // Device side stuff
 
-• Updated lots of blobs
-• FOD improvements (Alot faster now)
-• Lots of code cleanup
+• switched to SOVIET Kernel
+• code cleanup
 • Battery backup improvements
 
 
 // Rom Side stuff
 
-// New features
-
-• Allow users to use charging vibration without sounds
-• Allow users to disable ripple effect on unlock
-• Allow users to disable QS footer warnings
-• Bring back cutout force full screen option
-• Bring back back gestures swipe deadzone
-• Bring back roaming indicator to statusbar tuner
-• Bring back battery temp on battery page
-• Enable call recording on google dialer (Gapps build only)
-• Introduce pulse music visualizer
-• Introduce face unlock & app lock
-• Introduce per app volume
-• Introduce auto hide clock
-• Move battery light settings into dashboard battery section
-• Make ringtone audio focus customizable
-• Remove divider from Battery Manager
-
-// Fixed issues
-
-• Fixed an issue when Systemui crash on long click QS tile
-• Fixed some NPE
-
-// Improvements
-
-• Gmscompat upstream
+• Add call strength, vibrate & mute icon to statusbar tuner
+• Add API for runtime taskbar config on phones
+• Allow users to lock and hide system apps
+• Allow users to toggle camera/mic privacy indicator
+• Allow users to configure 0, 90, 180 and 270 degree rotation
+• Bring back battery health
+• Do not show camera indicator for Face Unlock service
+• Fetch bluetooth battery level from any device
+• Fixed issue with alarm icon
+• Fixed pixel launcher dark search bar in light theme
+• Fixed rounded corners for icon shapes
+• Fixed volume panel arrow in Viktor and Sam icon packs
+• Introduced volume key cursor control
+• Introduced CM Screen Lockscreen Pattern Security settings
+• Update caffeine qs tile icon
+• Update themed icons
