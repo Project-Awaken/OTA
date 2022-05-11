@@ -1,69 +1,90 @@
 ===============
-18-04-2022
+11-05-2022
 ===============
 
 Source Changelog:
 
 ||- New features
 
-• Add tunables for navbar layout
-• Add toggle for quick settings to pull down with one finger
-• Allow users to hide app from launcher
-• Bring back daily data usage in QS footer
-• Bring back Game Dashboard & Quick Tap
-• Introduced back gesture height settings
-• Introduced expanded volume panel
-• Implement burn-in protection for status/navbar
-• Update themed icons from Lawnicons
+• Add call strength, vibrate & mute icon to statusbar tuner
+• Add API for runtime taskbar config on phones
+• Allow users to lock and hide system apps
+• Allow users to toggle camera/mic privacy indicator
+• Allow users to configure 0, 90, 180 and 270 degree rotation
+• Bring back battery health
+• Do not show camera indicator for Face Unlock service
+• Fetch bluetooth battery level from any device
+• Introduced volume key cursor control
+• Introduced CM Screen Lockscreen Pattern Security settings
+• Update caffeine qs tile icon
+• Update themed icons
 
 ||- Fixed issues
 
-• Fixed an issue where unlock sound played repeatedly
-• Fixed start padding for battery usage graph
-
-||- Improvements
-
-• Misc fixes and improvements
+• Fixed issue with alarm icon
+• Fixed pixel launcher dark search bar in light theme
+• Fixed rounded corners for icon shapes
+• Fixed volume panel arrow in Victor and Sam icon packs
 
 
 Device Changelog:
 
-• Rebased trees on common sources.
-• overlay: Adapt some overlays to android 12L
-• wifi: smarter decisions on whether to use a 2- or 5Ghz AP
-• wifi: Enable nl broadcast logging and disable packet logging
-• props: Disable vsync for CPU rendered Apps
-• rootdir: Move boot animation early start to late-init
-• Add night display color temperature calibration from Coral
-• init: Add vendor prefix for shell
-• mirror IRQ tuning from Razer Phone 2
-• Increase mic volume
-• init: Register and enable qcrild & data services on boot
-• overlay: Disable slow blur effect to avoid laggish blur effect
-• rootdir: Hide Magisk Better
-• overlay: Add config_wallpaperMaxScale
-• overlay: Allow all apps to use smart replies
-• Improve scrolling and Ram managment
-• Disable sdm rotator downscaler
-• BoardConfig: Set NUM_FRAMEBUFFER_SURFACE_BUFFERS
-• Fix deprecated power profile items
-• Address hal_power_default self capability denial
-• Disable EGL buffer_age extension support
-• Enable cpuset for light service
-• Enable Seamless Transfer support
-• audio: Remove property violating sepolicy
-• sepolicy: Allow camera HAL to get/set vendor_video_prop
-• Disable the usage of ConfigStore
-• Disable Idle timeout
-• Disable debug.sf.enable_hwc_vds
-• power-libperfmgr: Properly handle sustained performance mode
-• libperfmgr: Update from android12-release
-• libperfmgr: Use log/log.h instead of utils/Log.h
-• libperfmgr.rc: let power hal start early
-• Xiaomi Parts: Added LED Brightness Control
+• gps: New configs for better stability & accuracy
+• usb: Add basic USB HAL that reports no status change
+• props: Don't write binary XML files
+• Flatten APEXs for performance
+• Create CneApp symlinks
+• init: Apply aggressive write caching.
+• enable media performance class 12
+• overlay: add A12 native gaming mode support
+• Set VENDOR_SECURITY_PATCH to platform
+• Enable real time lockscreen charging current values
+• boot: shorten wait time to optimize shutdown time
+• Enable IORap prefetching
+• overlay: Make the UI smoother
+• Update config_ims_rcs_package to use new ImsService
+• Override config for platform number verification
+• init: Setup all the sub-system as related.
+• Set vendor.post_boot.parsed=1
+• rootdir: Boost performance during bootup
+• init: Reset default schedtune boost value on boot
+• fstab: Enable discard option to retain speed.
+• Prepare to move to in-tree HALs
+• qcom-caf: display: Revert "hwc: Set ioprio for vsync thread" 
+• qcom-caf: display: Exclude libqservice from binder interface
+• dsds: restart qcrild on data switch
+• Add vndservicemanager explicitly
+• Set up USB Properties
+• Add ro.hw_timeout_multiplier
+• init: restart qcrild on decryption
+• Fix screen recorder lag
+• overlay: Enable Smart Charging
+• Consolidate smart charging under 'Adaptive Charging'
+• rootdir: Add offline charging LED indicator
+• fstab: Enable 64-bit inode version support for ext4
+• props: enable persist.rcs.supported
+• Build additional Pixel stuffs - Time to let Google handle CarrierSettings
+• Allow boot color propagation
+• sepolicy: Fix userspace_reboot prop denials
+• sepolicy: Address denials regarding to access sysfs_kgsl 
+• sepolicy: Address bootanim denial
+• rootdir: Enable sys.use_fifo_ui prop if EAS is present
+• prop: Use HintManager for HWU
+• init: workaround SafetyNet check
+• init: Update Magisk Hide props from Magisk v23.0 
+• init: Spoof build tags to release-keys
+• props: Fix display animation while AOD on/off screen
+• Import fm blobs from jasmine V11.0.28.0.QDIMIXM
+• DeviceSettings: Add dynamic thermal profile implementation
+• AOD: Decouple suspend from screen state
+• overlay: Enable haptic text cursor
+• overlay: Enable Carrier ViLTE
+• sepolicy: Allow every app to read camera props 
+• overlay: Enable display burn-in-protection in Ambient Display
 
 Notes:
-• A Clean Flash is mandatory.
-• This is User/Enforcing release build.
-• Included Nexus EAS-CAF QTI kernel.
-• Found any bug? Report it with a proper logcat.
+
+• Use recommended recovery (Orangefox R11.1)
+• This is User/Enforcing release build
+• Included Nexus EAS-CAF QTI kernel
+• Found any bug? Report it with a proper logcat
