@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1650294153,
-      "size": 1891762829,
-      "filehash": "2e8818607c820d1cf672021e984aee86",
-      "filename": "Awaken-2.6-Eclipse-vayu-OFFICIAL-Gapps-1503-20220418.zip",
-      "id": "a3e8a27758bb446f93ac37fa9e304f79b61fdceda570a333afd79828974bb526",
+      "datetime": 1653369741,
+      "size": 1905781384,
+      "filehash": "f5a3a7f15fe526eff2b60ad04676fb2a",
+      "filename": "Awaken-2.7-Glacier-vayu-OFFICIAL-Gapps-0523-20220524.zip",
+      "id": "3370a44988cc4545e35b02583b3a9b56b575ac0820b3eb276db438af1e4495a1",
       "romtype": "OFFICIAL",
-      "version": "2.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/Awaken-2.6-Eclipse-vayu-OFFICIAL-Gapps-1503-20220418.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/Awaken-2.7-Glacier-vayu-OFFICIAL-Gapps-0523-20220524.zip/download"
     }
   ]
 }
