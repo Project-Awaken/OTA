@@ -1,34 +1,29 @@
 ===============
-10-04-2022
+01-06-2022
 ===============
 
-// Device Side
-• April security patch
-• Updated build prop and desc to April 2022 Pixel 6 Pro
-• Up-streamed kernel to latest Linux stable 4.14.275
-• Merged CAF tag LA.UM.9.1.r1-11800-SMxxx0.0 in kernel
-• Updated a few blobs
-• Under the hood tweaks for performance (Device should feel smoother now)
-• Added a few more apps to Applock
-• Compiled using latest Proton clang (13)
+• May security patch level
+• Fixed a few known issues
+• Under the hood optimizations
 
 // New features
 
-• Add tunables for navbar layout
-• Add toggle for quick settings to pull down with one finger
-• Allow users to hide app from launcher
-• Bring back daily data usage in QS footer
-• Bring back Game Dashboard & Quick Tap
-• Introduced back gesture height settings
-• Introduced expanded volume panel
-• Implement burn-in protection for status/navbar
-• Update themed icons from Lawnicons
+• Add call strength, vibrate & mute icon to status bar tuner
+• Add API for runtime taskbar config on phones
+• Allow users to lock and hide system apps
+• Allow users to toggle camera/mic privacy indicator
+• Allow users to configure 0, 90, 180 and 270 degree rotation
+• Bring back battery health
+• Do not show camera indicator for Face Unlock service
+• Fetch blue-tooth battery level from any device
+• Introduced volume key cursor control
+• Introduced CM Screen Lock-screen Pattern Security settings
+• Update caffeine QS tile icon
+• Update themed icons
 
 // Fixed issues
 
-• Fixed an issue where unlock sound played repeatedly
-• Fixed start padding for battery usage graph
-
-// Improvements
-
-• Misc fixes and improvements
+• Fixed issue with alarm icon
+• Fixed pixel launcher dark search bar in light theme
+• Fixed rounded corners for icon shapes
+• Fixed volume panel arrow in Victor and Sam icon packs

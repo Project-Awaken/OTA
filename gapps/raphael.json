@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1649584543,
-      "size": 1960849543,
-      "filehash": "cbd27f9f48fc3f876d930928a53aa996",
-      "filename": "Awaken-2.6-Eclipse-raphael-OFFICIAL-Gapps-0958-20220410.zip",
-      "id": "4d97cdda91dfc09e5bb8316e8dd31dfc32ec16e43067513f06142e417f191e80",
+      "datetime": 1654018358,
+      "size": 1971060401,
+      "filehash": "1fb619a52fb2979d059fc6b3f450a4d5",
+      "filename": "Awaken-2.7-Glacier-raphael-OFFICIAL-Gapps-1734-20220531.zip",
+      "id": "39163eb005ad9d25b8650ea5c9e69a1c475042dadf13a44acefddac07b6dc904",
       "romtype": "OFFICIAL",
-      "version": "2.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/Awaken-2.6-Eclipse-raphael-OFFICIAL-Gapps-0958-20220410.zip/download"
+      "version": "2.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/Awaken-2.7-Glacier-raphael-OFFICIAL-Gapps-1734-20220531.zip/download"
     }
   ]
 }
