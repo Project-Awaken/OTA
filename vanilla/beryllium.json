@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1651589537,
-      "size": 982537391,
-      "filehash": "8ff90ac1915ca56e86a4e2e392cd13c6",
-      "filename": "Awaken-2.7-Glacier-beryllium-OFFICIAL-Vanilla-1452-20220503.zip",
-      "id": "0c43974f8f2ad9acb094ddc5dcfcfa10a800db7f3387d3b5de50bf46a221012c",
+      "datetime": 1655013700,
+      "size": 1007133942,
+      "filehash": "a879ec18d63ca5c923b7e4ba74d059fe",
+      "filename": "Awaken-2.8-Plasma-beryllium-OFFICIAL-Vanilla-0604-20220612.zip",
+      "id": "1e7d6ac409cafde05cdea07cee6614a2ba5a450a45a81cf9f896777009ee044c",
       "romtype": "OFFICIAL",
-      "version": "2.7",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.7-Glacier-beryllium-OFFICIAL-Vanilla-1452-20220503.zip/download"
+      "version": "2.8",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/Awaken-2.8-Plasma-beryllium-OFFICIAL-Vanilla-0604-20220612.zip/download"
     }
   ]
 }
