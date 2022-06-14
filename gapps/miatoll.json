@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1652198071,
-      "size": 1963049814,
-      "filehash": "3894c544d449c1d2304c42939cdc5d88",
-      "filename": "Awaken-2.7-Glacier-miatoll-OFFICIAL-Gapps-1559-20220510.zip",
-      "id": "8a9805baa4b89cc7a001ef0d48452c53e1eb48f8cfcaf90a629c276c37b015ee",
+      "datetime": 1655081764,
+      "size": 1788733915,
+      "filehash": "c209d8e19fc3bdd7e78b4388c9a36439",
+      "filename": "Awaken-2.8-Plasma-miatoll-OFFICIAL-Gapps-0057-20220613.zip",
+      "id": "ec14c528eedbbe1c896f3ce0cdfd8fd7803f7c39149e1fc8f2be6cc0fa48960d",
       "romtype": "OFFICIAL",
-      "version": "2.7",
-      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/Awaken-2.7-Glacier-miatoll-OFFICIAL-Gapps-1559-20220510.zip/download"
+      "version": "2.8",
+      "url": "https://sourceforge.net/projects/project-awaken/files/miatoll/Awaken-2.8-Plasma-miatoll-OFFICIAL-Gapps-0057-20220613.zip/download"
     }
   ]
 }

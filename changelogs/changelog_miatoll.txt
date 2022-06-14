@@ -1,27 +1,29 @@
 ===============
-11-05-2022
+14-06-2022
 ===============
 Source Changelog:
-• Add call strength, vibrate & mute icon to statusbar tuner
-• Add API for runtime taskbar config on phones
-• Allow users to lock and hide system apps
-• Allow users to toggle camera/mic privacy indicator
-• Allow users to configure 0, 90, 180 and 270 degree rotation
-• Bring back battery health
-• Do not show camera indicator for Face Unlock service
-• Fetch bluetooth battery level from any device
-• Introduced volume key cursor control
-• Introduced CM Screen Lockscreen Pattern Security settings
-• Update caffeine qs tile icon
-• Update themed icons
+• Add left padding for keyguard slices
+• Add more themed icons for both gapps/vanilla builds
+• Add more core Google apps to system app whitelist for applock
+• Do not hardcode system round corners with Icon Shape
+• Exempt TeleService, Bluetooth, Cneapp & ImsService from location indicators
+• Gmscompat upstream
+• Introduced color section from Pixel stock for vanilla build
+• Introduced hotspot client manager
+• Introduced icon pack for launcher3
+• Switch to los fork of chromium webview
+• Whitelist YouTube apps & recorder from PixelProp
 • Fixed issues:
-  - Fixed issue with alarm icon
-  - Fixed pixel launcher dark search bar in light theme
-  - Fixed rounded corners for icon shapes
-  - Fixed volume panel arrow in Victor and Sam icon packs
+ - Fixed an issue where floating rotation doesnt show if 2-button nav mode enabled
+ - Fixed bluetooth percentage not showing on battery widget
+ - Fixed emergency info crash on vanilla build
+ - Fixed QS Panel glitch when changing dark/light mode from QS
+ - Fixed some NPE
 
 Device Changelog:
-• Switch to few prebuilt audio hals
-• Disabled ULL (broken)
-• Updated some blobs from LA.UM.9.1.r1-11700-SMxxx0.0
-• Misc under the hood improvements which you may not care...
+• Enabled some device side haptics feedback
+• Disabled zRAM due to memory corruption
+• Re-enabled s2idle
+• Updated some camera blobs from V12.5.5.x
+• Fixed media playback when uptime is considerably high
+• Misc under the hood improvements in kernel which you may not care...
