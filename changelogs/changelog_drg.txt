@@ -1,0 +1,24 @@
+===============
+18-06-2022
+===============
+Source Changelog:
+• Add left padding for keyguard slices
+• Add more themed icons for both gapps/vanilla builds
+• Add more core Google apps to system app whitelist for applock
+• Do not hardcode system round corners with Icon Shape
+• Exempt TeleService, Bluetooth, Cneapp & ImsService from location indicators
+• Gmscompat upstream
+• Introduced color section from Pixel stock for vanilla build
+• Introduced hotspot client manager
+• Introduced icon pack for launcher3
+• Switch to los fork of chromium webview
+• Whitelist YouTube apps & recorder from PixelProp
+• Fixed issues:
+ - Fixed an issue where floating rotation doesnt show if 2-button nav mode enabled
+ - Fixed bluetooth percentage not showing on battery widget
+ - Fixed emergency info crash on vanilla build
+ - Fixed QS Panel glitch when changing dark/light mode from QS
+ - Fixed some NPE
+
+Device Changelog:
+• Initial release
