@@ -1,25 +1,33 @@
 ===============
-07-05-2022
+19-06-2022
 ===============
 Source Changelog:
-• Add call strength, vibrate & mute icon to statusbar tuner
-• Add API for runtime taskbar config on phones
-• Allow users to lock and hide system apps
-• Allow users to toggle camera/mic privacy indicator
-• Allow users to configure 0, 90, 180 and 270 degree rotation
-• Bring back battery health
-• Do not show camera indicator for Face Unlock service
-• Fetch bluetooth battery level from any device
-• Fixed issue with alarm icon
-• Fixed pixel launcher dark search bar in light theme
-• Fixed rounded corners for icon shapes
-• Fixed volume panel arrow in Viktor and Sam icon packs
-• Introduced volume key cursor control
-• Introduced CM Screen Lockscreen Pattern Security settings
-• Update caffeine qs tile icon
-• Update themed icons
+• Add left padding for keyguard slices
+• Add more themed icons for both gapps/vanilla builds
+• Add more core Google apps to system app whitelist for applock
+• Do not hardcode system round corners with Icon Shape
+• Exempt TeleService, Bluetooth, Cneapp & ImsService from location indicators
+• Gmscompat upstream
+• Introduced color section from Pixel stock for vanilla build
+• Introduced hotspot client manager
+• Introduced icon pack for launcher3
+• Switch to los fork of chromium webview
+• Whitelist YouTube apps & recorder from PixelProp
 
 Device Changelog:
-• Fixed AOD Flickering
-• Switched to Vantom Kernel
-• Adjusted window rounded corners
+• Clean flash required
+• Fixed pip on netlix
+• Fixed 5ghz hotspot
+• Fixed display animation while AOD on/off screen 
+• Updated adreno from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 
+• Address Camera HAL denials 
+• Added Moto Dolby 
+• Addressed wcnss denials 
+• Switched to playground clang
+• Imported android.hardware.sensors@1.0 from stock 
+• Support F2FS compressions and garbage collector 
+• Changed default status bar height
+• Updated vibration patterns 
+• Imported power_profile from sunfish 
+• Updated deprecated screen power items 
+
