@@ -1,5 +1,5 @@
 ===============
-09-04-2022
+22-06-2022
 ===============
 Source Changelog:
 • Add tunables for navbar layout
@@ -16,4 +16,4 @@ Source Changelog:
 • Misc fixes and improvements
 
 Device Changelog:
-• Improved proximity sensor handling
+• Kernel upstreamed
