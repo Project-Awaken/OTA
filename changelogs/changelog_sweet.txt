@@ -1,5 +1,5 @@
 ===============
-19-06-2022
+25-06-2022
 ===============
 Source Changelog:
 • Add left padding for keyguard slices
@@ -15,19 +15,4 @@ Source Changelog:
 • Whitelist YouTube apps & recorder from PixelProp
 
 Device Changelog:
-• Clean flash required
-• Fixed pip on netlix
-• Fixed 5ghz hotspot
-• Fixed display animation while AOD on/off screen 
-• Updated adreno from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 
-• Address Camera HAL denials 
-• Added Moto Dolby 
-• Addressed wcnss denials 
-• Switched to playground clang
-• Imported android.hardware.sensors@1.0 from stock 
-• Support F2FS compressions and garbage collector 
-• Changed default status bar height
-• Updated vibration patterns 
-• Imported power_profile from sunfish 
-• Updated deprecated screen power items 
-
+• Fixed Proximity sensor not working during calls and some other apps
