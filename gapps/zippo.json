@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1655570877,
-      "size": 1546478609,
-      "filehash": "702c44add87b07405793d310d16e6734",
-      "filename": "Awaken-2.8-Plasma-zippo-OFFICIAL-Gapps-1648-20220618.zip",
-      "id": "428358af35d92741dfb5013595e2a6154d9f8a0d73d213f1c27b0956bde0584d",
+      "datetime": 1657435658,
+      "size": 1550418474,
+      "filehash": "5954c0a47727dd84daf13f73ffe9115d",
+      "filename": "Awaken-2.9-Aero-zippo-OFFICIAL-Gapps-1053-20220710.zip",
+      "id": "1c8f7c863db79daf1e1028b15c228ad2f9998693e1957551d966ae4a047c1754",
       "romtype": "OFFICIAL",
-      "version": "2.8",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.8-Plasma-zippo-OFFICIAL-Gapps-1648-20220618.zip/download"
+      "version": "2.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.9-Aero-zippo-OFFICIAL-Gapps-1053-20220710.zip/download"
     }
   ]
 }
