@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1655570877,
-      "size": 934817597,
-      "filehash": "42266da5e305f52592c2d31965f1bd92",
-      "filename": "Awaken-2.8-Plasma-zippo-OFFICIAL-Vanilla-2139-20220619.zip",
-      "id": "d2ca5734bfc819d766fc39ebd2a7b3041a3c0a29e4761360799c8082d0de7ff5",
+      "datetime": 1657435658,
+      "size": 955051937,
+      "filehash": "771f0b13cc877cf53ee15658735ac8ea",
+      "filename": "Awaken-2.9-Aero-zippo-OFFICIAL-Vanilla-0957-20220710.zip",
+      "id": "7fdf3c981ac10f6c855e64ace8fe5f5372ab05b1969702030ec211c64edc961d",
       "romtype": "OFFICIAL",
-      "version": "2.8",
-      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.8-Plasma-zippo-OFFICIAL-Vanilla-2139-20220619.zip/download"
+      "version": "2.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/zippo/Awaken-2.9-Aero-zippo-OFFICIAL-Vanilla-0957-20220710.zip/download"
     }
   ]
 }
