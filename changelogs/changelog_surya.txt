@@ -1,19 +1,41 @@
 ===============
-10-04-2022
+10-07-2022
 ===============
-Source Changelog:
-• Add tunables for navbar layout
-• Add toggle for quick settings to pull down with one finger
-• Allow users to hide app from launcher
-• Bring back daily data usage in QS footer
-• Bring back Game Dashboard & Quick Tap
-• Introduced back gesture height settings
-• Introduced expanded volume panel
-• Implement burn-in protection for status/navbar
-• Update themed icons from Lawnicons
-• Fixed an issue where unlock sound played repeatedly
-• Fixed start padding for battery usage graph
-• Misc fixes and improvements
+- Source Changelog:
 
-Device Changelog:
-• Initial build
+// New features
+
+• Bring back drawables for statusbar icon toggles
+• Gmscompat upstream
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
+• Update themed icons
+
+// Fixed issues
+
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
+• Fixed some NPE
+
+- Device Changelog:
+
+• EROFS for system, system_ext, product and vendor partitions
+• Updated StormBreaker kernel to X15 (Same as public release build)
+• Switched to TheStrechh's device tree
+• Disabled ART debug
+• Disable IOrapd
+• Set SkiaGL threaded as default renderer
+• rootdir: Set swappiness to 60
+• rootdir: Disable I/O stats
+• Enable FUSE passthrough
+• Switch zram compression algorithm to zstd
+• Fine tuned display configs by lostark13
+• HDR content no more turns the display into a yellow abomination
+• Update WiFi, GPS & Media configs
+• Add offline charging indicator
+• Switch to powersave mode when offline charging
