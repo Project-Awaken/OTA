@@ -1,25 +1,22 @@
 ===============
-12-06-2022
+10-07-2022
 ===============
 Source Changelog:
-• Add left padding for keyguard slices
-• Add more themed icons for both gapps/vanilla builds
-• Add more core Google apps to system app whitelist for applock
-• Do not hardcode system round corners with Icon Shape
-• Exempt TeleService, Bluetooth, Cneapp & ImsService from location indicators
+• Bring back drawables for statusbar icon toggles
 • Gmscompat upstream
-• Introduced color section from Pixel stock for vanilla build
-• Introduced hotspot client manager
-• Introduced icon pack for launcher3
-• Switch to los fork of chromium webview
-• Whitelist YouTube apps & recorder from PixelProp
-• Fixed an issue where floating rotation doesnt show if 2-button nav mode enabled
-• Fixed bluetooth percentage not showing on battery widget
-• Fixed emergency info crash on vanilla build
-• Fixed QS Panel glitch when changing dark/light mode from QS
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
+• Update themed icons
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
 • Fixed some NPE
 
 Device Changelog:
-• Fixed power off alarm
-• Switched to system_ext partition
-• Import device parts translation from community
+• Fixed padding issue with notch hide
+• Introduced Clear Speaker & MiSound scenes
+• Remove virtual framebuffer
