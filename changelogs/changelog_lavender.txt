@@ -6,77 +6,75 @@ Source Changelog:
 
 ||- New features
 
-• Add left padding for keyguard slices
-• Add more themed icons for both gapps/vanilla builds
-• Add more core Google apps to system app whitelist for applock
-• Do not hardcode system round corners with Icon Shape
-• Exempt TeleService, Bluetooth, Cneapp & ImsService from location indicators
+• Bring back drawables for statusbar icon toggles
 • Gmscompat upstream
-• Introduced color section from Pixel stock for vanilla build
-• Introduced hotspot client manager
-• Introduced icon pack for launcher3
-• Switch to los fork of chromium webview
-• Whitelist YouTube apps & recorder from PixelProp
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
+• Update themed icons
 
 ||- Fixed issues
 
-• Fixed an issue where floating rotation doesnt show if 2-button nav mode enabled
-• Fixed bluetooth percentage not showing on battery widget
-• Fixed emergency info crash on vanilla build
-• Fixed QS Panel glitch when changing dark/light mode from QS
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
 • Fixed some NPE
 
 
 Device Changelog:
 
-• Pick up USB configurations from QCOM
-• Bring IFAA back in tree
+• DT Clean UP;
 • Add OpenGL ES and Vulkan dEQP feature flags
 • Modify Vulkan and OpenGL version to 2020-03-01
-• Init: Drop no longer necessary libbase include dir
-• Speed profile services and wifi-service to reduce RAM and storage
-• Always preopt extracted APKs
-• Strip off some debug packages
-• Disable dexpreopt minidebuginfo
-• Use speed tuning for performance critical applications
-• Sepolicy: address surfaceflinger denials
-• Add vndservicemanager explicitly
-• Enable dex2oat64 to do dexopt
+• init: Drop no longer necessary libbase include dir
+• sepolicy: address surfaceflinger denials
 • Build all extra VNDK versions
-• Sepolicy: Allow system server to getpgid zygote
-• Overlay: Use CarrierConfig CSP boolean
+• sepolicy: Allow system server to getpgid zygote
+• overlay: Use CarrierConfig CSP boolean
 • Disable debug.sf.recomputecrop
 • Delete /data/system/package_cache after updates
-• Sepolicy: Address iorap denials
+• sepolicy: Address iorap denials
 • Don't warn user about FC in Google TTS
-• Limit screen recorder's framerate to 60fps
-• Import sf offsets from Coral android-vts-12.1_r2
-• Set the maximum WFD resolution to 1080p@30
-• Compact cached app heaps in the background
-• Allow more cached apps in the background
-• Disable remote Keygaurd animation
 • Disable Chimera.GmsIntentOperationService
-• Fix wi-fi permissions
-• Add AOSP RCS packages
 • Enable HWUI_COMPILE_FOR_PERF
-• Import brightness overlays from MIUI
-• Disable SDM Scalar
-• Revert some uneeded changes
-• Improve boot time and pull in bootanim display time
-• Delete class_main init shell script
-• Optimize package manager dexopt properties
-• Optimise dex flags
-• Update surfaceflinger props
-• Enable UI touch haptic feedback by default
-• Set the automatic brightness mode off by default
-• Disable bluetooth by default
-• Disable UI touch sounds by default
+• prop: Disable SDM Scalar
+• overlay: Enable UI touch haptic feedback by default
+• overlay: Disable bluetooth by default
+• overlay: Set the automatic brightness mode off by default
+• overlay: Disable UI touch sounds by default
 • Disable ART debug
-• Libperfmgr: Drop not supported feature
+• wifi: Disable TDLS offchannel
+• prop: Disable ahardware buffer
+• rootdir: Get back to default from long-standing VM tweaks
+• Drop unused msm_irqbalance_sdm630.conf files
+• powerhint: Tune powerhint
+• Tune dalvik heapminfree for devices with 3gb ram
+• powerhint: Correct some audio hints
+• rootdir: Force use lz4 for zram compression
+• Kill IMS logspam with fire
+• prop: Enable usage of dex2oat64
+• Configure cpusets for dex2oat
+• Switch to full dexpreopt
+• prop: Use threaded GLES render engine
+• sepolicy: Dontaudit untrusted_app to open ashmem_device
+• prop: Fix display animation while AOD on/off screen
+• Drop useless camera packages
+• powerhint: Remove schedboost in powerhint.json
+• Add kpti=off to boot command line
+• BoardConfig: set 'TARGET_COMPILE_WITH_MSM_KERNEL' to true
+• overlay: ignore RSSNR signal level
+• Enable blur related's
+• gps: Update GPS config for S
+• overlay: Unpin updatable-media from memory
+• prop: Enable Video Distribution Profile (VDP) on IMS
+• Drop deprecated overlay
 
 Notes:
 
-• Use recommended recovery (Orangefox R11.1)
+• Use recommended recovery (Orangefox Beta R12.1)
 • This is User/Enforcing release build
 • Included Nexus EAS-CAF QTI kernel
 • Found any bug? Report it with a proper logcat
