@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1655108715,
-      "size": 1044520835,
-      "filehash": "447fadb9cf138f29276253104be01a37",
-      "filename": "Awaken-2.8-Plasma-lavender-OFFICIAL-Vanilla-0827-20220613.zip",
-      "id": "7a7a5608365d72711d28c4911a393457b016a002d7c22abc1a6a653a884a80cb",
+      "datetime": 1657697892,
+      "size": 1064722222,
+      "filehash": "ff1de991bd4a29dc774c4579b82bbd05",
+      "filename": "Awaken-2.9-Aero-lavender-OFFICIAL-Vanilla-0835-20220713.zip",
+      "id": "b43142b8c3cbd319e49bff9523a1e281084aa6d4a6f9383aac1f64899f4cd4a1",
       "romtype": "OFFICIAL",
-      "version": "2.8",
-      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.8-Plasma-lavender-OFFICIAL-Vanilla-0827-20220613.zip/download"
+      "version": "2.9",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lavender/Awaken-2.9-Aero-lavender-OFFICIAL-Vanilla-0835-20220713.zip/download"
     }
   ]
 }
