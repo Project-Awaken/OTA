@@ -1,24 +1,34 @@
 ===============
-07-05-2022
+15-07-2022
 ===============
-Source Changelog:
-• Integrates the May Android security patches
-• Add call strength, vibrate & mute icon to statusbar tuner
-• Add API for runtime taskbar config on phones
-• Allow users to lock and hide system apps
-• Allow users to toggle camera/mic privacy indicator
-• Allow users to configure 0, 90, 180 and 270 degree rotation
-• Bring back battery health
-• Do not show camera indicator for Face Unlock service
-• Fetch bluetooth battery level from any device
-• Fixed issue with alarm icon
-• Fixed pixel launcher dark search bar in light theme
-• Fixed rounded corners for icon shapes
-• Fixed volume panel arrow in Viktor and Sam icon packs
-• Introduced volume key cursor control
-• Introduced CM Screen Lockscreen Pattern Security settings
-• Update caffeine qs tile icon
+Changelog:
+• Integrates the July Android security patches
+• Add left padding for keyguard slices
+• Add more themed icons for both gapps/vanilla builds
+• Add more core Google apps to system app whitelist for applock
+• Do not hardcode system round corners with Icon Shape
+• Exempt TeleService, Bluetooth, Cneapp & ImsService from location indicators
+• Gmscompat upstream
+• Introduced color section from Pixel stock for vanilla build
+• Introduced hotspot client manager
+• Introduced icon pack for launcher3
+• Switch to los fork of chromium webview
+• Whitelist YouTube apps & recorder from PixelProp
+• Bring back drawables for statusbar icon toggles
+• Gmscompat upstream
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
 • Update themed icons
-
-Device Changelog:
-• Fixed transistion animation scale to 1x
+• Fixed an issue where floating rotation doesnt show if 2-button nav mode enabled
+• Fixed bluetooth percentage not showing on battery widget
+• Fixed emergency info crash on vanilla build
+• Fixed QS Panel glitch when changing dark/light mode from QS
+• Fixed some NPE
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
+• Fixed some NPE
