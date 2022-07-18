@@ -24,18 +24,7 @@
 
 - Device Changelog:
 
-• EROFS for system, system_ext, product and vendor partitions
-• Updated StormBreaker kernel to X15 (Same as public release build)
-• Switched to TheStrechh's device tree
-• Disabled ART debug
-• Disable IOrapd
-• Set SkiaGL threaded as default renderer
-• rootdir: Set swappiness to 60
-• rootdir: Disable I/O stats
-• Enable FUSE passthrough
-• Switch zram compression algorithm to zstd
-• Fine tuned display configs by lostark13
-• HDR content no more turns the display into a yellow abomination
-• Update WiFi, GPS & Media configs
-• Add offline charging indicator
-• Switch to powersave mode when offline charging
+• Fixed auto reboots
+• Switched to Mahajan's device tree (Switched to a new dt so format is required)
+• Fixed CABC and HBM toggles
+• Tuned some stuff
