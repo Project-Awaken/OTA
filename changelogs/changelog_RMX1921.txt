@@ -1,19 +1,23 @@
 ===============
-22-06-2022
+09-08-2022
 ===============
 Source Changelog:
-• Add tunables for navbar layout
-• Add toggle for quick settings to pull down with one finger
-• Allow users to hide app from launcher
-• Bring back daily data usage in QS footer
-• Bring back Game Dashboard & Quick Tap
-• Introduced back gesture height settings
-• Introduced expanded volume panel
-• Implement burn-in protection for status/navbar
-• Update themed icons from Lawnicons
-• Fixed an issue where unlock sound played repeatedly
-• Fixed start padding for battery usage graph
-• Misc fixes and improvements
+• Bring back drawables for statusbar icon toggles
+• Gmscompat upstream
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
+• Update themed icons
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
+• Fixed some NPE
 
 Device Changelog:
-• Kernel upstreamed
+• Device tree rebased over LOs xiaomi sdm710 sources
+• Kernel rebased on RUI2 sources
+• Note: you need to flash RUI2 compatible recovery and RUI2 firmware before rom, also a data format is mandatory
+• Cleaned up RealmeParts
