@@ -1,22 +1,23 @@
 ===============
-12-07-2022
+15-08-2022
 ===============
 Source Changelog:
-• Bring back drawables for statusbar icon toggles
-• Gmscompat upstream
-• Introduced GameSpace & nuked google game dashboard
-• Introduced our own wallpapers in styles and wallpapers
-• Introduced Oppo Sans & HarmonyOS Sans fonts
-• Introduced P404 Volume Panel
-• Updated APN from LineageOS
+• Adapt Bluetooth device picker to S style
+• Add support for showing battery level for AirPods
+• Allow user configurable fingerprint wake-and-unlock
+• Allow users to ignore secure feature
+• Allow users to skip confirmation in biometric auth dialog
+• Bring back statusbar brightness control
+• Introduced some more fonts
 • Update themed icons
-• Fixed bluetooth crash with battery widget
-• Fixed issue with linked notification volume
-• Fixed QS mobile icon disappearing on theme switch
-• Fixed suspicious spaces around mobile icons
 • Fixed some NPE
+• Misc fixes and improvements
 
 Device Changelog:
-• Add F2fsRecessModeEnable
-• Fixed status bar glitch
-• Import power_profile from coral and set battery capacity to 5160mAh
+• Correct the arch_mem_timer interrupt in msm_irqbalance.conf
+• Do not balance msm_drm and kgsl-3d0 IRQs
+• Thermal settings's app list improvement
+• Display icon beside thermal profiles
+• Set a zero value for config_defaultRefreshRate
+• Use hardware/xiaomi light AIDL HAL impl
+• Update blobs from MIUI V13.0.5.0 SJUMIXM
