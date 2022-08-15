@@ -1,34 +1,44 @@
 ===============
-15-02-2022
+15-08-2022
 ===============
 Source Changelog:
-• Added option to invert navbar layout
-• Added support for repainter integration service
-• Allow maintainers to configure audio panel location
-• Allow users to toggle haptic feedback on qs tiles
-• Allow users to toggle privacy indicator
-• Bring back icon shape customization
-• Introduced Adaptive Playback
-• Introduced Game Dashboard
-• Introduced hotspot setting to allow VPN upstreams
-• Introduced one shot auto brightness
-• Introduced pixel sounds & remove aosp sounds
-• Introduced statusbar brightness control
-• Make Quick Unlock compatible with long PIN/Password
-• Avoid spoofing props for gcam and mods
-• Fixed Kai icon pack overlay for carriers using 5 bars of signal
-• Fixed some layout for ambient music ticker
-• Fixed glitchy charging info on ambient display
-• Improved QS Dataswitch, Sound & Screenshot tiles
+• Adapt Bluetooth device picker to S style
+• Add support for showing battery level for AirPods
+• Allow user configurable fingerprint wake-and-unlock
+• Allow users to ignore secure feature
+• Allow users to skip confirmation in biometric auth dialog
+• Bring back statusbar brightness control
+• Introduced some more fonts
+• Update themed icons
+• Fixed some NPE
+• Misc fixes and improvements
 
 Device Changelog:
-• Fix scrolling lag in few apps
-• Disable VSync for CPU rendered apps
-• Enable skia reduceOpsTaskSplitting
-• Fix Fingerprint Wake-up Animation
-• Fix clear speaker and Update clear speaker audio from MIUI 12
-• Enable display protected contents in SF
-• Disable TTS force stop warning for Decrypted Users
+• Update vendor stack to LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+• Update system stack to 07100 QSSI
+• Update blobs from Redmi Note 10 Pro V13.0.8.0.SKFMIXM
+• Add support for Next Gen Google Assistant
+• Increase launch boost to 5 sec
+• Display icon beside thermal profiles
+• Switch to QTI Bluetooth stack
+• Do not balance msm_drm and kgsl-3d0 IRQs
+• Uprev IRadio version to 1.5
+• Lable sepolicies for PMIC and USB related nodes
+• Extend vendor_toolbox permissions to files in persist
+• Build opensource soundtrigger HAL
+• Update WifiOverlay from sweet V13.0.8.0.SKFMIXM
+• Finetume media performance xml
+• Enable support for protected content GPU composition
+• Update GPS configs from sweet V13.0.8.0.SKFMIXM
+• Update GPS to LA.UM.9.1.r1-11200-SMxxx0.0
+• Update WIFI configs from sweet V13.0.8.0.SKFMIXM
+• Label new telephony properties
+• Thermal settings's app list improvement 
+• Set SOC manufacturer and chipset properties
+• Drop QCOM Wifi Display
+• Add gnss seccomp_policy
+• Set zramsize size to 50% of the total memory
+• Improve statusbar padding
 
 Notes:
 • This is User/Enforcing release build
