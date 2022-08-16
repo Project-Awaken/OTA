@@ -1,29 +1,28 @@
 ===============
-12-06-2022
+15-08-2022
 ===============
 Source Changelog:
-
 // New features
 
-• Bring back drawables for statusbar icon toggles
-• Gmscompat upstream
-• Introduced GameSpace & nuked google game dashboard
-• Introduced our own wallpapers in styles and wallpapers
-• Introduced Oppo Sans & HarmonyOS Sans fonts
-• Introduced P404 Volume Panel
-• Updated APN from LineageOS
+• Adapt Bluetooth device picker to S style
+• Add support for showing battery level for AirPods
+• Allow user configurable fingerprint wake-and-unlock
+• Allow users to ignore secure feature
+• Allow users to skip confirmation in biometric auth dialog
+• Bring back statusbar brightness control
+• Introduced some more fonts
 • Update themed icons
 
 // Fixed issues
 
-• Fixed bluetooth crash with battery widget
-• Fixed issue with linked notification volume
-• Fixed QS mobile icon disappearing on theme switch
-• Fixed suspicious spaces around mobile icons
 • Fixed some NPE
+• Misc fixes and improvements
 
 Device Changelog:
-• Fixed an issue where refresh rate randomly dropped to 60Hz. 
-• Fixed an issue where some OnePlus 8T users had issues with Secondary SIM
-• Fixed Broken Options inside Settings -> Display -> Colour
-• Switched to Pixel Experience Recovery by default.
+• Switch to User Build
+• Introduce OnePlus Lab 
+• Shift OnePlus Lab to Settings -> System
+• Shift Volume Panel to Left Side
+• Fixed an issue where Status bar height wasn't proper in landscape mode
+• Include Stock ARCore By Default [GAPPS BUILD ONLY]
+• Ship Next Generation Google Assistant [GAPPS BUILD ONLY]
