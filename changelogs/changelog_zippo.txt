@@ -1,33 +1,24 @@
 ===============
-10-07-2022
+16-08-2022
 ===============
 - Source changelog:
 
 // New features
 
-• Bring back drawables for statusbar icon toggles
-• Gmscompat upstream
-• Introduced GameSpace & nuked google game dashboard
-• Introduced our own wallpapers in styles and wallpapers
-• Introduced Oppo Sans & HarmonyOS Sans fonts
-• Introduced P404 Volume Panel
-• Updated APN from LineageOS
+• Adapt Bluetooth device picker to S style
+• Add support for showing battery level for AirPods
+• Allow user configurable fingerprint wake-and-unlock
+• Allow users to ignore secure feature
+• Allow users to skip confirmation in biometric auth dialog
+• Bring back statusbar brightness control
+• Introduced some more fonts
 • Update themed icons
 
 // Fixed issues
 
-• Fixed bluetooth crash with battery widget
-• Fixed issue with linked notification volume
-• Fixed QS mobile icon disappearing on theme switch
-• Fixed suspicious spaces around mobile icons
 • Fixed some NPE
+• Misc fixes and improvements
 
 - Device Changelog:
 
-• Switch back to opengl for UI rendering
-• Fix issue with blueish colors in videos in Instagram and other apps
-• Use directBootAware in parts
-• Override hwcomposer service
-• Fix SEPolicy (and stop ignoring neverallows)
-• Add translations in parts
-• Update wireguard in kernel
+• Disable QTI perf lock usage in camera HAL
