@@ -19,10 +19,4 @@ Source Changelog:
 • Misc fixes and improvements
 
 Device Changelog:
-• Switch to User Build
-• Introduce OnePlus Lab 
-• Shift OnePlus Lab to Settings -> System
-• Shift Volume Panel to Left Side
-• Fixed an issue where Status bar height wasn't proper in landscape mode
-• Include Stock ARCore By Default [GAPPS BUILD ONLY]
-• Ship Next Generation Google Assistant [GAPPS BUILD ONLY]
+• Fixed an issue where refresh rate would drop again to 60Hz. 
