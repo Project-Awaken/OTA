@@ -1,14 +1,6 @@
 ===============
-15-08-2022
+18-08-2022
 ===============
 Source Changelog:
-• Adapt Bluetooth device picker to S style
-• Add support for showing battery level for AirPods
-• Allow user configurable fingerprint wake-and-unlock
-• Allow users to ignore secure feature
-• Allow users to skip confirmation in biometric auth dialog
-• Bring back statusbar brightness control
-• Introduced some more fonts
-• Update themed icons
-• Fixed some NPE
-• Misc fixes and improvements
+• Fixed CTS issue on August patch
+• Fixed VolumeDialog background tint issue for inactive rows
