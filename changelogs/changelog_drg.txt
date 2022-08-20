@@ -1,29 +1,21 @@
 ===============
-17-07-2022
+21-08-2022
 ===============
 Source Changelog:
-• Bring back drawables for statusbar icon toggles
-• Gmscompat upstream
-• Introduced GameSpace & nuked google game dashboard
-• Introduced our own wallpapers in styles and wallpapers
-• Introduced Oppo Sans & HarmonyOS Sans fonts
-• Introduced P404 Volume Panel
-• Updated APN from LineageOS
+• Adapt Bluetooth device picker to S style
+• Add support for showing battery level for AirPods
+• Allow user configurable fingerprint wake-and-unlock
+• Allow users to ignore secure feature
+• Bring back statusbar brightness control
+• Introduced some more fonts
 • Update themed icons
 • Fixed issues:
- - Fixed bluetooth crash with battery widget
- - Fixed issue with linked notification volume
- - Fixed QS mobile icon disappearing on theme switch
- - Fixed suspicious spaces around mobile icons
  - Fixed some NPE
+ - Misc fixes and improvements
 
 Device Changelog:
-• Introducing QuicksilveR kernel
-• Fixed image rendering on some apps
-• Dropped components overwrite
-• Enabled GPU protected contents
-• Enabled Enable QCRIL radio power saving
-• Disabled IMS logspams
-• Cleaned unused and duplicate props
-• Added support for exFAT SD card
+• Updated blobs from LA.UM.9.2.r1-03500-SDMxx0.0
+• Imported post_boot script from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+• Fixed VoLTE/VoWiFi/VoIP issues
+• Disabled alpha compositing in WM
 • Various under-the-hood fixes, optimizations and improvements
