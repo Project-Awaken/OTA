@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1641056945,
-      "size": 1825823030,
-      "filehash": "9a963f9d56c50d252169f4008f4a213a",
-      "filename": "Awaken-2.2-Ares-davinci-OFFICIAL-Gapps-1710-20220101.zip",
-      "id": "525a96097e6e8bf9db790eac0e5df882440f9646758a20b17052d781a8089265",
+      "datetime": 1660994042,
+      "size": 1912840251,
+      "filehash": "b59b38e06910a41870c902b4af88038c",
+      "filename": "Awaken-2.10-Stellar-davinci-OFFICIAL-Gapps-1117-20220820.zip",
+      "id": "c3b4e8b5b3e421cc95f2f6334f3274dbf3a0591787f180bb5a168e7df81a7162",
       "romtype": "OFFICIAL",
-      "version": "2.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/davinci/Awaken-2.2-Ares-davinci-OFFICIAL-Gapps-1710-20220101.zip/download"
+      "version": "2.10",
+      "url": "https://sourceforge.net/projects/project-awaken/files/davinci/Awaken-2.10-Stellar-davinci-OFFICIAL-Gapps-1117-20220820.zip/download"
     }
   ]
 }
