@@ -1,23 +1,21 @@
 ===============
-09-08-2022
+22-08-2022
 ===============
 Source Changelog:
-• Bring back drawables for statusbar icon toggles
-• Gmscompat upstream
-• Introduced GameSpace & nuked google game dashboard
-• Introduced our own wallpapers in styles and wallpapers
-• Introduced Oppo Sans & HarmonyOS Sans fonts
-• Introduced P404 Volume Panel
-• Updated APN from LineageOS
+• Adapt Bluetooth device picker to S style
+• Add support for showing battery level for AirPods
+• Allow user configurable fingerprint wake-and-unlock
+• Allow users to ignore secure feature
+• Bring back statusbar brightness control
+• Introduced some more fonts
 • Update themed icons
-• Fixed bluetooth crash with battery widget
-• Fixed issue with linked notification volume
-• Fixed QS mobile icon disappearing on theme switch
-• Fixed suspicious spaces around mobile icons
-• Fixed some NPE
+• Fixed issues:
+ - Fixed some NPE
+ - Misc fixes and improvements
 
 Device Changelog:
-• Device tree rebased over LOs xiaomi sdm710 sources
-• Kernel rebased on RUI2 sources
+• Fixed dolby atmos crash
+• Disabled/fixed AOD auto wakeup
+• Fixed a race condition between kernel and proximityservice (improved and redone proximity logic)
 • Note: you need to flash RUI2 compatible recovery and RUI2 firmware before rom, also a data format is mandatory
 • Cleaned up RealmeParts
