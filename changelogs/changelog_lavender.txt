@@ -1,57 +1,80 @@
 ===============
-29-08-2022
+15-06-2022
 ===============
 
 Source Changelog:
 
 ||- New features
 
-• Adapt Bluetooth device picker to S style
-• Add support for showing battery level for AirPods
-• Allow user configurable fingerprint wake-and-unlock
-• Allow users to ignore secure feature
-• Allow users to skip confirmation in biometric auth dialog
-• Bring back statusbar brightness control
-• Introduced some more fonts
+• Bring back drawables for statusbar icon toggles
+• Gmscompat upstream
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
 • Update themed icons
 
 ||- Fixed issues
 
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
 • Fixed some NPE
-• Misc fixes and improvements
+
 
 Device Changelog:
 
-• Fix adoptable storage problem
+• DT Clean UP;
+• Add OpenGL ES and Vulkan dEQP feature flags
+• Modify Vulkan and OpenGL version to 2020-03-01
+• init: Drop no longer necessary libbase include dir
+• sepolicy: address surfaceflinger denials
+• Build all extra VNDK versions
+• sepolicy: Allow system server to getpgid zygote
+• overlay: Use CarrierConfig CSP boolean
+• Disable debug.sf.recomputecrop
+• Delete /data/system/package_cache after updates
+• sepolicy: Address iorap denials
+• Don't warn user about FC in Google TTS
+• Disable Chimera.GmsIntentOperationService
+• Enable HWUI_COMPILE_FOR_PERF
+• prop: Disable SDM Scalar
+• overlay: Enable UI touch haptic feedback by default
+• overlay: Disable bluetooth by default
+• overlay: Set the automatic brightness mode off by default
+• overlay: Disable UI touch sounds by default
+• Disable ART debug
+• wifi: Disable TDLS offchannel
+• prop: Disable ahardware buffer
+• rootdir: Get back to default from long-standing VM tweaks
+• Drop unused msm_irqbalance_sdm630.conf files
+• powerhint: Tune powerhint
+• Tune dalvik heapminfree for devices with 3gb ram
+• powerhint: Correct some audio hints
+• rootdir: Force use lz4 for zram compression
+• Kill IMS logspam with fire
+• prop: Enable usage of dex2oat64
+• Configure cpusets for dex2oat
+• Switch to full dexpreopt
+• prop: Use threaded GLES render engine
+• sepolicy: Dontaudit untrusted_app to open ashmem_device
+• prop: Fix display animation while AOD on/off screen
+• Drop useless camera packages
+• powerhint: Remove schedboost in powerhint.json
+• Add kpti=off to boot command line
+• BoardConfig: set 'TARGET_COMPILE_WITH_MSM_KERNEL' to true
+• overlay: ignore RSSNR signal level
+• Enable blur related's
 • gps: Update GPS config for S
 • overlay: Unpin updatable-media from memory
-• overlay: Drop deprecated overlay
-• overlay: Add support for Smart Pixels
-• Copy Modified libprocessgroup configs to vendor * Schedtune
-• Makefile: Inherit several Android Go configurations
-• Bring back vendor RenderScript implementation
-• props: Move IORapd configs to product
-• Pull QTI Thermal from LineageOS and adpat to lavender
-• DeviceSettings: Drop Thermal and Kcal configs
-• Import apn configs from lineage
-• sepolicy: Address smart charge denials
-• Add overlays/node for smart charging
-• Drop selective overlay's
-• rootdir: Allow telephony access to proc/cmdline
-• codecs: Finetune fps for hevc encoder
-• audio: Add support for ViPER4Android FX unrooted
-• overlay: Sync Navigation Bar Dimens from TPB3.220513.017.B1
-• powerhint: Drop PM QoS boosting
-• Disable client composition cache
-• init: Enable config_avoidGfxAccel for 3GB variants
-• overlay: Switch to AVC 3.1 for screen recording
-• wifi: Reduce battery drain
-• gps: Switch GPS xtra servers to xtrapath{4, 5, 6}
-• gps: Tweak gps.conf a bit more
+• prop: Enable Video Distribution Profile (VDP) on IMS
+• Drop deprecated overlay
 
 Notes:
 
-• Use recommended recovery (Last official orangefox update)
+• Use recommended recovery (Orangefox Beta R12.1)
 • This is User/Enforcing release build
 • Included Nexus EAS-CAF QTI kernel
 • Found any bug? Report it with a proper logcat
