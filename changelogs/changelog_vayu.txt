@@ -1,0 +1,23 @@
+===============
+20-09-2022
+===============
+Source Changelog:
+• Initial Android 13 Build
+• Add back increasing ring feature & incall vibration options
+• Add back SELinux info in about page
+• Add simple RGB color balance transform
+• Add support for app signature spoofing
+• Allow users to hide navbar pill & changing the length of gesture navbar
+• Enabled 2-button navigation bar
+• Introduced advanced reboot
+• Introduced brightness slider customizations & pocket mode
+• Introduced double tap to sleep on lockscreen & statusbar
+• Introduced expanded volume panel
+• Introduced three-fingers-swipe to screenshot
+
+Device Changelog:
+• Switch back to AOSP BT stack
+• Update blobs from MIUI V13.0.5.0 SJUMIXM
+• Move to common fingerprint HIDL and light AIDL
+• Use QCOM AudioFX implementation for sw effects
+• Fix wakeup nodes labels
