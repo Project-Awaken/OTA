@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1665497601,
+      "size": 1165295139,
+      "filehash": "83f460daadc263d1e76514c8ccf251fe",
+      "filename": "awaken-3.1-triton-cepheus-official-vanilla-1825-20221011.zip",
+      "id": "06e1733188beb8eefce48af90fb6b3549ef32fc32db2137cef995e350c943f3b",
+      "romtype": "official",
+      "version": "3.1",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken-3.1-triton-cepheus-official-vanilla-1825-20221011.zip/download"
+    }
+  ]
+}
