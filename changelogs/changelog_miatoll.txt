@@ -2,23 +2,29 @@
 19-09-2022
 ===============
 Source Changelog:
-• Initial Android 13 Build
-• Increasing ring feature & incall vibration options
-• SELinux info in about page
-• Added simple RGB color balance transform
-• Support for app signature spoofing
-• Immersive navigation & customisable length of gesture navbar
-• 2-button navigation bar
-• Advanced reboot
-• Brightness slider customizations & pocket mode
-• Double tap to sleep on lockscreen & statusbar
-• Expandable volume panel
-• Three-fingers-swipe to screenshot
+• Added black theme for dark mode
+• Added hotspot setting to allow VPN upstreams
+• Added partial/full screenshot QS tile
+• Allowing users to ignore secure feature
+• Allowing users to long press volume to skip track
+• Implemented cutout force full screen
+• Introduced scramble pin layout and quick unlock
+• Introduced statusbar brightness control
+• Option to show battery temp data & health on battery settings
+• Protect sensitive data on the about phone
+• Reintroducing battery styles & battery light customizations
+• Reintroducing dual tone qs
+• Reintroducing lockscreen media art
+• Update themed icons
+• Fixed issues:
+ - Fixed an issue where toast background color doesn't change
+ - Fixed fake navbar
+ - Fixed missing pixel UI sounds on gapps build
+ - Fixed some NPE
+ - Fixed AOSP WFD
+ - Misc fixes and improvements
 
 Device Changelog:
-• Initial Android 13 build
-• Updated more blobs from MIUI13.0.2.0.SJWMIXM
-• Updated system WFD blobs from LA.QSSI.13.0.r1-05800-qssi.0 
-• Updated init scripts, overlays, media configs from MIUI13.0.2.0.SJWMIXM
-• Fixed fingerprint indicator overlay location
-• Using brightness overlays from raviole
+• Fixed NFC
+• Updated init tunables
+• Imported 32 bit CamX libraries
