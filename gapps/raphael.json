@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1663766417,
-      "size": 1788861307,
-      "filehash": "d4c02dd473bbf3c2fd5deeaeec53c07c",
-      "filename": "awaken-3.0-triton-raphael-OFFICIAL-1325-20220921.zip",
-      "id": "bcbe8237d51e2438eff72f0b82a8a2e74000b5141b86e0f49477edabeae9cb99",
+      "datetime": 1665296354,
+      "size": 1873820342,
+      "filehash": "8f7a3bf0649dc7ff1397399215faf31d",
+      "filename": "awaken-3.1-triton-raphael-official-0619-20221009.zip",
+      "id": "0572061f7ee8740483cd5a2564bfbbe7ade05277edd13df76b6dc611c9764ea2",
       "romtype": "official",
-      "version": "3.0",
-      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken-3.0-triton-raphael-OFFICIAL-1325-20220921.zip/download"
+      "version": "3.1",
+      "url": "https://sourceforge.net/projects/project-awaken/files/raphael/awaken-3.1-triton-raphael-official-0619-20221009.zip/download"
     }
   ]
 }
