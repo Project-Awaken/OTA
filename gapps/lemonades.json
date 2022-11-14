@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1665733207,
-      "size": 1820563783,
-      "filehash": "1eabb938d5c01c0796f967c6a9d088dd",
-      "filename": "awaken-3.1-triton-lemonades-official-0740-20221014.zip",
-      "id": "0c1ce41cd2a18f81640e2b9c67bf5cc324c5073b6110f2b084abe48ee30e840f",
+      "datetime": 1668448580,
+      "size": 1844190933,
+      "filehash": "50712e2ad94ae8346c060ba3bd40d213",
+      "filename": "awaken-3.2-triton-lemonades-official-1756-20221114.zip",
+      "id": "bea7149aaaeff312fa79eeba5a07b15826117b060af290b5d7c04f105a5707ba",
       "romtype": "official",
-      "version": "3.1",
-      "url": "https://sourceforge.net/projects/project-awaken/files/lemonades/awaken-3.1-triton-lemonades-official-0740-20221014.zip/download"
+      "version": "3.2",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lemonades/awaken-3.2-triton-lemonades-official-1756-20221114.zip/download"
     }
   ]
 }
