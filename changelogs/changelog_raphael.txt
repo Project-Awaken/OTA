@@ -1,27 +1,30 @@
 ===============
-25-10-2022
+22-11-2022
 ===============
-Source Changelog:
-• Added black theme for dark mode
-• Added hotspot setting to allow VPN upstreams
-• Added partial/full screenshot QS tile
-• Allow users to ignore secure feature
-• Allow users to long press volume to skip track
-• Fixed an issue where toast background color doesn't change
-• Fixed fake navbar
-• Fixed missing pixel ui audio on gapps build
-• Fixed some NPE
-• Implement cutout force full screen
-• Introduced scramble pin layout and quick unlock
-• Introduced statusbar brightness control
-• Misc AOSP WFD fixes
-• Misc fixes and improvements
-• Option to show battery temp data & health on battery settings
-• Protect sensitive data on the about phone
-• Reintroducing battery styles & battery light customizations
-• Reintroducing dual tone qs
-• Reintroducing lockscreen media art
+Device Side:
+• Added Star Wars popup camera sounds
+• Fix AOD not getting updated
+• Make Faceunlock only work when swiping up on lockscreen (better for popup camera)
+• Switch to Azure Clang 15 for building kernel
+• Fixed a ton of issues under the hood
+
+Source Side:
+// New features
+• Added statusbar clock & date customization
+• Allow users to secure tiles & power menu on keyguard
+• Allow users to toggle seperate signal icons
+• Bring back screen recording options
+• Introduced AppLock & Faceunlock
+• Introduced Bluetooth dialog
+• Introduced hotspot toggle in QS internet dialog
+• Introduced Less boring heads up option
+• Introduced per-app volume
+• Reintroducing auto hide clock
+• Reintroducing Network Traffic Indicator
+• Reintroducing systemwide app hide
 • Update themed icons
 
-Device changelog:
-• Minor under the hood fixes
+// Fixed issues
+• Fixed jumping brightness slider issue
+• Fixed long press volume to skip track issue with screen off
+• Fixed unlimited google photos option missing on vanilla build
