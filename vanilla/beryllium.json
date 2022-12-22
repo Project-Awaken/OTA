@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1668427463,
-      "size": 1046060501,
-      "filehash": "6030b09bf3f6208b596f570d55105541",
-      "filename": "awaken-3.2-triton-beryllium-official-vanilla-1206-20221114.zip",
-      "id": "e67050f14a70f75d9c79c96b95f085f38a2603f7745b8f9470c0d33793aee100",
+      "datetime": 1671705299,
+      "size": 1081637991,
+      "filehash": "fcdd26cd70e83bfba7190b307e6aaf46",
+      "filename": "awaken-3.3-triton-beryllium-official-vanilla-1037-20221222.zip",
+      "id": "5329c509cc72575ded8b40128103cfb24322744d81d505f324deb22278ddc74a",
       "romtype": "official",
-      "version": "3.2",
-      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-3.2-triton-beryllium-official-vanilla-1206-20221114.zip/download"
+      "version": "3.3",
+      "url": "https://sourceforge.net/projects/project-awaken/files/beryllium/awaken-3.3-triton-beryllium-official-vanilla-1037-20221222.zip/download"
     }
   ]
 }
