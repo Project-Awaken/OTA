@@ -1,30 +1,31 @@
 ===============
-22-11-2022
+03-01-2023
 ===============
-Device Side:
-• Added Star Wars popup camera sounds
-• Fix AOD not getting updated
-• Make Faceunlock only work when swiping up on lockscreen (better for popup camera)
-• Switch to Azure Clang 15 for building kernel
-• Fixed a ton of issues under the hood
+// Device Side
+• Switches to Englezos kernel
+• Fixed call bug
+• Lots of code reworked
+• Improved battery drain
+• Worked a bit on performance
+• Removed unnecessary bits of code and cleaned up the rest
 
-Source Side:
 // New features
-• Added statusbar clock & date customization
-• Allow users to secure tiles & power menu on keyguard
-• Allow users to toggle seperate signal icons
-• Bring back screen recording options
-• Introduced AppLock & Faceunlock
-• Introduced Bluetooth dialog
-• Introduced hotspot toggle in QS internet dialog
-• Introduced Less boring heads up option
-• Introduced per-app volume
-• Reintroducing auto hide clock
-• Reintroducing Network Traffic Indicator
-• Reintroducing systemwide app hide
-• Update themed icons
+
+• Allow hiding IME button space
+• Allow hiding QS footer data usage
+• Allow toggling in-call notifications
+• Allow users to configure 0, 90, 180 and 270 degree rotation
+• Allow users to customize default notification vibration pattern
+• Enable smart actions in the clipboard overlay
+• Introduced Bluetooth & WIFI timeout feature
+• Introduced haptic feedback to tiles
+• Introduced strict standby policy
+• Reintroduced horizon light settings
+• Reintroduced increased touch sensitivity (glove mode) & high touch polling rate feature control
+• Reintroduced internet and sensor permissions
 
 // Fixed issues
-• Fixed jumping brightness slider issue
-• Fixed long press volume to skip track issue with screen off
-• Fixed unlimited google photos option missing on vanilla build
+
+• Fixed random clipboard delay in gboard
+• Fixed select on recent not working on gapps build
+• Misc fixes for aosp apps & launcher3 in vanilla build
