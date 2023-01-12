@@ -1,30 +1,20 @@
 ===============
-19-09-2022
+13-01-2023
 ===============
-Source Changelog:
-• Added black theme for dark mode
-• Added hotspot setting to allow VPN upstreams
-• Added partial/full screenshot QS tile
-• Allowing users to ignore secure feature
-• Allowing users to long press volume to skip track
-• Implemented cutout force full screen
-• Introduced scramble pin layout and quick unlock
-• Introduced statusbar brightness control
-• Option to show battery temp data & health on battery settings
-• Protect sensitive data on the about phone
-• Reintroducing battery styles & battery light customizations
-• Reintroducing dual tone qs
-• Reintroducing lockscreen media art
-• Update themed icons
+• Introducing hotspot client manager
+• Introducing split status bar icon controls for vibrate and mute
+• Added support for showing battery level for AirPods series
+• Allowing users to disable clipboard overlay
+• Allowing users to quick pull down Quick Settings with one finger
 • Fixed issues:
- - Fixed an issue where toast background color doesn't change
- - Fixed fake navbar
- - Fixed missing pixel UI sounds on gapps build
- - Fixed some NPE
- - Fixed AOSP WFD
- - Misc fixes and improvements
+ - Fixed issue where alarm icon doesn't show in Quick Settings
+ - Fixed issue with battery tint on light mode in Quick Settings
 
 Device Changelog:
-• Fixed NFC
-• Updated init tunables
-• Imported 32 bit CamX libraries
+• Updated blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 & LA.QSSI.13.0.r1-08200-qssi.0
+• Introducing NotKernel
+• Synced CPUset with sunfish
+• Enforced 24bit audio for offload playback
+• Updated thermal hal
+• Re-enabled s2idle
+• Misc under the hood optimizations
