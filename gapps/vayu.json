@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1672153702,
-      "size": 2059071867,
-      "filehash": "131ccc52effd088bd3f1823f4d512254",
-      "filename": "awaken-3.3-triton-vayu-official-1510-20221227.zip",
-      "id": "0e467d6bcfd679a049bc994f9c3b1b0018bde974e307050011dd21c26a00e672",
+      "datetime": 1673590056,
+      "size": 2066955933,
+      "filehash": "eea54b8f5b089a0b319294218676054c",
+      "filename": "awaken-3.4-triton-vayu-official-0609-20230113.zip",
+      "id": "f4bbd1e02b8ee8de18575a6c84b243719b7d1a9daa0f5a32f5f9867c75d5a180",
       "romtype": "official",
-      "version": "3.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/awaken-3.3-triton-vayu-official-1510-20221227.zip/download"
+      "version": "3.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/vayu/awaken-3.4-triton-vayu-official-0609-20230113.zip/download"
     }
   ]
 }

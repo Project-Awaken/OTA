@@ -1,24 +1,12 @@
 ===============
-28-12-2022
+13-01-2023
 ===============
 Source Changelog:
-• Allow hiding IME button space
-• Allow hiding QS footer data usage
-• Allow toggling in-call notifications
-• Allow users to configure 0, 90, 180 and 270 degree rotation
-• Allow users to customize default notification vibration pattern
-• Enable smart actions in the clipboard overlay
-• Fixed random clipboard delay in gboard
-• Fixed select on recent not working on gapps build
-• Introduced Bluetooth & WIFI timeout feature
-• Introduced haptic feedback to tiles
-• Introduced strict standby policy
-• Misc fixes for aosp apps & launcher3 in vanilla build
-• Reintroduced horizon light settings
-• Reintroduced increased touch sensitivity (glove mode) & high touch polling rate feature control
-• Reintroduced internet and sensor permissions
-
-Device Changelog:
-• Tune powerhint.json for better battery and performance
-• Switch to media codec C2
-• Other misc improvements and bug fixes
+• Introducing hotspot client manager
+• Introducing split status bar icon controls for vibrate and mute
+• Added support for showing battery level for AirPods series
+• Allowing users to disable clipboard overlay
+• Allowing users to quick pull down Quick Settings with one finger
+• Fixed issue where alarm icon doesn't show in Quick Settings
+• Fixed issue with battery tint on light mode in Quick Settings
+• Misc fixes and improvements
