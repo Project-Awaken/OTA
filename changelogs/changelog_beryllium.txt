@@ -1,11 +1,5 @@
 ===============
-08-02-2023
+09-02-2023
 ===============
-Source Changelog:
-• Fixed issue where in-call vibration options didn't show if multiple vibration intensity overlay was enabled
-• Fixed issue where smartspace animation seemed to be broken for Pixel Launcher
-• Fixed lock screen status bar was overlapping on Quick Settings (QS) panel
-• Fixed some phantom spaces were left behind on status bar clock after enabling AM/PM styles
-• Made per-app volume work with multi audio focus
-• Re-organized device info page
-• Updated SimpleDeviceConfig
+Hotfix Update:
+• Fixed cts issue
