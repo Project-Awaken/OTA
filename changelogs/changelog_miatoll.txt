@@ -1,20 +1,19 @@
 ===============
-13-01-2023
+09-02-2023
 ===============
-• Introducing hotspot client manager
-• Introducing split status bar icon controls for vibrate and mute
-• Added support for showing battery level for AirPods series
-• Allowing users to disable clipboard overlay
-• Allowing users to quick pull down Quick Settings with one finger
+• 2023 security patch
+• Made per-app volume work with multi audio focus
+• Re-organized device info page
+• Updated SimpleDeviceConfig
 • Fixed issues:
- - Fixed issue where alarm icon doesn't show in Quick Settings
- - Fixed issue with battery tint on light mode in Quick Settings
+ - Google Play integrity
+ - In-call vibration options didn't show if multiple vibration intensity overlay was enabled
+ - Smartspace animation seemed to be broken for Pixel Launcher
+ - Lock screen status bar was overlap on Quick Settings (QS) panel
+ - Some phantom spaces were left behind on status bar clock after enabling AM/PM styles
 
 Device Changelog:
-• Updated blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0 & LA.QSSI.13.0.r1-08200-qssi.0
-• Introducing NotKernel
-• Synced CPUset with sunfish
-• Enforced 24bit audio for offload playback
-• Updated thermal hal
-• Re-enabled s2idle
-• Misc under the hood optimizations
+• Faster auto-brightness ramp up
+• Updated kernel to latest CLO tag
+• Improved scheduler performance
+• Misc improvements and fixes.
