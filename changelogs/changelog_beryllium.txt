@@ -1,5 +1,11 @@
 ===============
-09-02-2023
+13-04-2023
 ===============
-Hotfix Update:
-• Fixed cts issue
+Source Changelog:
+• Do not skip fingerprint authentication for UDFPS
+• Enabled media player wave/shimmering effects
+• Fixed Pixel launcher issues for tablet mode
+• Introduced new wallpaper for triton-void release
+• Introduced UDFPS animation from NothingOS
+• Merged hidden app with applock
+• Misc fixes and improvements
