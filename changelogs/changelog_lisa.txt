@@ -1,18 +1,28 @@
 ===============
-10-02-2023
+15-04-2023
 ===============
 Source Changelog:
-• Made per-app volume work with multi audio focus
-• Re-organized device info page
-• Updated SimpleDeviceConfig
-• Fixed issue where in-call vibration options didn't show if multiple vibration intensity overlay was enabled
-• Fixed issue where smartspace animation seemed to be broken for Pixel Launcher
-• Fixed lock screen status bar was overlapping on Quick Settings (QS) panel
-• Fixed some phantom spaces were left behind on status bar clock after enabling AM/PM styles
+• Do not skip fingerprint authentication for UDFPS
+• Enabled media player wave/shimmering effects
+• Fixed Pixel launcher issues for tablet mode
+• Introduced new wallpaper for triton-void release
+• Introduced UDFPS animation from NothingOS
+• Merged hidden app with applock
+• Misc fixes and improvements
 
 Device Changelog:
-• Upstreamed kernel to 5.4.231
-• Enabled Dolby Vision in Netflix
-• Switched back to aosp display color modes
-• Enabled sd fat driver
-• Fixed safetynet issues
+• Updated blobs from miui 14.0.6
+• Updated kernel to 5.4.239
+• Use QCOM implementation for audio effects
+• Tune refresh rate props from coral
+• Enabled Multi-Gen LRU
+• Disable intrusive gms components 
+• Disable Chimera.GmsIntentOperationService
+• Disable Skia tracing by default 
+• Disable continuous transaction tracing
+• Enabled sustained performance mode
+• Enable ro.hwui.render_ahead and set it to 20 frames  
+• Hidden magisk better to prevent bank apps from detecting root
+• Fixed sepolicy denials
+• Added timeouts for wakelocks globally
+• Overall performance improvements

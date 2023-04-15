@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1675856147,
-      "size": 2136084682,
-      "filehash": "7973d8cf13fd2277ec846edb67d77d55",
-      "filename": "awaken-3.5-triton-lisa-official-0201-20230210.zip",
-      "id": "c0a97655cf17d54679d99516b26318db675776b03691480f44338e6bfec155e1",
+      "datetime": 1681474323,
+      "size": 1958187087,
+      "filehash": "b731dfd8bbedabb329f8b99e154f1aaf",
+      "filename": "awaken-3.6-triton_void-lisa-official-1425-20230415.zip",
+      "id": "3b55552dfb9f55cc619fe5913f70e5af06eb9436f410e3973a0ca51378f78085",
       "romtype": "official",
-      "version": "3.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/lisa/3.5/awaken-3.5-triton-lisa-official-0201-20230210.zip/download"
+      "version": "3.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/lisa/3.6/awaken-3.6-triton_void-lisa-official-1425-20230415.zip/download"
     }
   ]
 }
