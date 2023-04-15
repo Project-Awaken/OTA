@@ -1,4 +1,29 @@
 ===============
-19-03-2023
+15-04-2023
 ===============
-• Initial release
+Source Changelog:
+• Do not skip fingerprint authentication for UDFPS
+• Enabled media player wave/shimmering effects
+• Fixed Pixel launcher issues for tablet mode
+• Introduced new wallpaper for triton-void release
+• Introduced UDFPS animation from NothingOS
+• Merged hidden app with applock
+• Misc fixes and improvements
+
+Device Changelog:
+• Disabled intrusive gms components
+• Disabled Chimera.GmsIntentOperationService
+• Disabled Skia tracing by default
+• Disabled continuous transaction tracing
+• Enabled sustained performance mode
+• Enabled ro.hwui.render_ahead and set it to 20 frames
+• Increased speaker volume
+• Use QCOM implementation for audio effects
+• Added timeouts for wakelocks globally
+• Disabled SF backpressure
+• Imported cpusets configuration from coral
+• Enabled suspend to RAM for better idle drains
+• Use lesser time to enter sleep 
+• Reduced ntp wakeups 
+• Prevent all wakeups by eventpoll
+• Overall performance improvements
