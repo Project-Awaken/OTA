@@ -1,14 +1,11 @@
 ===============
-10-02-2023
+15-04-2023
 ===============
 Source Changelog:
-• 2023 security patch
-• Made per-app volume work with multi audio focus
-• Re-organized device info page
-• Updated SimpleDeviceConfig
-• Fixed issues:
- - Google Play integrity
- - In-call vibration options didn't show if multiple vibration intensity overlay was enabled
- - Smartspace animation seemed to be broken for Pixel Launcher
- - Lock screen status bar was overlap on Quick Settings (QS) panel
- - Some phantom spaces were left behind on status bar clock after enabling AM/PM styles
+• Do not skip fingerprint authentication for UDFPS
+• Enabled media player wave/shimmering effects
+• Fixed Pixel launcher issues for tablet mode
+• Introduced new wallpaper for triton-void release
+• Introduced UDFPS animation from NothingOS
+• Merged hidden app with applock
+• Misc fixes and improvements

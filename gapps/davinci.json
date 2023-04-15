@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1675932536,
-      "size": 1945187694,
-      "filehash": "b8ab7dceaa2b25e71a6db6c0839c87ed",
-      "filename": "awaken-3.5-triton-davinci-official-0849-20230209.zip",
-      "id": "20d56785633dfd45f9ee5cc70f179c6a90d707945a19cb2826b40c6d6922be4e",
+      "datetime": 1681541357,
+      "size": 2137697767,
+      "filehash": "7001b36c671f745042e74b5fdb24a561",
+      "filename": "awaken-3.6-triton_void-davinci-official-0650-20230415.zip",
+      "id": "289d69ace3086e1cf0d8a91eafdbf68b1481caad56b1041fd4670f804cf0c8f7",
       "romtype": "official",
-      "version": "3.5",
-      "url": "https://sourceforge.net/projects/project-awaken/files/davinci/awaken-3.5-triton-davinci-official-0849-20230209.zip/download"
+      "version": "3.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/davinci/awaken-3.6-triton_void-davinci-official-0650-20230415.zip/download"
     }
   ]
 }
