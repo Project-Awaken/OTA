@@ -1,11 +1,16 @@
 ===============
-10-02-2023
+13-04-2023
 ===============
 Source Changelog:
-• Made per-app volume work with multi audio focus
-• Re-organized device info page
-• Updated SimpleDeviceConfig
-• Fixed issue where in-call vibration options didn't show if multiple vibration intensity overlay was enabled
-• Fixed issue where smartspace animation seemed to be broken for Pixel Launcher
-• Fixed lock screen status bar was overlapping on Quick Settings (QS) panel
-• Fixed some phantom spaces were left behind on status bar clock after enabling AM/PM styles
+• Do not skip fingerprint authentication for UDFPS
+• Enabled media player wave/shimmering effects
+• Fixed Pixel launcher issues for tablet mode
+• Introduced new wallpaper for triton-void release
+• Introduced UDFPS animation from NothingOS
+• Merged hidden app with applock
+• Misc fixes and improvements
+
+Device Changelog:
+• Update blobs from LA.UM.9.1.r1-12900-SMxxx0.0
+• Update GPS from LA.UM.9.1.r1-12900-SMxxx0.0
+• Fix LCD HBM and CABC
