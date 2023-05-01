@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1671965014,
-      "size": 1916474270,
-      "filehash": "dc420bcc2039ee7627879ca29481b13d",
-      "filename": "awaken-3.3-triton-cepheus-official-1047-20221225.zip",
-      "id": "73eabe17a30bf570d8ce3546cbf6b1c1b06a6cdaa69fc7a09eb5503984155e29",
+      "datetime": 1682841493,
+      "size": 2024810016,
+      "filehash": "dbf955c5bd7b43a6cf40cd9f5ee012cd",
+      "filename": "awaken-3.6-triton_void-cepheus-official-0919-20230501.zip",
+      "id": "272e53421fd3fce651e77ae0c9bd4a636d6f35e81c4987d9ff545254c1eeca3f",
       "romtype": "official",
-      "version": "3.3",
-      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken-3.3-triton-cepheus-official-1047-20221225.zip/download"
+      "version": "3.6",
+      "url": "https://sourceforge.net/projects/project-awaken/files/cepheus/awaken-3.6-triton_void-cepheus-official-0919-20230501.zip/download"
     }
   ]
 }
