@@ -1,25 +1,17 @@
 ===============
-24-12-2022
+01-05-2023
 ===============
 Source Changelog:
-• Allow hiding IME button space
-• Allow hiding QS footer data usage
-• Allow toggling in-call notifications
-• Allow users to configure 0, 90, 180 and 270 degree rotation
-• Allow users to customize default notification vibration pattern
-• Enable smart actions in the clipboard overlay
-• Fixed random clipboard delay in gboard
-• Fixed select on recent not working on gapps build
-• Introduced Bluetooth & WIFI timeout feature
-• Introduced haptic feedback to tiles
-• Introduced strict standby policy
-• Misc fixes for aosp apps & launcher3 in vanilla build
-• Reintroduced horizon light settings
-• Reintroduced increased touch sensitivity (glove mode) & high touch polling rate feature control
-• Reintroduced internet and sensor permissions
+• Do not skip fingerprint authentication for UDFPS
+• Enabled media player wave/shimmering effects
+• Fixed Pixel launcher issues for tablet mode
+• Introduced new wallpaper for triton-void release
+• Introduced UDFPS animation from NothingOS
+• Merged hidden app with applock
+• Misc fixes and improvements
 
 Device Changelog:
-• some work on sepolicy
-• updated media
-• Kernel upstreamed to 4.14.300
+• bring back screen off udfps
+• Kernel upstreamed to 4.14.311
 • some more improvement on power savings and thermal side
+• Overall performance improvements
