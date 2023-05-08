@@ -1,11 +1,8 @@
 ===============
-13-04-2023
+08-05-2023
 ===============
 Source Changelog:
-• Do not skip fingerprint authentication for UDFPS
-• Enabled media player wave/shimmering effects
-• Fixed Pixel launcher issues for tablet mode
-• Introduced new wallpaper for triton-void release
-• Introduced UDFPS animation from NothingOS
-• Merged hidden app with applock
-• Misc fixes and improvements
+• Add support for unlinked ring and notification streams in Volume Dialog
+• Fixed an issue where power button doesn't works on ambient display when quick torch is on
+• Introduced power off alarm service
+• Update pocket mode style to latest OOS
