@@ -1,28 +1,19 @@
 ===============
-15-04-2023
+11-05-2023
 ===============
 Source Changelog:
-• Do not skip fingerprint authentication for UDFPS
-• Enabled media player wave/shimmering effects
-• Fixed Pixel launcher issues for tablet mode
-• Introduced new wallpaper for triton-void release
-• Introduced UDFPS animation from NothingOS
-• Merged hidden app with applock
-• Misc fixes and improvements
+• Add support for unlinked ring and notification streams in Volume Dialog
+• Fixed an issue where power button doesn't works on ambient display when quick torch is on
+• Introduced power off alarm service
+• Update pocket mode style to latest OOS
 
 Device Changelog:
-• Updated blobs from miui 14.0.6
-• Updated kernel to 5.4.239
-• Use QCOM implementation for audio effects
-• Tune refresh rate props from coral
-• Enabled Multi-Gen LRU
-• Disable intrusive gms components 
-• Disable Chimera.GmsIntentOperationService
-• Disable Skia tracing by default 
-• Disable continuous transaction tracing
-• Enabled sustained performance mode
-• Enable ro.hwui.render_ahead and set it to 20 frames  
-• Hidden magisk better to prevent bank apps from detecting root
-• Fixed sepolicy denials
-• Added timeouts for wakelocks globally
+• Merged 5.4.242 tag in kernel
+• Fixed kernel issue of cpu cores not going to sleep
+• Fixed issues with memory management
+• Fixed ViLTE
+• Merged latest CLO tag "LA.UM.9.16.r1-13100-MANNAR.QSSI13.0" in kernel
+• Updated display blobs from Sony Xperia 1 III
+• Updated HDR blobs from tundra
+• Idle drain improvements
 • Overall performance improvements
