@@ -1,29 +1,19 @@
 ===============
-15-04-2023
+11-05-2023
 ===============
 Source Changelog:
-• Do not skip fingerprint authentication for UDFPS
-• Enabled media player wave/shimmering effects
-• Fixed Pixel launcher issues for tablet mode
-• Introduced new wallpaper for triton-void release
-• Introduced UDFPS animation from NothingOS
-• Merged hidden app with applock
-• Misc fixes and improvements
+• Add support for unlinked ring and notification streams in Volume Dialog
+• Fixed an issue where power button doesn't works on ambient display when quick torch is on
+• Introduced power off alarm service
+• Update pocket mode style to latest OOS
 
 Device Changelog:
-• Disabled intrusive gms components
-• Disabled Chimera.GmsIntentOperationService
-• Disabled Skia tracing by default
-• Disabled continuous transaction tracing
-• Enabled sustained performance mode
-• Enabled ro.hwui.render_ahead and set it to 20 frames
-• Increased speaker volume
-• Use QCOM implementation for audio effects
-• Added timeouts for wakelocks globally
-• Disabled SF backpressure
-• Imported cpusets configuration from coral
-• Enabled suspend to RAM for better idle drains
-• Use lesser time to enter sleep 
-• Reduced ntp wakeups 
-• Prevent all wakeups by eventpoll
+• Fixed screen cast issues 
+• Disabled HDR and WCG mode
+• Fixed speaker loudness issues
+• Switched to AOSP surfaceflinger for more smoothness
+• Added support for per app thermal profiles
+• Added support for Dirac
+• Fixed some sepolicy denials
+• Idle drain improvements
 • Overall performance improvements

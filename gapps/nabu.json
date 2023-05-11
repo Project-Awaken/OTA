@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1681562313,
-      "size": 1877333243,
-      "filehash": "5a98f6d4bd3b1df653328f3efb463ee0",
-      "filename": "awaken-3.6-triton_void-nabu-official-1500-20230415.zip",
-      "id": "27eed3f82bee2225d6144010d39b19fbda3ce9af4b0764aa8c06f41d6359e8a2",
+      "datetime": 1683570882,
+      "size": 1877336462,
+      "filehash": "aae721736289b1f313d501675a47c3b8",
+      "filename": "awaken-3.7-triton_void-nabu-official-1655-20230511.zip",
+      "id": "b604abcbb23bebb98df0522c27fafbed39b2b23794c7f2c3f780dafe32796f30",
       "romtype": "official",
-      "version": "3.6",
-      "url": "https://sourceforge.net/projects/project-awaken/files/nabu/3.6/awaken-3.6-triton_void-nabu-official-1500-20230415.zip/download"
+      "version": "3.7",
+      "url": "https://sourceforge.net/projects/project-awaken/files/nabu/3.7/awaken-3.7-triton_void-nabu-official-1655-20230511.zip/download"
     }
   ]
 }
