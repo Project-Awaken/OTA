@@ -17,3 +17,9 @@ Device Changelog:
 • Updated HDR blobs from tundra
 • Idle drain improvements
 • Overall performance improvements
+
+===============
+12-05-2023
+===============
+Device Changelog:
+• Fixed MIUI Camera fc
