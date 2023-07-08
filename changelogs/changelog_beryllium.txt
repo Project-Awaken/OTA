@@ -1,8 +1,13 @@
 ===============
-08-05-2023
+08-07-2023
 ===============
 Source Changelog:
-• Add support for unlinked ring and notification streams in Volume Dialog
-• Fixed an issue where power button doesn't works on ambient display when quick torch is on
-• Introduced power off alarm service
-• Update pocket mode style to latest OOS
+• Added option for users to separate ring & notification sound streams
+• Enabled and tuned split notification shade
+• Enabled few feature flags
+• Fixed an issue where few system icons failed to refresh on theme change
+• Fixed some NPE
+• Introduced smart 5G service
+• Introduced statusbar NFC icon
+• Moved Vo5G toggle right below VoLTE
+• Un-spoofed GMS while adding Google account
