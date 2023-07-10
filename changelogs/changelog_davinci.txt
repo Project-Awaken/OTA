@@ -1,11 +1,17 @@
 ===============
-15-04-2023
+10-07-2023
 ===============
 Source Changelog:
-• Do not skip fingerprint authentication for UDFPS
-• Enabled media player wave/shimmering effects
-• Fixed Pixel launcher issues for tablet mode
-• Introduced new wallpaper for triton-void release
-• Introduced UDFPS animation from NothingOS
-• Merged hidden app with applock
-• Misc fixes and improvements
+• Added option for users to separate ring & notification sound streams
+• Enabled and tuned split notification shade
+• Enabled few feature flags
+• Fixed an issue where few system icons failed to refresh on theme change
+• Fixed some NPE
+• Introduced smart 5G service
+• Introduced statusbar NFC icon
+• Moved Vo5G toggle right below VoLTE
+• Un-spoofed GMS while adding Google account
+
+Device Changelog:
+• Switched to FBEv2 (Clean flash needed)
+• Misc changes and improvements
