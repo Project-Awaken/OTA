@@ -1,4 +1,10 @@
 ===============
-11-07-2023
+01-08-2023
 ===============
-• Initial release
+• Fixed USB C Audio
+• Updated blobs from RMX3312_11_C.15
+• C15 firmware is included with rom
+• Relaxed refresh rate switching to avoid colour shift
+• Fixed aliasing around cutout and rounded corners
+• Fixed Ambient EQ not working
+• Many more improvements, check https://github.com/Ad1tyaS1ngh/device_realme_porsche/commits/T if curious
