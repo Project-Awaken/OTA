@@ -1,13 +1,9 @@
 ===============
-08-07-2023
+19-08-2023
 ===============
 Source Changelog:
-• Added option for users to separate ring & notification sound streams
-• Enabled and tuned split notification shade
-• Enabled few feature flags
-• Fixed an issue where few system icons failed to refresh on theme change
-• Fixed some NPE
-• Introduced smart 5G service
-• Introduced statusbar NFC icon
-• Moved Vo5G toggle right below VoLTE
-• Un-spoofed GMS while adding Google account
+• Bring back features that were missed in new security and privacy UI
+• Fixed an issue where Bluetooth icon didn't hide when disabled from tuner
+• Fixed an issue where LS shortcut was force closing while accessing from lock screen settings
+• Fixed app lock allow biometric toggle being ignored
+• Fixed back gesture haptic toggle was not working
