@@ -1,0 +1,13 @@
+===============
+20-08-2023
+===============
+Source Changelog:
+• Bring back features that were missed in new security and privacy UI
+• Fixed an issue where Bluetooth icon didn't hide when disabled from tuner
+• Fixed an issue where LS shortcut was force closing while accessing from lock screen settings
+• Fixed app lock allow biometric toggle being ignored
+• Fixed back gesture haptic toggle was not working
+
+Device Changelog:
+• Initial release
+
