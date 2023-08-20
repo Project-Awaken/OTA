@@ -1,25 +1,20 @@
 ===============
-11-05-2023
+20-08-2023
 ===============
 Source Changelog:
-• Add support for unlinked ring and notification streams in Volume Dialog
-• Fixed an issue where power button doesn't works on ambient display when quick torch is on
-• Introduced power off alarm service
-• Update pocket mode style to latest OOS
+• Bring back features that were missed in new security and privacy UI
+• Fixed an issue where Bluetooth icon didn't hide when disabled from tuner
+• Fixed an issue where LS shortcut was force closing while accessing from lock screen settings
+• Fixed app lock allow biometric toggle being ignored
+• Fixed back gesture haptic toggle was not working
 
 Device Changelog:
-• Merged 5.4.242 tag in kernel
-• Fixed kernel issue of cpu cores not going to sleep
-• Fixed issues with memory management
-• Fixed ViLTE
-• Merged latest CLO tag "LA.UM.9.16.r1-13100-MANNAR.QSSI13.0" in kernel
-• Updated display blobs from Sony Xperia 1 III
-• Updated HDR blobs from tundra
+• Added miui cam prebuilt
+• Fixed SlowMo & Night mode in Miui Camera
+• Fixed 4k 60fps HDR Video Playback 
+• Merged 5.4.254 tag in kernel
+• Merged latest CLO tag LA.UM.9.14.r1-22000-LAHAINA.QSSI12.0 in kernel
+• Added DC Dimming for Tianma Panels (CSOT soon)
+• Adjusted AOD brightness
 • Idle drain improvements
 • Overall performance improvements
-
-===============
-12-05-2023
-===============
-Device Changelog:
-• Fixed MIUI Camera fc
