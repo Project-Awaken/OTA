@@ -1,19 +1,27 @@
 ===============
-11-05-2023
+04-09-2023
 ===============
-Source Changelog:
-• Add support for unlinked ring and notification streams in Volume Dialog
-• Fixed an issue where power button doesn't works on ambient display when quick torch is on
-• Introduced power off alarm service
-• Update pocket mode style to latest OOS
-
 Device Changelog:
-• Fixed screen cast issues 
-• Disabled HDR and WCG mode
-• Fixed speaker loudness issues
-• Switched to AOSP surfaceflinger for more smoothness
-• Added support for per app thermal profiles
-• Added support for Dirac
-• Fixed some sepolicy denials
-• Idle drain improvements
-• Overall performance improvements
+• Spoofing GMS components as Pixel Tab
+• Updated GMS stack from Pixel Tab
+• Implemented HubUI(Screensavers) from Pixel Tab
+• Updated Graphics stack
+• Change foreground cpuset configuration
+• Imported perf stack from latest miui
+• Switched to QTI powerhal
+• Increased Mic gain
+• Tuned zram performance
+• Add the noatime for read-only ext4 partitions
+• Set max AOD refresh rate to 60 to save battery
+• Set max visible notification icons
+• Disabled ART debug and optimize dexpreopt
+• Set correct resolution according to panel
+• Optimized package manager dexopt properties
+• Optimized Dex flags
+• Updated SurfaceFlinger offsets from taro
+• Switched to CAF surfaceflinger
+• Removed  redundant blobs/apps/services that our device won't use
+• Use QCOM implementation for audio effects
+• Enabled surround virtualizer by default for Music profile with headphones
+• Updated vulkan and opengl XML files for dEQP feature flags
+• Lot of Miscellaneous Improvements
