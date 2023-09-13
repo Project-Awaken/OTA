@@ -1,27 +1,26 @@
 ===============
-04-09-2023
+13-09-2023
 ===============
 Device Changelog:
-• Spoofing GMS components as Pixel Tab
-• Updated GMS stack from Pixel Tab
-• Implemented HubUI(Screensavers) from Pixel Tab
-• Updated Graphics stack
-• Change foreground cpuset configuration
-• Imported perf stack from latest miui
-• Switched to QTI powerhal
-• Increased Mic gain
-• Tuned zram performance
-• Add the noatime for read-only ext4 partitions
-• Set max AOD refresh rate to 60 to save battery
-• Set max visible notification icons
-• Disabled ART debug and optimize dexpreopt
-• Set correct resolution according to panel
-• Optimized package manager dexopt properties
-• Optimized Dex flags
-• Updated SurfaceFlinger offsets from taro
-• Switched to CAF surfaceflinger
-• Removed  redundant blobs/apps/services that our device won't use
-• Use QCOM implementation for audio effects
-• Enabled surround virtualizer by default for Music profile with headphones
-• Updated vulkan and opengl XML files for dEQP feature flags
-• Lot of Miscellaneous Improvements
+• Fixed AOSP recovery
+• Switched to CosmicFresh kernel
+• Upstreamed kernel to 4.14.325
+• Merged latest CLO tag LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0 in kernel
+• Building kernel with latest clang 17.0.4
+• Enabled FUSE passthrough by default
+• Fixed mismatched gaming thermal
+• Tuned artwork
+• Fixed and enabled HDR and WCG playback
+• Added Refresh rate Quick Settings tile
+• Added Per app refresh rate settings 
+• Imported Thermal Client from stock
+• Updated Surface flinger props
+• Fixed deepsleep issue
+• Miscellaneous fixes
+
+Tablet Specific Source Changelog:
+• Enabled New QS Panel clock layout (Like in smartphones)
+• Improved QS Panel layout for tablets
+• Fixed QS Panel theme while using light theme in lockscreen
+
+Note: Custom recoveries are not supported anymore with default kernel.
