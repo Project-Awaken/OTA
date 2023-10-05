@@ -1,26 +1,16 @@
 ===============
-13-09-2023
+05-10-2023
 ===============
-Device Changelog:
-• Fixed AOSP recovery
-• Switched to CosmicFresh kernel
-• Upstreamed kernel to 4.14.325
-• Merged latest CLO tag LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0 in kernel
-• Building kernel with latest clang 17.0.4
-• Enabled FUSE passthrough by default
-• Fixed mismatched gaming thermal
-• Tuned artwork
-• Fixed and enabled HDR and WCG playback
-• Added Refresh rate Quick Settings tile
-• Added Per app refresh rate settings 
-• Imported Thermal Client from stock
-• Updated Surface flinger props
-• Fixed deepsleep issue
-• Miscellaneous fixes
-
-Tablet Specific Source Changelog:
-• Enabled New QS Panel clock layout (Like in smartphones)
-• Improved QS Panel layout for tablets
-• Fixed QS Panel theme while using light theme in lockscreen
+Changelog:
+• October Security patch merged
+• Added Desktop mode
+• Enable floating windows by default
+• Added boostframework
+• Updated blobs from latest global miui (v14.0.6)
+• Updated gms stack from Pixel Tab September OTA
+• Upstreamed kernel to 4.14.326
+• Tuned zram configuration
+• Enabled zram writeback
+• And lot more!
 
 Note: Custom recoveries are not supported anymore with default kernel.
