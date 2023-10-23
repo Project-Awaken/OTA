@@ -1,17 +1,6 @@
 ===============
-01-05-2023
+23-10-2023
 ===============
-Source Changelog:
-• Do not skip fingerprint authentication for UDFPS
-• Enabled media player wave/shimmering effects
-• Fixed Pixel launcher issues for tablet mode
-• Introduced new wallpaper for triton-void release
-• Introduced UDFPS animation from NothingOS
-• Merged hidden app with applock
-• Misc fixes and improvements
-
-Device Changelog:
-• bring back screen off udfps
-• Kernel upstreamed to 4.14.311
-• some more improvement on power savings and thermal side
-• Overall performance improvements
+Changelog:
+• October Security patch merged
+• LAST A13 update -- EOL
